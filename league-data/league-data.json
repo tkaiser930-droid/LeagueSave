@@ -2585,7 +2585,25 @@
         "name": "Team Two",
         "owner": "The Grand  Inquisitor",
         "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
-        "roster": []
+        "roster": [
+          {
+            "id": "263d6d6c-e829-4d79-b2ee-61431e559154",
+            "name": "Ken Roczen",
+            "number": "1",
+            "class": "450",
+            "raceTeam": "PMG Suzuki",
+            "manufacturer": "Suzuki",
+            "nationality": "DE",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": false,
+            "nationalityRegion": "DE-TH",
+            "primarySeries": "450",
+            "secondarySeries": [],
+            "reigningTripleCrownChampion": false,
+            "seriesArchived": false
+          }
+        ]
       },
       {
         "key": "team-3",
@@ -4029,12 +4047,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794696132149,
+    "kaiserFantasyTeams": 1794700201547,
     "kaiserFantasyTrades": 1794108000977,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794698568373
+  "savedAt": 1794700201580
 }
