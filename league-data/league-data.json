@@ -2580,23 +2580,6 @@
         "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
         "roster": [
           {
-            "id": "263d6d6c-e829-4d79-b2ee-61431e559154",
-            "name": "Ken Roczen",
-            "number": "1",
-            "class": "450",
-            "raceTeam": "PMG Suzuki",
-            "manufacturer": "Suzuki",
-            "nationality": "DE",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "DE-TH",
-            "primarySeries": "450",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          },
-          {
             "id": "8d55112e-507c-4014-bb7d-b11475030239",
             "name": "Maxime Renaux",
             "number": "959",
@@ -4091,12 +4074,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794700575609,
+    "kaiserFantasyTeams": 1794700585415,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794700575664
+  "savedAt": 1794700585469
 }
