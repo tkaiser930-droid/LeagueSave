@@ -2622,23 +2622,6 @@
         "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
         "roster": [
           {
-            "id": "c5418e6a-fd55-4408-b718-c086ce0cbc1e",
-            "name": "Chase Sexrton",
-            "number": "4",
-            "class": "450",
-            "raceTeam": "Quadlock Honda",
-            "manufacturer": "Honda",
-            "nationality": "US",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "US-IL",
-            "primarySeries": "450",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          },
-          {
             "id": "6e9dfffe-858d-48e8-b7ae-610ae36fa1eb",
             "name": "Dylan Wright",
             "number": "9",
@@ -4128,12 +4111,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794700497797,
+    "kaiserFantasyTeams": 1794700573160,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794700497974
+  "savedAt": 1794700573211
 }
