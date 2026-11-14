@@ -2568,7 +2568,8 @@
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
+        "reigningWorldChampion": false,
+        "seriesArchived": false
       }
     ],
     "kaiserFantasyTeams": [
@@ -4027,9 +4028,9 @@
     "kaiserFantasyTeams": 1794688208230,
     "kaiserFantasyTrades": 1794108000977,
     "kaiserFantasyDraftSettings": 1794188906109,
-    "kaiserFantasyAthletes": 1794695256715,
+    "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794695256948
+  "savedAt": 1794695269639
 }
