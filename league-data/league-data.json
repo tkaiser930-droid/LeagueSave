@@ -2553,6 +2553,22 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "2c1c2015-e933-49b5-aee4-83374809a742",
+        "name": "Jago Geerts",
+        "number": "93",
+        "class": "MXGP",
+        "primarySeries": "MXGP",
+        "secondarySeries": [],
+        "raceTeam": "Team Honda Motoblouz SR Motul",
+        "manufacturer": "Honda",
+        "nationality": "BE",
+        "nationalityRegion": "BE-VAN",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [
@@ -4011,9 +4027,9 @@
     "kaiserFantasyTeams": 1794688208230,
     "kaiserFantasyTrades": 1794108000977,
     "kaiserFantasyDraftSettings": 1794188906109,
-    "kaiserFantasyAthletes": 1794688208230,
+    "kaiserFantasyAthletes": 1794695256715,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794694751046
+  "savedAt": 1794695256948
 }
