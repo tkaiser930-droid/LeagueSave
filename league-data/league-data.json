@@ -1807,7 +1807,7 @@
       {
         "id": "263d6d6c-e829-4d79-b2ee-61431e559154",
         "name": "Ken Roczen",
-        "number": "1",
+        "number": "94",
         "class": "450",
         "raceTeam": "PMG Suzuki",
         "manufacturer": "Suzuki",
@@ -4056,12 +4056,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794700587853,
+    "kaiserFantasyTeams": 1794700678634,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
-    "kaiserFantasyAthletes": 1794695269605,
+    "kaiserFantasyAthletes": 1794700678633,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794700587886
+  "savedAt": 1794700678843
 }
