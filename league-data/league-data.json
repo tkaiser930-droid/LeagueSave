@@ -2620,27 +2620,7 @@
         "name": "Team Two",
         "owner": "The Grand  Inquisitor",
         "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
-        "roster": [
-          {
-            "id": "6e9dfffe-858d-48e8-b7ae-610ae36fa1eb",
-            "name": "Dylan Wright",
-            "number": "9",
-            "class": "CAN 450",
-            "primarySeries": "CAN 450",
-            "secondarySeries": [
-              "450"
-            ],
-            "raceTeam": "GDR Honda",
-            "manufacturer": "Honda",
-            "nationality": "CA",
-            "nationalityRegion": "CA-ON",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "reigningTripleCrownChampion": true,
-            "seriesArchived": false
-          }
-        ]
+        "roster": []
       },
       {
         "key": "team-3",
@@ -4111,12 +4091,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794700573160,
+    "kaiserFantasyTeams": 1794700575609,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794700573211
+  "savedAt": 1794700575664
 }
