@@ -2638,7 +2638,7 @@
           "team-2",
           "team-3"
         ],
-        "scheduledStart": "2026-11-09T17:00"
+        "scheduledStart": "2027-03-11T17:00"
       },
       "seriesTrimVersion": 4
     },
@@ -4027,10 +4027,10 @@
     "kaiserFantasyScores": 1794188238128,
     "kaiserFantasyTeams": 1794696132149,
     "kaiserFantasyTrades": 1794108000977,
-    "kaiserFantasyDraftSettings": 1794698448602,
+    "kaiserFantasyDraftSettings": 1794698500450,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794698448715
+  "savedAt": 1794698500560
 }
