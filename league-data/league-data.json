@@ -2595,6 +2595,25 @@
             "secondarySeries": [],
             "reigningTripleCrownChampion": false,
             "seriesArchived": false
+          },
+          {
+            "id": "6e9dfffe-858d-48e8-b7ae-610ae36fa1eb",
+            "name": "Dylan Wright",
+            "number": "9",
+            "class": "CAN 450",
+            "primarySeries": "CAN 450",
+            "secondarySeries": [
+              "450"
+            ],
+            "raceTeam": "GDR Honda",
+            "manufacturer": "Honda",
+            "nationality": "CA",
+            "nationalityRegion": "CA-ON",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": false,
+            "reigningTripleCrownChampion": true,
+            "seriesArchived": false
           }
         ]
       },
@@ -4082,12 +4101,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794700265773,
+    "kaiserFantasyTeams": 1794700269428,
     "kaiserFantasyTrades": 1794108000977,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794700265856
+  "savedAt": 1794700269467
 }
