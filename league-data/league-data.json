@@ -2585,25 +2585,7 @@
         "name": "Team Two",
         "owner": "The Grand  Inquisitor",
         "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
-        "roster": [
-          {
-            "id": "92e40871-94d4-45bb-abb6-0bb7ca967951",
-            "name": "Cole Davies",
-            "number": "1E",
-            "class": "250",
-            "raceTeam": "Monster Energy Star Racing Yamaha",
-            "manufacturer": "Yamaha",
-            "nationality": "NZ",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "NZ-AUK",
-            "primarySeries": "250",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          }
-        ]
+        "roster": []
       },
       {
         "key": "team-3",
@@ -4043,12 +4025,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794696038337,
+    "kaiserFantasyTeams": 1794696132149,
     "kaiserFantasyTrades": 1794108000977,
     "kaiserFantasyDraftSettings": 1794188906109,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794696038381
+  "savedAt": 1794696132321
 }
