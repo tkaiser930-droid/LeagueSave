@@ -2580,6 +2580,48 @@
         "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
         "roster": [
           {
+            "id": "263d6d6c-e829-4d79-b2ee-61431e559154",
+            "name": "Ken Roczen",
+            "number": "1",
+            "class": "450",
+            "raceTeam": "PMG Suzuki",
+            "manufacturer": "Suzuki",
+            "nationality": "DE",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": false,
+            "nationalityRegion": "DE-TH",
+            "primarySeries": "450",
+            "secondarySeries": [],
+            "reigningTripleCrownChampion": false,
+            "seriesArchived": false
+          },
+          {
+            "id": "8d55112e-507c-4014-bb7d-b11475030239",
+            "name": "Maxime Renaux",
+            "number": "959",
+            "class": "MXGP",
+            "raceTeam": "Red Bull KTM Factory Racing",
+            "manufacturer": "KTM",
+            "nationality": "FR",
+            "nationalityRegion": "FR-GES",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": false,
+            "primarySeries": "MXGP",
+            "secondarySeries": [],
+            "reigningTripleCrownChampion": false,
+            "seriesArchived": false
+          }
+        ]
+      },
+      {
+        "key": "team-2",
+        "name": "Team Two",
+        "owner": "The Grand  Inquisitor",
+        "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
+        "roster": [
+          {
             "id": "c5418e6a-fd55-4408-b718-c086ce0cbc1e",
             "name": "Chase Sexrton",
             "number": "4",
@@ -2613,48 +2655,6 @@
             "reigningSMXChampion": false,
             "reigningWorldChampion": false,
             "reigningTripleCrownChampion": true,
-            "seriesArchived": false
-          }
-        ]
-      },
-      {
-        "key": "team-2",
-        "name": "Team Two",
-        "owner": "The Grand  Inquisitor",
-        "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
-        "roster": [
-          {
-            "id": "263d6d6c-e829-4d79-b2ee-61431e559154",
-            "name": "Ken Roczen",
-            "number": "1",
-            "class": "450",
-            "raceTeam": "PMG Suzuki",
-            "manufacturer": "Suzuki",
-            "nationality": "DE",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "DE-TH",
-            "primarySeries": "450",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          },
-          {
-            "id": "8d55112e-507c-4014-bb7d-b11475030239",
-            "name": "Maxime Renaux",
-            "number": "959",
-            "class": "MXGP",
-            "raceTeam": "Red Bull KTM Factory Racing",
-            "manufacturer": "KTM",
-            "nationality": "FR",
-            "nationalityRegion": "FR-GES",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "primarySeries": "MXGP",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
             "seriesArchived": false
           }
         ]
@@ -2706,7 +2706,7 @@
           "Maxime Renaux"
         ],
         "note": "",
-        "status": "Pending",
+        "status": "Accepted",
         "createdAt": "2026-11-14T23:51:34.009Z"
       }
     ],
@@ -4128,12 +4128,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794700269428,
-    "kaiserFantasyTrades": 1794700294009,
+    "kaiserFantasyTeams": 1794700497797,
+    "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794700294036
+  "savedAt": 1794700497974
 }
