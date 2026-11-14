@@ -2578,25 +2578,7 @@
         "name": "Team One",
         "owner": "The King",
         "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-        "roster": [
-          {
-            "id": "8d55112e-507c-4014-bb7d-b11475030239",
-            "name": "Maxime Renaux",
-            "number": "959",
-            "class": "MXGP",
-            "raceTeam": "Red Bull KTM Factory Racing",
-            "manufacturer": "KTM",
-            "nationality": "FR",
-            "nationalityRegion": "FR-GES",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "primarySeries": "MXGP",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          }
-        ]
+        "roster": []
       },
       {
         "key": "team-2",
@@ -4074,12 +4056,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794700585415,
+    "kaiserFantasyTeams": 1794700587853,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794700585469
+  "savedAt": 1794700587886
 }
