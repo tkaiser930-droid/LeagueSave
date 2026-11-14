@@ -2640,7 +2640,11 @@
         ],
         "scheduledStart": "2027-03-11T17:00"
       },
-      "seriesTrimVersion": 4
+      "seriesTrimVersion": 4,
+      "Triple Crown Series": {
+        "status": "Not started",
+        "scheduledStart": "2027-06-11T19:00"
+      }
     },
     "kaiserFantasySchedule": [
       {
@@ -4027,10 +4031,10 @@
     "kaiserFantasyScores": 1794188238128,
     "kaiserFantasyTeams": 1794696132149,
     "kaiserFantasyTrades": 1794108000977,
-    "kaiserFantasyDraftSettings": 1794698500450,
+    "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794695269605,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794188746485
   },
-  "savedAt": 1794698500560
+  "savedAt": 1794698568373
 }
