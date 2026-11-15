@@ -2602,6 +2602,23 @@
             "secondarySeries": [],
             "reigningTripleCrownChampion": false,
             "seriesArchived": false
+          },
+          {
+            "id": "92e40871-94d4-45bb-abb6-0bb7ca967951",
+            "name": "Cole Davies",
+            "number": "5",
+            "class": "250",
+            "raceTeam": "Monster Energy Star Racing Yamaha",
+            "manufacturer": "Yamaha",
+            "nationality": "NZ",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": false,
+            "nationalityRegion": "NZ-AUK",
+            "primarySeries": "250",
+            "secondarySeries": [],
+            "reigningTripleCrownChampion": false,
+            "seriesArchived": false
           }
         ]
       },
@@ -4035,12 +4052,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794713489464,
+    "kaiserFantasyTeams": 1794713495748,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794713489505
+  "savedAt": 1794713495806
 }
