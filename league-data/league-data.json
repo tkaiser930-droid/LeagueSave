@@ -2408,8 +2408,8 @@
         "class": "CAN 450",
         "primarySeries": "CAN 450",
         "secondarySeries": [],
-        "raceTeam": "Guaranteed Comfort Honda",
-        "manufacturer": "Honda",
+        "raceTeam": "",
+        "manufacturer": "Yamaha",
         "nationality": "CA",
         "nationalityRegion": "CA-MB",
         "pointsLeader": false,
@@ -3990,12 +3990,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794717457556,
-    "kaiserFantasyTeams": 1794717457556,
+    "kaiserFantasyTeams": 1794758315771,
     "kaiserFantasyTrades": 1794717457556,
     "kaiserFantasyDraftSettings": 1794698568269,
-    "kaiserFantasyAthletes": 1794700701541,
+    "kaiserFantasyAthletes": 1794758315770,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794717457823
+  "savedAt": 1794758316054
 }
