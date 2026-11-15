@@ -2646,7 +2646,30 @@
       }
     ],
     "kaiserFantasyScores": [],
-    "kaiserFantasyTrades": [],
+    "kaiserFantasyTrades": [
+      {
+        "id": "8498b393-ff61-4f9a-be30-ef13f94f7209",
+        "fromKey": "team-2",
+        "fromName": "Team Two",
+        "toKey": "team-1",
+        "toName": "Team One",
+        "offerIds": [
+          "1e071dca-b5be-450d-9755-b8368b32337c"
+        ],
+        "requestIds": [
+          "c5418e6a-fd55-4408-b718-c086ce0cbc1e"
+        ],
+        "offerNames": [
+          "Cooper Webb"
+        ],
+        "requestNames": [
+          "Chase Sexrton"
+        ],
+        "note": "",
+        "status": "Pending",
+        "createdAt": "2026-11-15T17:50:30.072Z"
+      }
+    ],
     "kaiserFantasyDraftState": {
       "picks": []
     },
@@ -4027,11 +4050,11 @@
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794717457556,
     "kaiserFantasyTeams": 1794765015001,
-    "kaiserFantasyTrades": 1794717457556,
+    "kaiserFantasyTrades": 1794765030072,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794758315770,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794765015002
+  "savedAt": 1794765030087
 }
