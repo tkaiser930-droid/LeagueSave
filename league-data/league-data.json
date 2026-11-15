@@ -4014,19 +4014,6 @@
         "eventTypeDetail": ""
       },
       {
-        "id": "59d4dfeb-8b29-40b4-b80c-89881a6c2015",
-        "name": "Las Vegas",
-        "series": "F1",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": "",
-        "round": 21,
-        "date": "2026-11-19",
-        "endDate": "2026-11-21",
-        "location": "Las Vegas",
-        "country": "US",
-        "region": "US-NV"
-      },
-      {
         "id": "91a4d1fa-33ff-4e91-8f14-39c18601653e",
         "name": "Qatar",
         "series": "F1",
@@ -4061,7 +4048,7 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794188746485
+    "kaiserFantasySchedule": 1794701521830
   },
-  "savedAt": 1794700701740
+  "savedAt": 1794701521894
 }
