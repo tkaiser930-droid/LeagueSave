@@ -3987,6 +3987,19 @@
         "region": "CA-ON",
         "eventType": "Stage 3",
         "eventTypeDetail": ""
+      },
+      {
+        "id": "65f13f9b-7f3b-4ea4-a35c-fe91acad1e30",
+        "name": "Arlington",
+        "series": "SMX",
+        "eventType": "Supercross",
+        "eventTypeDetail": "East",
+        "round": 7,
+        "date": "2026-02-21",
+        "endDate": "2026-02-21",
+        "location": "AT&T Stadium",
+        "country": "US",
+        "region": "US-TX"
       }
     ]
   },
@@ -3997,7 +4010,7 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794701527096
+    "kaiserFantasySchedule": 1794776954224
   },
-  "savedAt": 1794766713145
+  "savedAt": 1794776954353
 }
