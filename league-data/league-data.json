@@ -2578,7 +2578,25 @@
         "name": "Team One",
         "owner": "The King",
         "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-        "roster": []
+        "roster": [
+          {
+            "id": "607802a1-d1ed-48c7-a1f2-74cd1b7b108a",
+            "name": "Camden McLellan",
+            "number": "8",
+            "class": "MX2",
+            "raceTeam": "Triumph Factory Racing",
+            "manufacturer": "Triumph",
+            "nationality": "ZA",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": false,
+            "nationalityRegion": "ZA-GP",
+            "primarySeries": "MX2",
+            "secondarySeries": [],
+            "reigningTripleCrownChampion": false,
+            "seriesArchived": false
+          }
+        ]
       },
       {
         "key": "team-2",
@@ -4052,12 +4070,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794713495748,
+    "kaiserFantasyTeams": 1794713516743,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794713495806
+  "savedAt": 1794713516815
 }
