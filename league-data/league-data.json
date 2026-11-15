@@ -4014,19 +4014,6 @@
         "eventTypeDetail": ""
       },
       {
-        "id": "91a4d1fa-33ff-4e91-8f14-39c18601653e",
-        "name": "Qatar",
-        "series": "F1",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": "",
-        "round": 22,
-        "date": "2026-11-27",
-        "endDate": "2026-11-29",
-        "location": "Lusail",
-        "country": "QA",
-        "region": "QA-ZA"
-      },
-      {
         "id": "2d3f1a71-0e0a-48f7-8605-9a3bc6fee536",
         "name": "Abu Dhabi",
         "series": "F1",
@@ -4048,7 +4035,7 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794701521830
+    "kaiserFantasySchedule": 1794701524286
   },
-  "savedAt": 1794701521894
+  "savedAt": 1794701524352
 }
