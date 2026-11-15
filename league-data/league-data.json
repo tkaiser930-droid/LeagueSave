@@ -2578,7 +2578,25 @@
         "name": "Team One",
         "owner": "The King",
         "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-        "roster": []
+        "roster": [
+          {
+            "id": "c5418e6a-fd55-4408-b718-c086ce0cbc1e",
+            "name": "Chase Sexrton",
+            "number": "4",
+            "class": "450",
+            "raceTeam": "Quadlock Honda",
+            "manufacturer": "Honda",
+            "nationality": "US",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": false,
+            "nationalityRegion": "US-IL",
+            "primarySeries": "450",
+            "secondarySeries": [],
+            "reigningTripleCrownChampion": false,
+            "seriesArchived": false
+          }
+        ]
       },
       {
         "key": "team-2",
@@ -4008,12 +4026,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794717457556,
-    "kaiserFantasyTeams": 1794765000292,
+    "kaiserFantasyTeams": 1794765015001,
     "kaiserFantasyTrades": 1794717457556,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794758315770,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794765000301
+  "savedAt": 1794765015002
 }
