@@ -2595,6 +2595,23 @@
             "secondarySeries": [],
             "reigningTripleCrownChampion": false,
             "seriesArchived": false
+          },
+          {
+            "id": "7ccb8c87-cff0-4aa3-a8f8-d562d973c80c",
+            "name": "Jeffrey Herlings",
+            "number": "84",
+            "class": "MXGP",
+            "raceTeam": "Honda HRC Petronas",
+            "manufacturer": "Honda",
+            "nationality": "NL",
+            "pointsLeader": false,
+            "reigningSMXChampion": false,
+            "reigningWorldChampion": true,
+            "nationalityRegion": "NL-NB",
+            "primarySeries": "MXGP",
+            "secondarySeries": [],
+            "reigningTripleCrownChampion": false,
+            "seriesArchived": false
           }
         ]
       },
@@ -4070,12 +4087,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794713516743,
+    "kaiserFantasyTeams": 1794713528738,
     "kaiserFantasyTrades": 1794700497797,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794713516815
+  "savedAt": 1794713528781
 }
