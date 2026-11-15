@@ -2669,7 +2669,8 @@
         "status": "Rejected",
         "createdAt": "2026-11-15T17:50:30.072Z",
         "respondedAt": "2026-11-15T17:50:46.554Z",
-        "respondedBy": "team-1"
+        "respondedBy": "team-1",
+        "responseViewedAt": "2026-11-15T17:51:03.314Z"
       }
     ],
     "kaiserFantasyDraftState": {
@@ -4052,11 +4053,11 @@
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794717457556,
     "kaiserFantasyTeams": 1794765015001,
-    "kaiserFantasyTrades": 1794765046554,
+    "kaiserFantasyTrades": 1794765063314,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794758315770,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794765046559
+  "savedAt": 1794765063306
 }
