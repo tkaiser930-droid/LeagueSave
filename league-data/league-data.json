@@ -2580,52 +2580,14 @@
         "name": "Team One",
         "owner": "The King",
         "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-        "roster": [
-          {
-            "id": "c5418e6a-fd55-4408-b718-c086ce0cbc1e",
-            "name": "Chase Sexrton",
-            "number": "4",
-            "class": "450",
-            "raceTeam": "Quadlock Honda",
-            "manufacturer": "Honda",
-            "nationality": "US",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "US-IL",
-            "primarySeries": "450",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          }
-        ]
+        "roster": []
       },
       {
         "key": "team-2",
         "name": "Team Two",
         "owner": "The Grand  Inquisitor",
         "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
-        "roster": [
-          {
-            "id": "1e071dca-b5be-450d-9755-b8368b32337c",
-            "name": "Cooper Webb",
-            "number": "2",
-            "class": "450",
-            "raceTeam": "Rocky Mountain ATV/MC Monster Energy Team Tedder Husqvarna Racing",
-            "manufacturer": "Husqvarna",
-            "nationality": "US",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "US-NC",
-            "primarySeries": "450",
-            "secondarySeries": [
-              "MXON Open"
-            ],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          }
-        ]
+        "roster": []
       },
       {
         "key": "team-3",
@@ -2650,33 +2612,7 @@
       }
     ],
     "kaiserFantasyScores": [],
-    "kaiserFantasyTrades": [
-      {
-        "id": "8498b393-ff61-4f9a-be30-ef13f94f7209",
-        "fromKey": "team-2",
-        "fromName": "Team Two",
-        "toKey": "team-1",
-        "toName": "Team One",
-        "offerIds": [
-          "1e071dca-b5be-450d-9755-b8368b32337c"
-        ],
-        "requestIds": [
-          "c5418e6a-fd55-4408-b718-c086ce0cbc1e"
-        ],
-        "offerNames": [
-          "Cooper Webb"
-        ],
-        "requestNames": [
-          "Chase Sexrton"
-        ],
-        "note": "",
-        "status": "Rejected",
-        "createdAt": "2026-11-15T17:50:30.072Z",
-        "respondedAt": "2026-11-15T17:50:46.554Z",
-        "respondedBy": "team-1",
-        "responseViewedAt": "2026-11-15T17:51:03.314Z"
-      }
-    ],
+    "kaiserFantasyTrades": [],
     "kaiserFantasyDraftState": {
       "picks": []
     },
@@ -4055,13 +3991,13 @@
     ]
   },
   "keyUpdatedAt": {
-    "kaiserFantasyScores": 1794717457556,
-    "kaiserFantasyTeams": 1794765201321,
-    "kaiserFantasyTrades": 1794765063314,
+    "kaiserFantasyScores": 1794766712993,
+    "kaiserFantasyTeams": 1794766712992,
+    "kaiserFantasyTrades": 1794766712993,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794765201552
+  "savedAt": 1794766713145
 }
