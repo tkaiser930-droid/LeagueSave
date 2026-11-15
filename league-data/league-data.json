@@ -729,7 +729,9 @@
         "reigningWorldChampion": false,
         "nationalityRegion": "US-NC",
         "primarySeries": "450",
-        "secondarySeries": [],
+        "secondarySeries": [
+          "MXON Open"
+        ],
         "reigningTripleCrownChampion": false,
         "seriesArchived": false
       },
@@ -2617,7 +2619,9 @@
             "reigningWorldChampion": false,
             "nationalityRegion": "US-NC",
             "primarySeries": "450",
-            "secondarySeries": [],
+            "secondarySeries": [
+              "MXON Open"
+            ],
             "reigningTripleCrownChampion": false,
             "seriesArchived": false
           }
@@ -4052,12 +4056,12 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794717457556,
-    "kaiserFantasyTeams": 1794765015001,
+    "kaiserFantasyTeams": 1794765201321,
     "kaiserFantasyTrades": 1794765063314,
     "kaiserFantasyDraftSettings": 1794698568269,
-    "kaiserFantasyAthletes": 1794758315770,
+    "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794765063306
+  "savedAt": 1794765201552
 }
