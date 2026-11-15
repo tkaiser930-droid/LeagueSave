@@ -4012,19 +4012,6 @@
         "region": "CA-ON",
         "eventType": "Stage 3",
         "eventTypeDetail": ""
-      },
-      {
-        "id": "2d3f1a71-0e0a-48f7-8605-9a3bc6fee536",
-        "name": "Abu Dhabi",
-        "series": "F1",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": "",
-        "round": 23,
-        "date": "2026-12-04",
-        "endDate": "2026-12-06",
-        "location": "Yas Island",
-        "country": "AE",
-        "region": "AE-AZ"
       }
     ]
   },
@@ -4035,7 +4022,7 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794701524286
+    "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794701524352
+  "savedAt": 1794701527185
 }
