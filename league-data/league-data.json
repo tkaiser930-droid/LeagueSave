@@ -4000,6 +4000,19 @@
         "location": "AT&T Stadium",
         "country": "US",
         "region": "US-TX"
+      },
+      {
+        "id": "4263085b-4d5c-4308-b350-da907a824dde",
+        "name": "Washougal National",
+        "series": "SMX",
+        "eventType": "Motocross",
+        "eventTypeDetail": "",
+        "round": 25,
+        "date": "2026-07-25",
+        "endDate": "2026-07-25",
+        "location": "Washougal",
+        "country": "US",
+        "region": "US-WA"
       }
     ]
   },
@@ -4010,7 +4023,7 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794776954224
+    "kaiserFantasySchedule": 1794779722191
   },
-  "savedAt": 1794776954353
+  "savedAt": 1794779722315
 }
