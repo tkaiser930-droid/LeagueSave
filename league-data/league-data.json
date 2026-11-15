@@ -2706,6 +2706,32 @@
         "note": "",
         "status": "Accepted",
         "createdAt": "2026-11-14T23:51:34.009Z"
+      },
+      {
+        "id": "cb55127d-94e7-4e7f-afc1-8fa762524bf9",
+        "fromKey": "team-2",
+        "fromName": "Team Two",
+        "toKey": "team-1",
+        "toName": "Team One",
+        "offerIds": [
+          "1e071dca-b5be-450d-9755-b8368b32337c",
+          "92e40871-94d4-45bb-abb6-0bb7ca967951"
+        ],
+        "requestIds": [
+          "607802a1-d1ed-48c7-a1f2-74cd1b7b108a",
+          "7ccb8c87-cff0-4aa3-a8f8-d562d973c80c"
+        ],
+        "offerNames": [
+          "Cooper Webb",
+          "Cole Davies"
+        ],
+        "requestNames": [
+          "Camden McLellan",
+          "Jeffrey Herlings"
+        ],
+        "note": "",
+        "status": "Pending",
+        "createdAt": "2026-11-15T03:57:14.713Z"
       }
     ],
     "kaiserFantasyDraftState": {
@@ -4088,11 +4114,11 @@
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794188238128,
     "kaiserFantasyTeams": 1794713528738,
-    "kaiserFantasyTrades": 1794700497797,
+    "kaiserFantasyTrades": 1794715034713,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794713528781
+  "savedAt": 1794715034762
 }
