@@ -2610,63 +2610,7 @@
       }
     ],
     "kaiserFantasyScores": [],
-    "kaiserFantasyTrades": [
-      {
-        "id": "db14a5ec-5403-4481-86f3-6f81ecbbd8d2",
-        "fromKey": "team-1",
-        "fromName": "Team One",
-        "toKey": "team-2",
-        "toName": "Team Two",
-        "offerIds": [
-          "c5418e6a-fd55-4408-b718-c086ce0cbc1e",
-          "6e9dfffe-858d-48e8-b7ae-610ae36fa1eb"
-        ],
-        "requestIds": [
-          "263d6d6c-e829-4d79-b2ee-61431e559154",
-          "8d55112e-507c-4014-bb7d-b11475030239"
-        ],
-        "offerNames": [
-          "Chase Sexrton",
-          "Dylan Wright"
-        ],
-        "requestNames": [
-          "Ken Roczen",
-          "Maxime Renaux"
-        ],
-        "note": "",
-        "status": "Accepted",
-        "createdAt": "2026-11-14T23:51:34.009Z",
-        "responseViewedAt": "2026-11-15T04:09:29.817Z"
-      },
-      {
-        "id": "cb55127d-94e7-4e7f-afc1-8fa762524bf9",
-        "fromKey": "team-2",
-        "fromName": "Team Two",
-        "toKey": "team-1",
-        "toName": "Team One",
-        "offerIds": [
-          "1e071dca-b5be-450d-9755-b8368b32337c",
-          "92e40871-94d4-45bb-abb6-0bb7ca967951"
-        ],
-        "requestIds": [
-          "607802a1-d1ed-48c7-a1f2-74cd1b7b108a",
-          "7ccb8c87-cff0-4aa3-a8f8-d562d973c80c"
-        ],
-        "offerNames": [
-          "Cooper Webb",
-          "Cole Davies"
-        ],
-        "requestNames": [
-          "Camden McLellan",
-          "Jeffrey Herlings"
-        ],
-        "note": "",
-        "status": "Accepted",
-        "createdAt": "2026-11-15T03:57:14.713Z",
-        "respondedAt": "2026-11-15T03:57:49.666Z",
-        "respondedBy": "team-1"
-      }
-    ],
+    "kaiserFantasyTrades": [],
     "kaiserFantasyDraftState": {
       "picks": []
     },
@@ -4045,13 +3989,13 @@
     ]
   },
   "keyUpdatedAt": {
-    "kaiserFantasyScores": 1794715381065,
-    "kaiserFantasyTeams": 1794715381065,
-    "kaiserFantasyTrades": 1794715769817,
+    "kaiserFantasyScores": 1794715819651,
+    "kaiserFantasyTeams": 1794715819650,
+    "kaiserFantasyTrades": 1794715819651,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794715769860
+  "savedAt": 1794715819955
 }
