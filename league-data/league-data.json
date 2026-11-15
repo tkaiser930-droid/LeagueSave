@@ -2578,84 +2578,14 @@
         "name": "Team One",
         "owner": "The King",
         "passwordHash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
-        "roster": [
-          {
-            "id": "1e071dca-b5be-450d-9755-b8368b32337c",
-            "name": "Cooper Webb",
-            "number": "2",
-            "class": "450",
-            "raceTeam": "Rocky Mountain ATV/MC Monster Energy Team Tedder Husqvarna Racing",
-            "manufacturer": "Husqvarna",
-            "nationality": "US",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "US-NC",
-            "primarySeries": "450",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          },
-          {
-            "id": "92e40871-94d4-45bb-abb6-0bb7ca967951",
-            "name": "Cole Davies",
-            "number": "5",
-            "class": "250",
-            "raceTeam": "Monster Energy Star Racing Yamaha",
-            "manufacturer": "Yamaha",
-            "nationality": "NZ",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "NZ-AUK",
-            "primarySeries": "250",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          }
-        ]
+        "roster": []
       },
       {
         "key": "team-2",
         "name": "Team Two",
         "owner": "The Grand  Inquisitor",
         "passwordHash": "04d675f61293188b32ad838bf16db922e70a48c23a972ed716c46b1403651573",
-        "roster": [
-          {
-            "id": "607802a1-d1ed-48c7-a1f2-74cd1b7b108a",
-            "name": "Camden McLellan",
-            "number": "8",
-            "class": "MX2",
-            "raceTeam": "Triumph Factory Racing",
-            "manufacturer": "Triumph",
-            "nationality": "ZA",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": false,
-            "nationalityRegion": "ZA-GP",
-            "primarySeries": "MX2",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          },
-          {
-            "id": "7ccb8c87-cff0-4aa3-a8f8-d562d973c80c",
-            "name": "Jeffrey Herlings",
-            "number": "84",
-            "class": "MXGP",
-            "raceTeam": "Honda HRC Petronas",
-            "manufacturer": "Honda",
-            "nationality": "NL",
-            "pointsLeader": false,
-            "reigningSMXChampion": false,
-            "reigningWorldChampion": true,
-            "nationalityRegion": "NL-NB",
-            "primarySeries": "MXGP",
-            "secondarySeries": [],
-            "reigningTripleCrownChampion": false,
-            "seriesArchived": false
-          }
-        ]
+        "roster": []
       },
       {
         "key": "team-3",
@@ -4114,13 +4044,13 @@
     ]
   },
   "keyUpdatedAt": {
-    "kaiserFantasyScores": 1794188238128,
-    "kaiserFantasyTeams": 1794715069666,
+    "kaiserFantasyScores": 1794715381065,
+    "kaiserFantasyTeams": 1794715381065,
     "kaiserFantasyTrades": 1794715069666,
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794700701541,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794701527096
   },
-  "savedAt": 1794715069771
+  "savedAt": 1794715381280
 }
