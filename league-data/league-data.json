@@ -4000,6 +4000,19 @@
         "location": "Calgary",
         "country": "CA",
         "region": "CA-AB"
+      },
+      {
+        "id": "1695a25a-be72-4d4f-acf5-34b78cd71e00",
+        "name": "Anaheim 1",
+        "series": "SMX",
+        "eventType": "Supercross",
+        "eventTypeDetail": "West",
+        "round": 1,
+        "date": "2026-01-10",
+        "endDate": "2026-01-10",
+        "location": "Angel Stadium",
+        "country": "US",
+        "region": "US-CA"
       }
     ]
   },
@@ -4010,8 +4023,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794063541,
+    "kaiserFantasySchedule": 1794794125280,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794063697
+  "savedAt": 1794794125396
 }
