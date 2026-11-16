@@ -4013,6 +4013,19 @@
         "location": "Angel Stadium",
         "country": "US",
         "region": "US-CA"
+      },
+      {
+        "id": "2df8fe5a-0f06-47d0-836b-0401d4292c7d",
+        "name": "Houston",
+        "series": "SMX",
+        "eventType": "Supercross",
+        "eventTypeDetail": "West",
+        "round": 4,
+        "date": "2026-01-31",
+        "endDate": "2026-01-31",
+        "location": "NRG Stadium",
+        "country": "US",
+        "region": "US-TX"
       }
     ]
   },
@@ -4023,8 +4036,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794125280,
+    "kaiserFantasySchedule": 1794794258712,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794125396
+  "savedAt": 1794794258842
 }
