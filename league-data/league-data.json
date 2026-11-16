@@ -4026,6 +4026,19 @@
         "location": "NRG Stadium",
         "country": "US",
         "region": "US-TX"
+      },
+      {
+        "id": "3e5ec7cc-6e5e-4042-807d-385972fb5232",
+        "name": "Columbus",
+        "series": "SMX",
+        "eventType": "SMX",
+        "eventTypeDetail": "",
+        "round": 29,
+        "date": "2026-09-12",
+        "endDate": "2026-09-12",
+        "location": "Historic Crew Stadium",
+        "country": "US",
+        "region": "US-OH"
       }
     ]
   },
@@ -4036,8 +4049,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794258712,
+    "kaiserFantasySchedule": 1794794356057,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794258842
+  "savedAt": 1794794356185
 }
