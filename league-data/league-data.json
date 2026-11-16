@@ -4052,6 +4052,19 @@
         "location": "Washougal",
         "country": "US",
         "region": "US-WA"
+      },
+      {
+        "id": "62132787-fdf3-49d5-91a9-f28b21a07cfe",
+        "name": "Great Britain",
+        "series": "MXGP",
+        "eventType": "Grand Prix",
+        "eventTypeDetail": "",
+        "round": 13,
+        "date": "2026-07-18",
+        "endDate": "2026-07-19",
+        "location": "Foxhills",
+        "country": "GB",
+        "region": "GB-ENG"
       }
     ]
   },
@@ -4062,8 +4075,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794407093,
+    "kaiserFantasySchedule": 1794794553198,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794407188
+  "savedAt": 1794794553346
 }
