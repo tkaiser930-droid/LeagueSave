@@ -4078,6 +4078,19 @@
         "location": "Ernee",
         "country": "FR",
         "region": "FR-PDL"
+      },
+      {
+        "id": "27b69bd1-aab5-42f1-b6b6-37850c3b88f0",
+        "name": "Australia",
+        "series": "F1",
+        "eventType": "Grand Prix",
+        "eventTypeDetail": "",
+        "round": 1,
+        "date": "2026-03-06",
+        "endDate": "2026-03-08",
+        "location": "Melbourne",
+        "country": "AU",
+        "region": "AU-VIC"
       }
     ]
   },
@@ -4088,8 +4101,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794654070,
+    "kaiserFantasySchedule": 1794794745682,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794654275
+  "savedAt": 1794794745839
 }
