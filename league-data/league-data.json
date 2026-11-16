@@ -4118,7 +4118,11 @@
         "country": "AT",
         "region": "AT-6"
       }
-    ]
+    ],
+    "kaiserFantasySeasonSettings": {
+      "currentYear": 2027,
+      "createdAt": "2026-11-16T23:11:10.644Z"
+    }
   },
   "keyUpdatedAt": {
     "kaiserFantasyScores": 1794802874184,
@@ -4128,7 +4132,8 @@
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
     "kaiserFantasySchedule": 1794795063427,
-    "kaiserFantasySeasonArchives": 1794789443490
+    "kaiserFantasySeasonArchives": 1794789443490,
+    "kaiserFantasySeasonSettings": 1794870670644
   },
-  "savedAt": 1794802874394
+  "savedAt": 1794870670693
 }
