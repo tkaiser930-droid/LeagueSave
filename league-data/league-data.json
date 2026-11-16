@@ -4065,6 +4065,19 @@
         "location": "Foxhills",
         "country": "GB",
         "region": "GB-ENG"
+      },
+      {
+        "id": "2a1a664c-f799-46b8-964b-4aa03dd1a11c",
+        "name": "MXON",
+        "series": "MXON",
+        "eventType": "",
+        "eventTypeDetail": "",
+        "round": 1,
+        "date": "2026-10-03",
+        "endDate": "2026-10-04",
+        "location": "Ernee",
+        "country": "FR",
+        "region": "FR-PDL"
       }
     ]
   },
@@ -4075,8 +4088,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794553198,
+    "kaiserFantasySchedule": 1794794654070,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794553346
+  "savedAt": 1794794654275
 }
