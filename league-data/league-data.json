@@ -4091,6 +4091,19 @@
         "location": "Melbourne",
         "country": "AU",
         "region": "AU-VIC"
+      },
+      {
+        "id": "cc4b6643-5a0e-4c9f-a62f-32dcd2a5bf65",
+        "name": "China",
+        "series": "F1",
+        "eventType": "Sprint",
+        "eventTypeDetail": "",
+        "round": 2,
+        "date": "2026-03-13",
+        "endDate": "2026-03-15",
+        "location": "Shanghai",
+        "country": "CN",
+        "region": "CN-SH"
       }
     ]
   },
@@ -4101,8 +4114,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794745682,
+    "kaiserFantasySchedule": 1794794810665,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794745839
+  "savedAt": 1794794810785
 }
