@@ -4851,8 +4851,8 @@
                 "name": "Cooper Webb",
                 "number": "2",
                 "class": "450",
-                "raceTeam": "Rocky Mountain ATV/MC Monster Energy Team Tedder Husqvarna Racing",
-                "manufacturer": "Husqvarna",
+                "raceTeam": "Monster Energy Star Racing Yamaha",
+                "manufacturer": "Yamaha",
                 "nationality": "US",
                 "pointsLeader": false,
                 "reigningSMXChampion": false,
@@ -6751,7 +6751,7 @@
             },
             "kaiserFantasySchedule": []
           },
-          "updatedAt": "2026-11-16T23:19:47.839Z"
+          "updatedAt": "2026-11-16T23:19:53.873Z"
         },
         "2024": {
           "status": "workspace",
@@ -17274,7 +17274,7 @@
     "kaiserFantasySchedule": 1794795063427,
     "kaiserFantasySeasonArchives": 1794789443490,
     "kaiserFantasySeasonSettings": 1794870670644,
-    "kaiserFantasyHistoricalSeasons": 1794871188133
+    "kaiserFantasyHistoricalSeasons": 1794871194148
   },
-  "savedAt": 1794871188133
+  "savedAt": 1794871194148
 }
