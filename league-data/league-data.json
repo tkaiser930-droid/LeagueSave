@@ -4851,8 +4851,8 @@
                 "name": "Cooper Webb",
                 "number": "2",
                 "class": "450",
-                "raceTeam": "Monster Energy Star Racing Yamaha",
-                "manufacturer": "Yamaha",
+                "raceTeam": "Red Bull KTM Factory Racing",
+                "manufacturer": "KTM",
                 "nationality": "US",
                 "pointsLeader": false,
                 "reigningSMXChampion": false,
@@ -6751,7 +6751,7 @@
             },
             "kaiserFantasySchedule": []
           },
-          "updatedAt": "2026-11-16T23:19:53.873Z"
+          "updatedAt": "2026-11-16T23:20:37.498Z"
         },
         "2024": {
           "status": "workspace",
@@ -17274,7 +17274,7 @@
     "kaiserFantasySchedule": 1794795063427,
     "kaiserFantasySeasonArchives": 1794789443490,
     "kaiserFantasySeasonSettings": 1794870670644,
-    "kaiserFantasyHistoricalSeasons": 1794871194148
+    "kaiserFantasyHistoricalSeasons": 1794871237869
   },
-  "savedAt": 1794871194148
+  "savedAt": 1794871237869
 }
