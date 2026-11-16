@@ -3987,19 +3987,6 @@
         "region": "CA-ON",
         "eventType": "Stage 3",
         "eventTypeDetail": ""
-      },
-      {
-        "id": "ca032504-9e69-4b82-aad1-40a3d0dfa1d3",
-        "name": "Brazil",
-        "series": "F1",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": "",
-        "round": 20,
-        "date": "2026-11-06",
-        "endDate": "2026-11-08",
-        "location": "Sao Paulo",
-        "country": "BR",
-        "region": "BR-SP"
       }
     ]
   },
@@ -4010,7 +3997,7 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794788191500
+    "kaiserFantasySchedule": 1794788202615
   },
-  "savedAt": 1794788191656
+  "savedAt": 1794788202781
 }
