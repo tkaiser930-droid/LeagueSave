@@ -4013,19 +4013,6 @@
         "location": "Sao Paulo",
         "country": "BR",
         "region": "BR-SP"
-      },
-      {
-        "id": "a56b2933-bc12-4fb6-a95e-61f1500ddad4",
-        "name": "China",
-        "series": "F1",
-        "eventType": "Sprint",
-        "eventTypeDetail": "",
-        "round": 2,
-        "date": "2026-03-13",
-        "endDate": "2026-11-15",
-        "location": "Shanghai",
-        "country": "CN",
-        "region": "CN-SH"
       }
     ]
   },
@@ -4036,7 +4023,7 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794788184518
+    "kaiserFantasySchedule": 1794788187199
   },
-  "savedAt": 1794788184611
+  "savedAt": 1794788187271
 }
