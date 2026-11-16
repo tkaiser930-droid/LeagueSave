@@ -4104,6 +4104,19 @@
         "location": "Shanghai",
         "country": "CN",
         "region": "CN-SH"
+      },
+      {
+        "id": "4a508d29-1a70-4358-bf89-164bec4a50ba",
+        "name": "Austria",
+        "series": "MotoGP",
+        "eventType": "Grand Prix",
+        "eventTypeDetail": "",
+        "round": 15,
+        "date": "2026-09-18",
+        "endDate": "2026-09-20",
+        "location": "Spielberg",
+        "country": "AT",
+        "region": "AT-6"
       }
     ]
   },
@@ -4114,8 +4127,8 @@
     "kaiserFantasyDraftSettings": 1794698568269,
     "kaiserFantasyAthletes": 1794765201321,
     "kaiserFantasyDraftState": 1794108000977,
-    "kaiserFantasySchedule": 1794794810665,
+    "kaiserFantasySchedule": 1794795063427,
     "kaiserFantasySeasonArchives": 1794789443490
   },
-  "savedAt": 1794794810785
+  "savedAt": 1794795063577
 }
