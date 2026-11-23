@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "seasonYear": 2024,
+  "archived": false,
+  "archivedAt": "",
+  "state": {
+    "kaiserFantasyAthletes": [],
+    "kaiserFantasyTeams": [],
+    "kaiserFantasyScores": [],
+    "kaiserFantasyTrades": [],
+    "kaiserFantasyDraftState": {
+      "picks": []
+    },
+    "kaiserFantasyDraftSettings": {
+      "seriesTrimVersion": 4
+    },
+    "kaiserFantasySchedule": []
+  },
+  "keyUpdatedAt": {
+    "kaiserFantasyDraftSettings": 1795399574723
+  },
+  "savedAt": 1795399574730
+}
