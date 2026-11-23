@@ -2189,7 +2189,7 @@
         "number": "30",
         "class": "F1",
         "raceTeam": "Racing Bulls",
-        "manufacturer": "Ford",
+        "manufacturer": "Honda Engines",
         "nationality": "NZ",
         "nationalityRegion": "NZ-HKB",
         "pointsLeader": false,
@@ -2590,8 +2590,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795401838860,
+    "kaiserFantasyAthletes": 1795401855570,
     "kaiserFantasyTeams": 1795401838860
   },
-  "savedAt": 1795401840997
+  "savedAt": 1795401855629
 }
