@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "seasonYear": 2010,
+  "archived": false,
+  "archivedAt": "",
+  "state": {
+    "kaiserFantasyAthletes": [],
+    "kaiserFantasyTeams": [],
+    "kaiserFantasyScores": [],
+    "kaiserFantasyTrades": [],
+    "kaiserFantasyDraftState": {
+      "picks": []
+    },
+    "kaiserFantasyDraftSettings": {
+      "seriesTrimVersion": 4
+    },
+    "kaiserFantasySchedule": []
+  },
+  "keyUpdatedAt": {
+    "kaiserFantasyDraftSettings": 1795399803525
+  },
+  "savedAt": 1795399803529
+}
