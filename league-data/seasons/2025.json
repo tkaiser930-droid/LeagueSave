@@ -398,16 +398,16 @@
       },
       {
         "id": "46d17efb-4f53-41b2-bac5-ab854d9afd0a",
-        "name": "Isack Hadjar",
-        "number": "6",
+        "name": "Yuki Tsunoda",
+        "number": "22",
         "class": "F1",
         "raceTeam": "Red Bull Racing",
-        "manufacturer": "Ford",
-        "nationality": "FR",
+        "manufacturer": "Honda Engines",
+        "nationality": "JP",
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningWorldChampion": false,
-        "nationalityRegion": "FR-IDF",
+        "nationalityRegion": "JP-14",
         "primarySeries": "F1",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
@@ -2590,8 +2590,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795401723852,
+    "kaiserFantasyAthletes": 1795401809391,
     "kaiserFantasyTeams": 1795401723853
   },
-  "savedAt": 1795401726921
+  "savedAt": 1795401809511
 }
