@@ -758,7 +758,7 @@
       {
         "id": "92e40871-94d4-45bb-abb6-0bb7ca967951",
         "name": "Cole Davies",
-        "number": "5",
+        "number": "37",
         "class": "250",
         "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465330097,
+    "kaiserFantasyAthletes": 1795465342165,
     "kaiserFantasyTeams": 1795465330097
   },
-  "savedAt": 1795465335273
+  "savedAt": 1795465342415
 }
