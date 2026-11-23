@@ -2,6 +2,15 @@
   "version": 1,
   "activeYear": 2027,
   "seasons": {
+    "2014": {
+      "year": 2014,
+      "createdAt": "2026-11-23T02:09:35.889Z",
+      "status": "workspace",
+      "archived": false,
+      "archivedAt": "",
+      "savedAt": 1795399773926,
+      "updatedAt": "2026-11-23T02:09:35.889Z"
+    },
     "2015": {
       "year": 2015,
       "createdAt": "2026-11-23T02:09:28.094Z",
