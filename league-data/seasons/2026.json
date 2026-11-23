@@ -457,7 +457,7 @@
         "nationality": "GB",
         "pointsLeader": false,
         "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
+        "reigningWorldChampion": true,
         "nationalityRegion": "GB-ENG",
         "primarySeries": "F1",
         "secondarySeries": [],
@@ -4076,8 +4076,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795401604287,
+    "kaiserFantasyAthletes": 1795401640964,
     "kaiserFantasyTeams": 1795401604287
   },
-  "savedAt": 1795401607321
+  "savedAt": 1795401641150
 }
