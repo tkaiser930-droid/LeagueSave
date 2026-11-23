@@ -618,23 +618,6 @@
         "seriesArchived": false
       },
       {
-        "id": "ab68214e-0c0e-4d31-aa6f-97438b850acd",
-        "name": "Sergio Perez",
-        "number": "11",
-        "class": "F1",
-        "raceTeam": "Cadillac",
-        "manufacturer": "Ferrari",
-        "nationality": "MX",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "nationalityRegion": "MX-JAL",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "ad863628-27a8-4f8a-9f6a-e09040abb3d0",
         "name": "Valtteri Bottas",
         "number": "77",
@@ -2590,8 +2573,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795401894096,
+    "kaiserFantasyAthletes": 1795401976252,
     "kaiserFantasyTeams": 1795401894097
   },
-  "savedAt": 1795401896748
+  "savedAt": 1795401976308
 }
