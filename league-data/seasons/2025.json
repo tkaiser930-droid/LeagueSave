@@ -455,7 +455,7 @@
         "raceTeam": "McLaren",
         "manufacturer": "Mercedes",
         "nationality": "GB",
-        "pointsLeader": false,
+        "pointsLeader": true,
         "reigningSMXChampion": false,
         "reigningWorldChampion": false,
         "nationalityRegion": "GB-ENG",
@@ -2556,8 +2556,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795402023130,
+    "kaiserFantasyAthletes": 1795402030381,
     "kaiserFantasyTeams": 1795402023131
   },
-  "savedAt": 1795402025163
+  "savedAt": 1795402030451
 }
