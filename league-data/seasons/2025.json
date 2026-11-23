@@ -382,10 +382,10 @@
       {
         "id": "04c54b72-3390-4f15-b42e-7e40f78d7103",
         "name": "Max Verstappen",
-        "number": "3",
+        "number": "1",
         "class": "F1",
         "raceTeam": "Red Bull Racing",
-        "manufacturer": "Ford",
+        "manufacturer": "Honda Engines",
         "nationality": "NL",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -2589,7 +2589,8 @@
     "kaiserFantasySchedule": []
   },
   "keyUpdatedAt": {
-    "kaiserFantasyDraftSettings": 1795399526096
+    "kaiserFantasyDraftSettings": 1795399526096,
+    "kaiserFantasyAthletes": 1795401723852
   },
-  "savedAt": 1795401680654
+  "savedAt": 1795401723974
 }
