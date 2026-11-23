@@ -724,8 +724,8 @@
         "name": "Cooper Webb",
         "number": "2",
         "class": "450",
-        "raceTeam": "Rocky Mountain ATV/MC Monster Energy Team Tedder Husqvarna Racing",
-        "manufacturer": "Husqvarna",
+        "raceTeam": "Monster Energy Star Racing Yamaha",
+        "manufacturer": "Yamaha",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -4059,7 +4059,8 @@
     ]
   },
   "keyUpdatedAt": {
-    "kaiserFantasyDraftSettings": 1795399465173
+    "kaiserFantasyDraftSettings": 1795399465173,
+    "kaiserFantasyAthletes": 1795401451377
   },
-  "savedAt": 1795399494526
+  "savedAt": 1795401451531
 }
