@@ -2607,19 +2607,6 @@
     },
     "kaiserFantasySchedule": [
       {
-        "id": "7017c3d1-278c-47f9-94cd-341403b4c79e",
-        "name": "Saudi Arabia",
-        "series": "F1",
-        "round": 2,
-        "date": "2026-03-19",
-        "endDate": "2026-03-21",
-        "location": "Jeddah",
-        "country": "SA",
-        "region": "SA-02",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": ""
-      },
-      {
         "id": "c7be00a5-a509-4a49-b340-f38a9753941f",
         "name": "Australia",
         "series": "F1",
@@ -4068,7 +4055,7 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795473569321
+    "kaiserFantasySchedule": 1795473592129
   },
-  "savedAt": 1795473569485
+  "savedAt": 1795473592171
 }
