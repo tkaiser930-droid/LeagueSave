@@ -1,7 +1,7 @@
 {
   "version": 1,
   "seasonYear": 2026,
-  "archived": false,
+  "archived": true,
   "archivedAt": "",
   "state": {
     "kaiserFantasyAthletes": [
@@ -5379,9 +5379,9 @@
         "id": "dc589d91-f14e-424b-a12a-8f22644c7306",
         "name": "Miami",
         "series": "F1",
-        "round": 6,
-        "date": "2026-04-30",
-        "endDate": "2026-05-02",
+        "round": 4,
+        "date": "2026-05-01",
+        "endDate": "2026-05-03",
         "location": "Miami",
         "country": "US",
         "region": "US-FL",
@@ -6785,8 +6785,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795473716885,
+    "kaiserFantasySchedule": 1795475311662,
     "kaiserFantasyScores": 1795473991679
   },
-  "savedAt": 1795473991816
+  "savedAt": 1795475311782
 }
