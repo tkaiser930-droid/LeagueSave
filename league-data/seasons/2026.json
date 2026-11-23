@@ -654,7 +654,7 @@
       {
         "id": "c85c30e6-b29c-4a9f-a63f-f1bd759c2386",
         "name": "Rafael Camara",
-        "number": "50",
+        "number": "51",
         "class": "F1",
         "raceTeam": "Haas",
         "manufacturer": "Ferrari",
@@ -4076,8 +4076,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795401585334,
+    "kaiserFantasyAthletes": 1795401604287,
     "kaiserFantasyTeams": 1795401491685
   },
-  "savedAt": 1795401585582
+  "savedAt": 1795401604424
 }
