@@ -2610,13 +2610,13 @@
         "id": "c0d6bc01-5c7d-4a72-839c-972d9810857f",
         "name": "Japan",
         "series": "F1",
-        "round": 4,
-        "date": "2026-04-09",
-        "endDate": "2026-04-11",
+        "round": 3,
+        "date": "2026-03-27",
+        "endDate": "2026-03-29",
         "location": "Suzuka",
         "country": "JP",
         "region": "JP-24",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -4042,7 +4042,7 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795473608853
+    "kaiserFantasySchedule": 1795473716885
   },
-  "savedAt": 1795473608892
+  "savedAt": 1795473717099
 }
