@@ -1047,10 +1047,10 @@
       {
         "id": "5a30a6be-2589-497a-beab-5d7746a7e758",
         "name": "Michael Mosiman",
-        "number": "29",
+        "number": "23",
         "class": "250",
-        "raceTeam": "Quadlock Honda",
-        "manufacturer": "Honda",
+        "raceTeam": "Monster Energy Star Racing Yamaha",
+        "manufacturer": "Yamaha",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465215472,
+    "kaiserFantasyAthletes": 1795465261179,
     "kaiserFantasyTeams": 1795465215472
   },
-  "savedAt": 1795465219016
+  "savedAt": 1795465261612
 }
