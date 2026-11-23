@@ -2607,19 +2607,6 @@
     },
     "kaiserFantasySchedule": [
       {
-        "id": "c7be00a5-a509-4a49-b340-f38a9753941f",
-        "name": "Australia",
-        "series": "F1",
-        "round": 3,
-        "date": "2026-04-02",
-        "endDate": "2026-04-04",
-        "location": "Melbourne",
-        "country": "AU",
-        "region": "AU-VIC",
-        "eventType": "Sprint",
-        "eventTypeDetail": ""
-      },
-      {
         "id": "c0d6bc01-5c7d-4a72-839c-972d9810857f",
         "name": "Japan",
         "series": "F1",
@@ -4055,7 +4042,7 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795473592129
+    "kaiserFantasySchedule": 1795473608853
   },
-  "savedAt": 1795473592171
+  "savedAt": 1795473608892
 }
