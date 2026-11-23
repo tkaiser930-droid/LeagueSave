@@ -740,11 +740,11 @@
       },
       {
         "id": "c5418e6a-fd55-4408-b718-c086ce0cbc1e",
-        "name": "Chase Sexrton",
+        "name": "Chase Sexton",
         "number": "4",
         "class": "450",
-        "raceTeam": "Quadlock Honda",
-        "manufacturer": "Honda",
+        "raceTeam": "Monster Energy Kawasaki",
+        "manufacturer": "Kawasaki",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465342165,
+    "kaiserFantasyAthletes": 1795465420505,
     "kaiserFantasyTeams": 1795465342165
   },
-  "savedAt": 1795465346531
+  "savedAt": 1795465420968
 }
