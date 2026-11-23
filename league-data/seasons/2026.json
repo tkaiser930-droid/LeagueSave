@@ -1542,13 +1542,13 @@
       {
         "id": "d81c92cd-b097-484e-bca3-814edefdd378",
         "name": "Jorge Prado",
-        "number": "61",
+        "number": "26",
         "class": "450",
         "raceTeam": "Red Bull KTM Factory Racing",
         "manufacturer": "KTM",
         "nationality": "ES",
-        "pointsLeader": false,
-        "reigningSMXChampion": true,
+        "pointsLeader": true,
+        "reigningSMXChampion": false,
         "reigningWorldChampion": false,
         "nationalityRegion": "ES-GA",
         "primarySeries": "450",
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465147409,
+    "kaiserFantasyAthletes": 1795465186224,
     "kaiserFantasyTeams": 1795465147410
   },
-  "savedAt": 1795465150307
+  "savedAt": 1795465186469
 }
