@@ -2168,13 +2168,13 @@
       },
       {
         "id": "65bec5fe-7d9a-46f1-b719-716191276a5c",
-        "name": "Arvid Lindblad",
-        "number": "41",
+        "name": "Isack Hadjar",
+        "number": "6",
         "class": "F1",
         "raceTeam": "Racing Bulls",
-        "manufacturer": "Ford",
-        "nationality": "GB",
-        "nationalityRegion": "GB-ENG",
+        "manufacturer": "Honda Engines",
+        "nationality": "FR",
+        "nationalityRegion": "FR-IDF",
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningWorldChampion": false,
@@ -2590,8 +2590,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795401855570,
+    "kaiserFantasyAthletes": 1795401894096,
     "kaiserFantasyTeams": 1795401855570
   },
-  "savedAt": 1795401857826
+  "savedAt": 1795401894180
 }
