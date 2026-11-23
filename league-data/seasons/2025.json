@@ -421,9 +421,9 @@
         "raceTeam": "Mercedes AMG Petronas",
         "manufacturer": "Mercedes",
         "nationality": "IT",
-        "pointsLeader": true,
+        "pointsLeader": false,
         "reigningSMXChampion": false,
-        "reigningWorldChampion": true,
+        "reigningWorldChampion": false,
         "nationalityRegion": "IT-EMR",
         "primarySeries": "F1",
         "secondarySeries": [],
@@ -2556,8 +2556,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795402003888,
+    "kaiserFantasyAthletes": 1795402015915,
     "kaiserFantasyTeams": 1795402003888
   },
-  "savedAt": 1795402005967
+  "savedAt": 1795402015962
 }
