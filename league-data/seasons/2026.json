@@ -1183,7 +1183,7 @@
       {
         "id": "d1fbcb36-bbe1-405e-9e9a-5339ba7911ac",
         "name": "Haiden Deegan",
-        "number": "1",
+        "number": "1W",
         "class": "250",
         "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465455752,
+    "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795465455752
   },
-  "savedAt": 1795465459153
+  "savedAt": 1795473314335
 }
