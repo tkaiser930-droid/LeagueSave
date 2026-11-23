@@ -5363,19 +5363,6 @@
         "eventTypeDetail": ""
       },
       {
-        "id": "16700303-96f9-486d-bce5-368ad8703466",
-        "name": "China",
-        "series": "F1",
-        "round": 5,
-        "date": "2026-04-16",
-        "endDate": "2026-04-18",
-        "location": "Shanghai",
-        "country": "CN",
-        "region": "CN-SH",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": ""
-      },
-      {
         "id": "dc589d91-f14e-424b-a12a-8f22644c7306",
         "name": "Miami",
         "series": "F1",
@@ -6785,8 +6772,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795475311662,
+    "kaiserFantasySchedule": 1795475317520,
     "kaiserFantasyScores": 1795473991679
   },
-  "savedAt": 1795475311782
+  "savedAt": 1795475317614
 }
