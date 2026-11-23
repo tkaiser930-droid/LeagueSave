@@ -2,14 +2,23 @@
   "version": 1,
   "activeYear": 2027,
   "seasons": {
+    "2025": {
+      "year": 2025,
+      "createdAt": "2026-11-23T02:05:27.927Z",
+      "status": "workspace",
+      "archived": false,
+      "archivedAt": "",
+      "savedAt": 1795399526105,
+      "updatedAt": "2026-11-23T02:05:27.927Z"
+    },
     "2026": {
       "year": 2026,
       "createdAt": "2026-11-23T02:04:26.829Z",
       "status": "workspace",
       "archived": false,
       "archivedAt": "",
-      "savedAt": 1795399465180,
-      "updatedAt": "2026-11-23T02:04:26.829Z"
+      "savedAt": 1795399494526,
+      "updatedAt": "2026-11-23T02:04:56.371Z"
     },
     "2027": {
       "year": 2027,
