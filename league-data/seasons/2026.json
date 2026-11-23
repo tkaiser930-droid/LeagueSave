@@ -2607,19 +2607,6 @@
     },
     "kaiserFantasySchedule": [
       {
-        "id": "4f25056f-d9d3-463c-9262-0b5062d0df02",
-        "name": "Bahrain",
-        "series": "F1",
-        "round": 1,
-        "date": "2026-03-12",
-        "endDate": "2026-03-14",
-        "location": "Sakhir",
-        "country": "BH",
-        "region": "BH-14",
-        "eventType": "Sprint",
-        "eventTypeDetail": ""
-      },
-      {
         "id": "7017c3d1-278c-47f9-94cd-341403b4c79e",
         "name": "Saudi Arabia",
         "series": "F1",
@@ -4080,7 +4067,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
-    "kaiserFantasyTeams": 1795473314089
+    "kaiserFantasyTeams": 1795473314089,
+    "kaiserFantasySchedule": 1795473569321
   },
-  "savedAt": 1795473316994
+  "savedAt": 1795473569485
 }
