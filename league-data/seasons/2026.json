@@ -945,7 +945,7 @@
       {
         "id": "c1e62a71-6fde-4053-8b16-d5de9392e63a",
         "name": "Seth Hammaker",
-        "number": "23",
+        "number": "10",
         "class": "250",
         "raceTeam": "Monster Energy Pro Circuit Kawasaki",
         "manufacturer": "Kawasaki",
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465261179,
+    "kaiserFantasyAthletes": 1795465277623,
     "kaiserFantasyTeams": 1795465261180
   },
-  "savedAt": 1795465264859
+  "savedAt": 1795465277987
 }
