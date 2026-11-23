@@ -618,23 +618,6 @@
         "seriesArchived": false
       },
       {
-        "id": "ad863628-27a8-4f8a-9f6a-e09040abb3d0",
-        "name": "Valtteri Bottas",
-        "number": "77",
-        "class": "F1",
-        "raceTeam": "Cadillac",
-        "manufacturer": "Ferrari",
-        "nationality": "FI",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "nationalityRegion": "FI-16",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "c85c30e6-b29c-4a9f-a63f-f1bd759c2386",
         "name": "Rafael Camara",
         "number": "50",
@@ -2573,8 +2556,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795401976252,
+    "kaiserFantasyAthletes": 1795402003888,
     "kaiserFantasyTeams": 1795401976252
   },
-  "savedAt": 1795401979346
+  "savedAt": 1795402003942
 }
