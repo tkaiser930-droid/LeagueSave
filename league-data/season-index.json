@@ -5,8 +5,8 @@
     "2010": {
       "year": 2010,
       "createdAt": "2026-11-23T02:10:05.390Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399803529,
       "updatedAt": "2026-11-23T02:10:05.390Z"
@@ -14,8 +14,8 @@
     "2011": {
       "year": 2011,
       "createdAt": "2026-11-23T02:09:56.361Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399794508,
       "updatedAt": "2026-11-23T02:09:56.361Z"
@@ -23,8 +23,8 @@
     "2012": {
       "year": 2012,
       "createdAt": "2026-11-23T02:09:49.323Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399787440,
       "updatedAt": "2026-11-23T02:09:49.323Z"
@@ -32,8 +32,8 @@
     "2013": {
       "year": 2013,
       "createdAt": "2026-11-23T02:09:42.670Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399780887,
       "updatedAt": "2026-11-23T02:09:42.670Z"
@@ -41,8 +41,8 @@
     "2014": {
       "year": 2014,
       "createdAt": "2026-11-23T02:09:35.889Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399773926,
       "updatedAt": "2026-11-23T02:09:35.889Z"
@@ -50,8 +50,8 @@
     "2015": {
       "year": 2015,
       "createdAt": "2026-11-23T02:09:28.094Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399766142,
       "updatedAt": "2026-11-23T02:09:28.094Z"
@@ -59,8 +59,8 @@
     "2016": {
       "year": 2016,
       "createdAt": "2026-11-23T02:09:21.560Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399759796,
       "updatedAt": "2026-11-23T02:09:21.560Z"
@@ -68,8 +68,8 @@
     "2017": {
       "year": 2017,
       "createdAt": "2026-11-23T02:09:15.364Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399753504,
       "updatedAt": "2026-11-23T02:09:15.364Z"
@@ -77,8 +77,8 @@
     "2018": {
       "year": 2018,
       "createdAt": "2026-11-23T02:09:07.054Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399745143,
       "updatedAt": "2026-11-23T02:09:07.054Z"
@@ -86,8 +86,8 @@
     "2019": {
       "year": 2019,
       "createdAt": "2026-11-23T02:08:47.430Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399725903,
       "updatedAt": "2026-11-23T02:08:47.430Z"
@@ -95,8 +95,8 @@
     "2020": {
       "year": 2020,
       "createdAt": "2026-11-23T02:08:41.516Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399719763,
       "updatedAt": "2026-11-23T02:08:41.516Z"
@@ -104,8 +104,8 @@
     "2021": {
       "year": 2021,
       "createdAt": "2026-11-23T02:08:35.182Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399713496,
       "updatedAt": "2026-11-23T02:08:35.182Z"
@@ -113,8 +113,8 @@
     "2022": {
       "year": 2022,
       "createdAt": "2026-11-23T02:08:30.530Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399708693,
       "updatedAt": "2026-11-23T02:08:30.530Z"
@@ -122,8 +122,8 @@
     "2023": {
       "year": 2023,
       "createdAt": "2026-11-23T02:06:22.225Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399580586,
       "updatedAt": "2026-11-23T02:06:22.225Z"
@@ -131,8 +131,8 @@
     "2024": {
       "year": 2024,
       "createdAt": "2026-11-23T02:06:16.626Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399574730,
       "updatedAt": "2026-11-23T02:06:16.626Z"
@@ -140,8 +140,8 @@
     "2025": {
       "year": 2025,
       "createdAt": "2026-11-23T02:05:27.927Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399526105,
       "updatedAt": "2026-11-23T02:05:27.927Z"
@@ -149,8 +149,8 @@
     "2026": {
       "year": 2026,
       "createdAt": "2026-11-23T02:04:26.829Z",
-      "status": "workspace",
-      "archived": false,
+      "status": "archived",
+      "archived": true,
       "archivedAt": "",
       "savedAt": 1795399494526,
       "updatedAt": "2026-11-23T02:04:56.371Z"
