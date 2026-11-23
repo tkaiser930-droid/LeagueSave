@@ -1917,15 +1917,15 @@
         "id": "08602f4c-dda1-4340-9668-6d467fe7019b",
         "name": "Guillem Farres",
         "number": "99",
-        "class": "MXGP",
+        "class": "MX2",
         "raceTeam": "Triumph Factory Racing",
         "manufacturer": "Triumph",
         "nationality": "ES",
-        "pointsLeader": false,
+        "pointsLeader": true,
         "reigningSMXChampion": false,
         "reigningWorldChampion": false,
         "nationalityRegion": "ES-CT",
-        "primarySeries": "MXGP",
+        "primarySeries": "MX2",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
         "seriesArchived": false
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465420505,
+    "kaiserFantasyAthletes": 1795465455752,
     "kaiserFantasyTeams": 1795465420505
   },
-  "savedAt": 1795465423856
+  "savedAt": 1795465456197
 }
