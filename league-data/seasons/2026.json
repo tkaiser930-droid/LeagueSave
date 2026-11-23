@@ -1183,17 +1183,19 @@
       {
         "id": "d1fbcb36-bbe1-405e-9e9a-5339ba7911ac",
         "name": "Haiden Deegan",
-        "number": "38",
-        "class": "450",
+        "number": "1",
+        "class": "250",
         "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
         "nationality": "US",
         "pointsLeader": false,
-        "reigningSMXChampion": false,
+        "reigningSMXChampion": true,
         "reigningWorldChampion": false,
         "nationalityRegion": "US-CA",
-        "primarySeries": "450",
-        "secondarySeries": [],
+        "primarySeries": "250",
+        "secondarySeries": [
+          "450"
+        ],
         "reigningTripleCrownChampion": false,
         "seriesArchived": false
       },
@@ -4077,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795401956359,
+    "kaiserFantasyAthletes": 1795465098692,
     "kaiserFantasyTeams": 1795401649430
   },
-  "savedAt": 1795401956398
+  "savedAt": 1795465099399
 }
