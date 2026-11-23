@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "seasonYear": 2013,
+  "archived": false,
+  "archivedAt": "",
+  "state": {
+    "kaiserFantasyAthletes": [],
+    "kaiserFantasyTeams": [],
+    "kaiserFantasyScores": [],
+    "kaiserFantasyTrades": [],
+    "kaiserFantasyDraftState": {
+      "picks": []
+    },
+    "kaiserFantasyDraftSettings": {
+      "seriesTrimVersion": 4
+    },
+    "kaiserFantasySchedule": []
+  },
+  "keyUpdatedAt": {
+    "kaiserFantasyDraftSettings": 1795399780883
+  },
+  "savedAt": 1795399780887
+}
