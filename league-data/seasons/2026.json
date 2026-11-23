@@ -450,7 +450,7 @@
       {
         "id": "efb7892d-8647-4172-8943-9e9fd6c4850d",
         "name": "Lando Norris",
-        "number": "4",
+        "number": "1",
         "class": "F1",
         "raceTeam": "McLaren",
         "manufacturer": "Mercedes",
@@ -4060,8 +4060,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795401451377,
+    "kaiserFantasyAthletes": 1795401487634,
     "kaiserFantasyTeams": 1795401451377
   },
-  "savedAt": 1795401454167
+  "savedAt": 1795401487775
 }
