@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "activeYear": 2027,
+  "seasons": {
+    "2027": {
+      "year": 2027,
+      "status": "current",
+      "archived": false,
+      "migratedFrom": "league-data/league-data.json",
+      "updatedAt": "2026-11-23T01:59:21.517Z"
+    }
+  }
+}
