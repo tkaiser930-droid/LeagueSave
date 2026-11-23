@@ -1933,8 +1933,8 @@
       {
         "id": "452e7966-0858-4be3-bdaf-2da1e9f7a85e",
         "name": "Mikkel Haarup",
-        "number": "11",
-        "class": "MXGP",
+        "number": "31",
+        "class": "450",
         "raceTeam": "Triumph Factory Racing",
         "manufacturer": "Triumph",
         "nationality": "DK",
@@ -1942,7 +1942,7 @@
         "reigningSMXChampion": false,
         "reigningWorldChampion": false,
         "nationalityRegion": "DK-82",
-        "primarySeries": "MXGP",
+        "primarySeries": "450",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
         "seriesArchived": false
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465277623,
+    "kaiserFantasyAthletes": 1795465311212,
     "kaiserFantasyTeams": 1795465277624
   },
-  "savedAt": 1795465281123
+  "savedAt": 1795465311675
 }
