@@ -1189,7 +1189,7 @@
         "manufacturer": "Yamaha",
         "nationality": "US",
         "pointsLeader": false,
-        "reigningSMXChampion": true,
+        "reigningSMXChampion": false,
         "reigningWorldChampion": false,
         "nationalityRegion": "US-CA",
         "primarySeries": "250",
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465098692,
+    "kaiserFantasyAthletes": 1795465109661,
     "kaiserFantasyTeams": 1795465098692
   },
-  "savedAt": 1795465102639
+  "savedAt": 1795465110016
 }
