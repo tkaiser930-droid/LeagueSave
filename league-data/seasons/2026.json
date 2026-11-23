@@ -1355,9 +1355,9 @@
       {
         "id": "a6c38b64-d88c-497b-85b7-f6a0be87c8e5",
         "name": "Max Anstie",
-        "number": "48",
+        "number": "61",
         "class": "250",
-        "raceTeam": "ClubMX Yamaha",
+        "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
         "nationality": "GB",
         "pointsLeader": false,
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465109661,
+    "kaiserFantasyAthletes": 1795465147409,
     "kaiserFantasyTeams": 1795465109661
   },
-  "savedAt": 1795465113176
+  "savedAt": 1795465147671
 }
