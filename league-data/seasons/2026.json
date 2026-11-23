@@ -1081,7 +1081,7 @@
       {
         "id": "95be5695-0a76-4ae4-8893-c64893c68fde",
         "name": "Jordon Smith",
-        "number": "31",
+        "number": "20",
         "class": "450",
         "raceTeam": "Triumph Factory Racing",
         "manufacturer": "Triumph",
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465311212,
+    "kaiserFantasyAthletes": 1795465330097,
     "kaiserFantasyTeams": 1795465311212
   },
-  "savedAt": 1795465314718
+  "savedAt": 1795465330342
 }
