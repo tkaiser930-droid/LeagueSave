@@ -1343,8 +1343,8 @@
         "raceTeam": "Monster Energy Pro Circuit Kawasaki",
         "manufacturer": "Kawasaki",
         "nationality": "US",
-        "pointsLeader": false,
-        "reigningSMXChampion": true,
+        "pointsLeader": true,
+        "reigningSMXChampion": false,
         "reigningWorldChampion": false,
         "nationalityRegion": "US-WA",
         "primarySeries": "250",
@@ -4079,8 +4079,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795465186224,
+    "kaiserFantasyAthletes": 1795465215472,
     "kaiserFantasyTeams": 1795465186224
   },
-  "savedAt": 1795465188977
+  "savedAt": 1795465215804
 }
