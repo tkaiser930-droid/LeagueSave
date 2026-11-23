@@ -389,7 +389,7 @@
         "nationality": "NL",
         "pointsLeader": false,
         "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
+        "reigningWorldChampion": true,
         "nationalityRegion": "NL-LI",
         "primarySeries": "F1",
         "secondarySeries": [],
@@ -2556,8 +2556,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795402015915,
+    "kaiserFantasyAthletes": 1795402023130,
     "kaiserFantasyTeams": 1795402015915
   },
-  "savedAt": 1795402018287
+  "savedAt": 1795402023191
 }
