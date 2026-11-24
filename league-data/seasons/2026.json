@@ -10450,7 +10450,7 @@
         "id": "e66d1107-dd18-404c-bb63-0ea61187057a",
         "name": "Azerbaijan",
         "series": "F1",
-        "round": 16,
+        "round": 15,
         "date": "2026-09-24",
         "endDate": "2026-09-26",
         "location": "Baku",
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479415419,
+    "kaiserFantasySchedule": 1795479470907,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479415478
+  "savedAt": 1795479470971
 }
