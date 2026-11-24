@@ -9677,9 +9677,9 @@
         "id": "ebf7dfcd-98b3-4578-8467-4f7a78495c3d",
         "name": "Austria",
         "series": "F1",
-        "round": 11,
-        "date": "2026-07-09",
-        "endDate": "2026-07-11",
+        "round": 8,
+        "date": "2026-06-26",
+        "endDate": "2026-06-28",
         "location": "Spielberg",
         "country": "AT",
         "region": "AT-6",
@@ -11018,8 +11018,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795478952725,
+    "kaiserFantasySchedule": 1795479062367,
     "kaiserFantasyScores": 1795479005568
   },
-  "savedAt": 1795479005895
+  "savedAt": 1795479062434
 }
