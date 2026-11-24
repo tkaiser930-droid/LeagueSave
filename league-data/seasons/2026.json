@@ -8223,7 +8223,7 @@
         "id": "b5677d59-e107-4dac-b52d-55dfce855eb6",
         "name": "Monaco",
         "series": "F1",
-        "round": 8,
+        "round": 6,
         "date": "2026-06-05",
         "endDate": "2026-06-07",
         "location": "Monaco",
@@ -9603,8 +9603,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795478721179,
+    "kaiserFantasySchedule": 1795478732153,
     "kaiserFantasyScores": 1795478591133
   },
-  "savedAt": 1795478721225
+  "savedAt": 1795478732206
 }
