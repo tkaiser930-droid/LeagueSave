@@ -10476,9 +10476,9 @@
         "id": "294ddb76-92c5-498b-bd17-fcd86b4091dc",
         "name": "Singapore",
         "series": "F1",
-        "round": 18,
-        "date": "2026-10-08",
-        "endDate": "2026-10-10",
+        "round": 17,
+        "date": "2026-10-09",
+        "endDate": "2026-10-11",
         "location": "Singapore",
         "country": "SG",
         "region": "SG-01",
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479578976,
+    "kaiserFantasySchedule": 1795479623700,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479579039
+  "savedAt": 1795479623757
 }
