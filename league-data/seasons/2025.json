@@ -7247,6 +7247,19 @@
         "location": "Jeddah",
         "country": "SA",
         "region": "SA-02"
+      },
+      {
+        "id": "61479de7-06a7-4cf5-9f19-ef3917389222",
+        "name": "Emilia Romagna",
+        "series": "F1",
+        "eventType": "Grand Prix",
+        "eventTypeDetail": "",
+        "round": 7,
+        "date": "2025-05-16",
+        "endDate": "2025-05-18",
+        "location": "Imola",
+        "country": "IT",
+        "region": "IT-EMR"
       }
     ]
   },
@@ -7254,8 +7267,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795483798250,
+    "kaiserFantasySchedule": 1795483941354,
     "kaiserFantasyScores": 1795482878097
   },
-  "savedAt": 1795483798303
+  "savedAt": 1795483941405
 }
