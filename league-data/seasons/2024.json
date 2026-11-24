@@ -554,8 +554,8 @@
         "name": "Carlos Sainz",
         "number": "55",
         "class": "F1",
-        "raceTeam": "Williams",
-        "manufacturer": "Mercedes",
+        "raceTeam": "Ferrari",
+        "manufacturer": "Ferrari",
         "nationality": "ES",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -4035,8 +4035,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795491911608,
+    "kaiserFantasyAthletes": 1795491970353,
     "kaiserFantasyTeams": 1795491911608
   },
-  "savedAt": 1795491914752
+  "savedAt": 1795491970475
 }
