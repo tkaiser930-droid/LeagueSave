@@ -11791,9 +11791,9 @@
         "id": "7eb82e78-f169-40ab-8418-b1ce7255a5ec",
         "name": "Las Vegas",
         "series": "F1",
-        "round": 21,
-        "date": "2025-11-19",
-        "endDate": "2025-11-21",
+        "round": 22,
+        "date": "2025-11-20",
+        "endDate": "2025-11-22",
         "location": "Las Vegas",
         "country": "US",
         "region": "US-NV",
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488679296,
+    "kaiserFantasySchedule": 1795488734064,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488679340
+  "savedAt": 1795488734125
 }
