@@ -11752,13 +11752,13 @@
         "id": "80376ef0-a4de-49ea-8077-4c9e87f85098",
         "name": "United States",
         "series": "F1",
-        "round": 18,
-        "date": "2025-10-23",
-        "endDate": "2025-10-25",
+        "round": 19,
+        "date": "2025-10-17",
+        "endDate": "2025-10-19",
         "location": "Austin",
         "country": "US",
         "region": "US-TX",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488337425,
+    "kaiserFantasySchedule": 1795488369890,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488337501
+  "savedAt": 1795488369957
 }
