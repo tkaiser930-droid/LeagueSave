@@ -3391,12 +3391,12 @@
         "id": "03a14557-7000-4154-9108-b7f1c7a57259",
         "name": "Bahrain",
         "series": "F1",
-        "round": 16,
-        "date": "2025-10-02",
-        "endDate": "2025-10-04",
-        "location": "Sepang",
-        "country": "MY",
-        "region": "MY-10",
+        "round": 4,
+        "date": "2025-04-11",
+        "endDate": "2025-04-13",
+        "location": "Bahrain",
+        "country": "BH",
+        "region": "",
         "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
@@ -4667,8 +4667,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795482468087,
+    "kaiserFantasySchedule": 1795482555180,
     "kaiserFantasyScores": 1795482311949
   },
-  "savedAt": 1795482468137
+  "savedAt": 1795482555206
 }
