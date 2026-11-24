@@ -2541,6 +2541,22 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "8cadd944-8b63-453b-a656-e218109d0200",
+        "name": "Esteban Ocon",
+        "number": "31",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Haas",
+        "manufacturer": "Ferrari",
+        "nationality": "FR",
+        "nationalityRegion": "FR-NOR",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -3987,9 +4003,9 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
-    "kaiserFantasyAthletes": 1795402109121,
+    "kaiserFantasyAthletes": 1795482215305,
     "kaiserFantasyTeams": 1795402109121,
     "kaiserFantasySchedule": 1795481413522
   },
-  "savedAt": 1795481413563
+  "savedAt": 1795482215458
 }
