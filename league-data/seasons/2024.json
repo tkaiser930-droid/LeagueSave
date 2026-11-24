@@ -241,8 +241,8 @@
         "name": "Qatar",
         "series": "F1",
         "round": 23,
-        "date": "2024-11-28",
-        "endDate": "2024-11-30",
+        "date": "2024-11-29",
+        "endDate": "2024-12-01",
         "location": "Lusail",
         "country": "QA",
         "region": "QA-ZA",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491269972
+    "kaiserFantasySchedule": 1795491336339
   },
-  "savedAt": 1795491270034
+  "savedAt": 1795491336388
 }
