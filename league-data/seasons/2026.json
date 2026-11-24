@@ -10542,12 +10542,12 @@
         "name": "Qatar",
         "series": "F1",
         "round": 23,
-        "date": "2026-12-03",
-        "endDate": "2026-12-05",
+        "date": "2026-11-27",
+        "endDate": "2026-11-29",
         "location": "Lusail",
         "country": "QA",
         "region": "QA-ZA",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479729126,
+    "kaiserFantasySchedule": 1795479764252,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479729183
+  "savedAt": 1795479764300
 }
