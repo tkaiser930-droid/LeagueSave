@@ -2082,23 +2082,6 @@
         "seriesArchived": false
       },
       {
-        "id": "65bec5fe-7d9a-46f1-b719-716191276a5c",
-        "name": "Arvid Lindblad",
-        "number": "41",
-        "class": "F1",
-        "raceTeam": "Racing Bulls",
-        "manufacturer": "Ford",
-        "nationality": "GB",
-        "nationalityRegion": "GB-ENG",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "6e9dfffe-858d-48e8-b7ae-610ae36fa1eb",
         "name": "Dylan Wright",
         "number": "9",
@@ -3997,8 +3980,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492628010,
+    "kaiserFantasyAthletes": 1795492630382,
     "kaiserFantasyTeams": 1795492628010
   },
-  "savedAt": 1795492630535
+  "savedAt": 1795492632531
 }
