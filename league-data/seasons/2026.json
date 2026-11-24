@@ -10489,9 +10489,9 @@
         "id": "8432923a-18ed-4074-8670-497483fb5309",
         "name": "United States",
         "series": "F1",
-        "round": 19,
-        "date": "2026-10-22",
-        "endDate": "2026-10-24",
+        "round": 18,
+        "date": "2026-10-23",
+        "endDate": "2026-10-25",
         "location": "Austin",
         "country": "US",
         "region": "US-TX",
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479623700,
+    "kaiserFantasySchedule": 1795479653218,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479623757
+  "savedAt": 1795479653267
 }
