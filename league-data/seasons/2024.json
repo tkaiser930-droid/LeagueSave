@@ -521,7 +521,7 @@
         "number": "14",
         "class": "F1",
         "raceTeam": "Aston Martin",
-        "manufacturer": "Honda Engines",
+        "manufacturer": "Mercedes",
         "nationality": "ES",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -4018,8 +4018,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492083022,
+    "kaiserFantasyAthletes": 1795492095636,
     "kaiserFantasyTeams": 1795492083022
   },
-  "savedAt": 1795492086500
+  "savedAt": 1795492095736
 }
