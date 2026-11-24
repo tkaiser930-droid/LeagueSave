@@ -8224,12 +8224,12 @@
         "name": "Monaco",
         "series": "F1",
         "round": 8,
-        "date": "2026-06-04",
-        "endDate": "2026-06-06",
+        "date": "2026-06-05",
+        "endDate": "2026-06-07",
         "location": "Monaco",
         "country": "MC",
         "region": "MC-MC",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -9603,8 +9603,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795478508182,
+    "kaiserFantasySchedule": 1795478721179,
     "kaiserFantasyScores": 1795478591133
   },
-  "savedAt": 1795478591501
+  "savedAt": 1795478721225
 }
