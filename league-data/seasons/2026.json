@@ -14693,7 +14693,7 @@
         "location": "Monza",
         "country": "IT",
         "region": "IT-LOM",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -16002,8 +16002,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795480048969,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479795396,
+    "kaiserFantasySchedule": 1795480174415,
     "kaiserFantasyScores": 1795480146837
   },
-  "savedAt": 1795480147544
+  "savedAt": 1795480174451
 }
