@@ -10461,14 +10461,14 @@
       },
       {
         "id": "71b737ef-e846-4327-9b0a-ab42aa5dbfb2",
-        "name": "Turkiye",
+        "name": "Bahrain",
         "series": "F1",
         "round": 17,
-        "date": "2026-10-01",
-        "endDate": "2026-10-03",
-        "location": "Istanbul",
-        "country": "TR",
-        "region": "TR-34",
+        "date": "2026-10-02",
+        "endDate": "2026-10-04",
+        "location": "Sepang",
+        "country": "MY",
+        "region": "MY-10",
         "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479470907,
+    "kaiserFantasySchedule": 1795479566643,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479470971
+  "savedAt": 1795479566701
 }
