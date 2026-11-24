@@ -635,23 +635,6 @@
         "seriesArchived": false
       },
       {
-        "id": "c81fd8b8-486e-4397-8313-3908a1206daf",
-        "name": "Franco Colapinto",
-        "number": "43",
-        "class": "F1",
-        "raceTeam": "Alpine",
-        "manufacturer": "Mercedes",
-        "nationality": "AR",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "nationalityRegion": "AR-BA",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "1e071dca-b5be-450d-9755-b8368b32337c",
         "name": "Cooper Webb",
         "number": "2",
@@ -4031,8 +4014,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492490351,
+    "kaiserFantasyAthletes": 1795492497828,
     "kaiserFantasyTeams": 1795492490351
   },
-  "savedAt": 1795492495573
+  "savedAt": 1795492497984
 }
