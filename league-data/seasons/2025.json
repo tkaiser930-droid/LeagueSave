@@ -3938,8 +3938,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 1,
-        "date": "2025-03-06",
-        "endDate": "2025-03-08",
+        "date": "2025-03-14",
+        "endDate": "2025-03-16",
         "location": "Melbourne",
         "country": "AU",
         "region": "AU-VIC"
@@ -3988,7 +3988,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795402109121,
-    "kaiserFantasyTeams": 1795402109121
+    "kaiserFantasyTeams": 1795402109121,
+    "kaiserFantasySchedule": 1795481413522
   },
-  "savedAt": 1795481385281
+  "savedAt": 1795481413563
 }
