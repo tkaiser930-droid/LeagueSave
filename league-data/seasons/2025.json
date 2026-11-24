@@ -11804,13 +11804,13 @@
         "id": "3208a6f2-70b2-4271-a658-1d381cf79348",
         "name": "Qatar",
         "series": "F1",
-        "round": 22,
-        "date": "2025-11-27",
-        "endDate": "2025-11-29",
+        "round": 23,
+        "date": "2025-11-28",
+        "endDate": "2025-11-30",
         "location": "Lusail",
         "country": "QA",
         "region": "QA-ZA",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488734064,
+    "kaiserFantasySchedule": 1795488838862,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488734125
+  "savedAt": 1795488838930
 }
