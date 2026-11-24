@@ -3396,7 +3396,7 @@
         "endDate": "2025-04-13",
         "location": "Bahrain",
         "country": "BH",
-        "region": "",
+        "region": "BH-14",
         "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
@@ -4667,8 +4667,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795482555180,
+    "kaiserFantasySchedule": 1795482593795,
     "kaiserFantasyScores": 1795482311949
   },
-  "savedAt": 1795482555206
+  "savedAt": 1795482593840
 }
