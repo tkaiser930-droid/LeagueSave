@@ -1386,9 +1386,9 @@
         "series": "F1",
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
-        "round": 1,
-        "date": "2024-03-14",
-        "endDate": "2024-03-16",
+        "round": 3,
+        "date": "2024-03-22",
+        "endDate": "2024-03-24",
         "location": "Melbourne",
         "country": "AU",
         "region": "AU-VIC"
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490463456
+    "kaiserFantasySchedule": 1795490487135
   },
-  "savedAt": 1795490463534
+  "savedAt": 1795490487196
 }
