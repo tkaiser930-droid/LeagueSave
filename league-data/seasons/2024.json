@@ -189,8 +189,8 @@
         "name": "United States",
         "series": "F1",
         "round": 19,
-        "date": "2024-10-17",
-        "endDate": "2024-10-19",
+        "date": "2024-10-18",
+        "endDate": "2024-10-20",
         "location": "Austin",
         "country": "US",
         "region": "US-TX",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491108223
+    "kaiserFantasySchedule": 1795491175028
   },
-  "savedAt": 1795491108289
+  "savedAt": 1795491175082
 }
