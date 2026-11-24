@@ -588,8 +588,8 @@
         "name": "Nico Hulkenberg",
         "number": "27",
         "class": "F1",
-        "raceTeam": "Audi",
-        "manufacturer": "Audi",
+        "raceTeam": "Haas",
+        "manufacturer": "Ferrari",
         "nationality": "DE",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -4033,8 +4033,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492329080,
+    "kaiserFantasyAthletes": 1795492360112,
     "kaiserFantasyTeams": 1795492221194
   },
-  "savedAt": 1795492329180
+  "savedAt": 1795492360194
 }
