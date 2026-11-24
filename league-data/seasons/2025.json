@@ -11661,13 +11661,13 @@
         "id": "5d46c118-5aa0-40bf-9852-4d8ecc9f97b5",
         "name": "Belgium",
         "series": "F1",
-        "round": 10,
-        "date": "2025-07-17",
-        "endDate": "2025-07-19",
+        "round": 13,
+        "date": "2025-07-25",
+        "endDate": "2025-07-27",
         "location": "Spa-Francorchamps",
         "country": "BE",
         "region": "BE-WLG",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795484025915,
+    "kaiserFantasySchedule": 1795487407064,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795484324065
+  "savedAt": 1795487407129
 }
