@@ -11765,9 +11765,9 @@
         "id": "686f7d9f-afc4-4b86-8a4b-119ccf584568",
         "name": "Mexico",
         "series": "F1",
-        "round": 19,
-        "date": "2025-10-30",
-        "endDate": "2025-11-01",
+        "round": 20,
+        "date": "2025-10-24",
+        "endDate": "2025-10-26",
         "location": "Mexico City",
         "country": "MX",
         "region": "MX-CMX",
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488369890,
+    "kaiserFantasySchedule": 1795488392931,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488369957
+  "savedAt": 1795488392993
 }
