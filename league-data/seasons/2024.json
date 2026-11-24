@@ -2552,6 +2552,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "03487683-5dd5-4d21-b948-4b4a89e19308",
+        "name": "Franco Colapinto",
+        "number": "43",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Williams",
+        "manufacturer": "Mercedes",
+        "nationality": "AR",
+        "nationalityRegion": "AR-BA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -15600,9 +15616,9 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492867078,
+    "kaiserFantasyAthletes": 1795493844272,
     "kaiserFantasyTeams": 1795492867078,
     "kaiserFantasyScores": 1795493712343
   },
-  "savedAt": 1795493712733
+  "savedAt": 1795493844587
 }
