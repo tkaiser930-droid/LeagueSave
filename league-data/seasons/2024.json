@@ -215,8 +215,8 @@
         "name": "Brazil",
         "series": "F1",
         "round": 21,
-        "date": "2024-11-07",
-        "endDate": "2024-11-09",
+        "date": "2024-11-01",
+        "endDate": "2024-11-03",
         "location": "Sao Paulo",
         "country": "BR",
         "region": "BR-SP",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491210436
+    "kaiserFantasySchedule": 1795491237416
   },
-  "savedAt": 1795491210535
+  "savedAt": 1795491237468
 }
