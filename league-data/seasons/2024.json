@@ -71,7 +71,7 @@
         "id": "fa28638a-0824-458b-8729-4e61410116bb",
         "name": "Spain",
         "series": "F1",
-        "round": 9,
+        "round": 10,
         "date": "2024-06-21",
         "endDate": "2024-06-23",
         "location": "Barcelona",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490824880
+    "kaiserFantasySchedule": 1795490831584
   },
-  "savedAt": 1795490824927
+  "savedAt": 1795490831631
 }
