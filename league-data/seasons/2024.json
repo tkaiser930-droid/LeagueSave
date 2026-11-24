@@ -550,23 +550,6 @@
         "seriesArchived": false
       },
       {
-        "id": "7cb5977b-4dd6-4238-9d59-d95e43904634",
-        "name": "Gabriel Bortoleto",
-        "number": "5",
-        "class": "F1",
-        "raceTeam": "Audi",
-        "manufacturer": "Audi",
-        "nationality": "BR",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "nationalityRegion": "BR-SP",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "df21f332-5695-402b-bf8a-df39449ec5d8",
         "name": "Nico Hulkenberg",
         "number": "27",
@@ -4048,8 +4031,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492487917,
+    "kaiserFantasyAthletes": 1795492490351,
     "kaiserFantasyTeams": 1795492487917
   },
-  "savedAt": 1795492490660
+  "savedAt": 1795492493024
 }
