@@ -5848,9 +5848,9 @@
         "id": "5dcdbe54-d212-43c9-918a-610ae75934a1",
         "name": "Monaco",
         "series": "F1",
-        "round": 6,
-        "date": "2025-06-05",
-        "endDate": "2025-06-07",
+        "round": 8,
+        "date": "2025-05-23",
+        "endDate": "2025-05-25",
         "location": "Monaco",
         "country": "MC",
         "region": "MC-MC",
@@ -7241,8 +7241,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795483506021,
+    "kaiserFantasySchedule": 1795483617804,
     "kaiserFantasyScores": 1795482878097
   },
-  "savedAt": 1795483506060
+  "savedAt": 1795483617856
 }
