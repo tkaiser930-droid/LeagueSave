@@ -622,7 +622,7 @@
         "name": "Valtteri Bottas",
         "number": "77",
         "class": "F1",
-        "raceTeam": "Cadillac",
+        "raceTeam": "Alfa Romeo",
         "manufacturer": "Ferrari",
         "nationality": "FI",
         "pointsLeader": false,
@@ -4033,8 +4033,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492360112,
+    "kaiserFantasyAthletes": 1795492374530,
     "kaiserFantasyTeams": 1795492360113
   },
-  "savedAt": 1795492362304
+  "savedAt": 1795492374621
 }
