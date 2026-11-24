@@ -6794,9 +6794,9 @@
         "id": "679a1213-2902-47b8-986e-06a4a08aa6a4",
         "name": "Canada",
         "series": "F1",
-        "round": 7,
-        "date": "2026-05-21",
-        "endDate": "2026-05-23",
+        "round": 5,
+        "date": "2026-05-22",
+        "endDate": "2026-05-24",
         "location": "Montreal",
         "country": "CA",
         "region": "CA-QC",
@@ -8187,8 +8187,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795475391607,
+    "kaiserFantasySchedule": 1795478465296,
     "kaiserFantasyScores": 1795478432402
   },
-  "savedAt": 1795478432708
+  "savedAt": 1795478465350
 }
