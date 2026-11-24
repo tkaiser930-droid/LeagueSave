@@ -10482,7 +10482,7 @@
         "location": "Singapore",
         "country": "SG",
         "region": "SG-01",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479669443,
+    "kaiserFantasySchedule": 1795479681472,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479669485
+  "savedAt": 1795479681530
 }
