@@ -2594,6 +2594,22 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "1cd19b91-03d7-4dad-a3ed-7deb3d2fdd36",
+        "name": "Yuki Tsunoda",
+        "number": "22",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Racing Bulls",
+        "manufacturer": "Ford",
+        "nationality": "JP",
+        "nationalityRegion": "JP-14",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -14568,10 +14584,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795473314089,
+    "kaiserFantasyAthletes": 1795480048969,
     "kaiserFantasyTeams": 1795473314089,
     "kaiserFantasySchedule": 1795479795396,
     "kaiserFantasyScores": 1795479921109
   },
-  "savedAt": 1795479921497
+  "savedAt": 1795480049266
 }
