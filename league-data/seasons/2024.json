@@ -254,8 +254,8 @@
         "name": "Abu Dhabi",
         "series": "F1",
         "round": 24,
-        "date": "2024-12-05",
-        "endDate": "2024-12-07",
+        "date": "2024-12-06",
+        "endDate": "2024-12-08",
         "location": "Yas Island",
         "country": "AE",
         "region": "AE-AZ",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491336339
+    "kaiserFantasySchedule": 1795491361341
   },
-  "savedAt": 1795491336388
+  "savedAt": 1795491361405
 }
