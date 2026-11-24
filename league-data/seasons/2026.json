@@ -10502,9 +10502,9 @@
         "id": "47b4e612-cedb-468b-b831-8f93d5ae3498",
         "name": "Mexico",
         "series": "F1",
-        "round": 20,
-        "date": "2026-10-29",
-        "endDate": "2026-10-31",
+        "round": 19,
+        "date": "2026-10-30",
+        "endDate": "2026-11-01",
         "location": "Mexico City",
         "country": "MX",
         "region": "MX-CMX",
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479653218,
+    "kaiserFantasySchedule": 1795479669443,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479653267
+  "savedAt": 1795479669485
 }
