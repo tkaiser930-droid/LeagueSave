@@ -635,23 +635,6 @@
         "seriesArchived": false
       },
       {
-        "id": "c85c30e6-b29c-4a9f-a63f-f1bd759c2386",
-        "name": "Rafael Camara",
-        "number": "50",
-        "class": "F1",
-        "raceTeam": "Haas",
-        "manufacturer": "Ferrari",
-        "nationality": "BR",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "nationalityRegion": "BR-PE",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "d3a80ad2-6c68-4fcc-86ff-0c42908a39dc",
         "name": "Oliver Bearman",
         "number": "87",
@@ -4034,8 +4017,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492204817,
+    "kaiserFantasyAthletes": 1795492221193,
     "kaiserFantasyTeams": 1795492109777
   },
-  "savedAt": 1795492204906
+  "savedAt": 1795492221283
 }
