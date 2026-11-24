@@ -110,13 +110,13 @@
         "id": "3f97f12b-78dd-4812-be71-947ed8bad254",
         "name": "Belgium",
         "series": "F1",
-        "round": 13,
-        "date": "2024-07-25",
-        "endDate": "2024-07-27",
+        "round": 14,
+        "date": "2024-07-26",
+        "endDate": "2024-07-28",
         "location": "Spa-Francorchamps",
         "country": "BE",
         "region": "BE-WLG",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490903003
+    "kaiserFantasySchedule": 1795490948191
   },
-  "savedAt": 1795490903068
+  "savedAt": 1795490948243
 }
