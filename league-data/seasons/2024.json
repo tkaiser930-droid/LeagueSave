@@ -1452,8 +1452,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 7,
-        "date": "2024-05-16",
-        "endDate": "2024-05-18",
+        "date": "2024-05-17",
+        "endDate": "2024-05-19",
         "location": "Imola",
         "country": "IT",
         "region": "IT-EMR"
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490649466
+    "kaiserFantasySchedule": 1795490679320
   },
-  "savedAt": 1795490649538
+  "savedAt": 1795490679385
 }
