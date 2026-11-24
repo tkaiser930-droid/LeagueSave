@@ -8941,14 +8941,14 @@
       },
       {
         "id": "c87d0bfb-c5a8-4fbf-be96-e91d401d2415",
-        "name": "Portugal",
+        "name": "Barcelona-Catalunya",
         "series": "F1",
-        "round": 9,
-        "date": "2026-06-18",
-        "endDate": "2026-06-20",
-        "location": "Portimao",
-        "country": "PT",
-        "region": "PT-08",
+        "round": 7,
+        "date": "2026-06-12",
+        "endDate": "2026-06-14",
+        "location": "Barcelona",
+        "country": "ES",
+        "region": "ES-CT",
         "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
@@ -10310,8 +10310,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795478732153,
+    "kaiserFantasySchedule": 1795478952725,
     "kaiserFantasyScores": 1795478771989
   },
-  "savedAt": 1795478772272
+  "savedAt": 1795478952779
 }
