@@ -11778,13 +11778,13 @@
         "id": "15a10a0e-6a14-4e23-ac33-70b1a232e906",
         "name": "Brazil",
         "series": "F1",
-        "round": 20,
-        "date": "2025-11-06",
-        "endDate": "2025-11-08",
+        "round": 21,
+        "date": "2025-11-07",
+        "endDate": "2025-11-09",
         "location": "Sao Paulo",
         "country": "BR",
         "region": "BR-SP",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488392931,
+    "kaiserFantasySchedule": 1795488679296,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488392993
+  "savedAt": 1795488679340
 }
