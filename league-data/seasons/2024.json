@@ -176,8 +176,8 @@
         "name": "Singapore",
         "series": "F1",
         "round": 18,
-        "date": "2024-10-03",
-        "endDate": "2024-10-05",
+        "date": "2024-09-20",
+        "endDate": "2024-09-22",
         "location": "Singapore",
         "country": "SG",
         "region": "SG-01",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491083137
+    "kaiserFantasySchedule": 1795491108223
   },
-  "savedAt": 1795491083191
+  "savedAt": 1795491108289
 }
