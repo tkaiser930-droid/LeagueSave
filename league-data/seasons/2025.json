@@ -5887,9 +5887,9 @@
         "id": "668b4315-cbf4-4985-b148-4b2ccf2a4c2d",
         "name": "Austria",
         "series": "F1",
-        "round": 8,
-        "date": "2025-06-26",
-        "endDate": "2025-06-28",
+        "round": 11,
+        "date": "2025-06-27",
+        "endDate": "2025-06-29",
         "location": "Spielberg",
         "country": "AT",
         "region": "AT-6",
@@ -7267,8 +7267,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795483941354,
+    "kaiserFantasySchedule": 1795483992329,
     "kaiserFantasyScores": 1795482878097
   },
-  "savedAt": 1795483941405
+  "savedAt": 1795483992367
 }
