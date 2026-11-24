@@ -2591,6 +2591,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "85b143dc-7089-46ba-8570-88ad851784e5",
+        "name": "Jack Doohan",
+        "number": "61",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Alpine",
+        "manufacturer": "Renault",
+        "nationality": "AU",
+        "nationalityRegion": "AU-QLD",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -22721,9 +22737,9 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795494167114,
+    "kaiserFantasyAthletes": 1795494556244,
     "kaiserFantasyTeams": 1795493912615,
     "kaiserFantasyScores": 1795494487380
   },
-  "savedAt": 1795494488226
+  "savedAt": 1795494556685
 }
