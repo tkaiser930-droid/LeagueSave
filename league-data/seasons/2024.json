@@ -137,8 +137,8 @@
         "name": "Italy",
         "series": "F1",
         "round": 16,
-        "date": "2024-09-05",
-        "endDate": "2024-09-07",
+        "date": "2024-08-30",
+        "endDate": "2024-09-01",
         "location": "Monza",
         "country": "IT",
         "region": "IT-LOM",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491026294
+    "kaiserFantasySchedule": 1795491060322
   },
-  "savedAt": 1795491026359
+  "savedAt": 1795491060375
 }
