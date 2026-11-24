@@ -2575,6 +2575,22 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "79848033-8bfe-470f-a4ea-2014f874fe60",
+        "name": "Liam Lawson",
+        "number": "30",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Racing Bulls",
+        "manufacturer": "Honda Engines",
+        "nationality": "NZ",
+        "nationalityRegion": "NZ-HKB",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -17554,9 +17570,9 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795494068543,
+    "kaiserFantasyAthletes": 1795494167114,
     "kaiserFantasyTeams": 1795493912615,
     "kaiserFantasyScores": 1795493985224
   },
-  "savedAt": 1795494068783
+  "savedAt": 1795494167504
 }
