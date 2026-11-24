@@ -397,23 +397,6 @@
         "seriesArchived": false
       },
       {
-        "id": "46d17efb-4f53-41b2-bac5-ab854d9afd0a",
-        "name": "Isack Hadjar",
-        "number": "6",
-        "class": "F1",
-        "raceTeam": "Red Bull Racing",
-        "manufacturer": "Ford",
-        "nationality": "FR",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "nationalityRegion": "FR-IDF",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "10a08446-d44c-4a9b-bfc7-63220bf5f51e",
         "name": "George Russell",
         "number": "63",
@@ -4065,8 +4048,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492468124,
+    "kaiserFantasyAthletes": 1795492487917,
     "kaiserFantasyTeams": 1795492374530
   },
-  "savedAt": 1795492468582
+  "savedAt": 1795492488033
 }
