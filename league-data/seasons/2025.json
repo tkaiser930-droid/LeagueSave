@@ -12987,9 +12987,9 @@
         "id": "a668c206-3d09-467c-817c-735027edd07f",
         "name": "Netherlands",
         "series": "F1",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": "",
-        "round": 12,
+        "round": 15,
         "date": "2025-08-21",
         "endDate": "2025-08-23",
         "location": "Zandvoort",
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795487449180,
+    "kaiserFantasySchedule": 1795488130595,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795487449252
+  "savedAt": 1795488130645
 }
