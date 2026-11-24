@@ -20,8 +20,8 @@
         "name": "Japan",
         "series": "F1",
         "round": 3,
-        "date": "2024-04-04",
-        "endDate": "2024-04-06",
+        "date": "2024-04-05",
+        "endDate": "2024-04-07",
         "location": "Suzuka",
         "country": "JP",
         "region": "JP-24",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490487135
+    "kaiserFantasySchedule": 1795490586662
   },
-  "savedAt": 1795490487196
+  "savedAt": 1795490586721
 }
