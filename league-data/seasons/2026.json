@@ -10411,9 +10411,9 @@
         "id": "7c096a53-e0fa-4045-964b-5765d8cc6686",
         "name": "Hungary",
         "series": "F1",
-        "round": 13,
-        "date": "2026-07-30",
-        "endDate": "2026-08-01",
+        "round": 11,
+        "date": "2026-07-24",
+        "endDate": "2026-07-26",
         "location": "Budapest",
         "country": "HU",
         "region": "HU-01",
@@ -11726,8 +11726,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479186485,
+    "kaiserFantasySchedule": 1795479236854,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479186545
+  "savedAt": 1795479236903
 }
