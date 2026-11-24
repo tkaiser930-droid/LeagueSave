@@ -10372,9 +10372,9 @@
         "id": "d5bedac6-a1d0-4da9-a653-128ef2f2900a",
         "name": "Great Britain",
         "series": "F1",
-        "round": 10,
-        "date": "2026-07-02",
-        "endDate": "2026-07-04",
+        "round": 9,
+        "date": "2026-07-03",
+        "endDate": "2026-07-05",
         "location": "Silverstone",
         "country": "GB",
         "region": "GB-ENG",
@@ -11726,8 +11726,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479062367,
+    "kaiserFantasySchedule": 1795479158629,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479087205
+  "savedAt": 1795479158693
 }
