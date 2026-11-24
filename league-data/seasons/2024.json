@@ -2557,6 +2557,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "d9e29118-b482-4b26-bcb2-c36beb7650d1",
+        "name": "Kevin Magnussen",
+        "number": "20",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Haas",
+        "manufacturer": "Ferrari",
+        "nationality": "DK",
+        "nationalityRegion": "DK-85",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -4017,8 +4033,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492221193,
+    "kaiserFantasyAthletes": 1795492329080,
     "kaiserFantasyTeams": 1795492221194
   },
-  "savedAt": 1795492224054
+  "savedAt": 1795492329180
 }
