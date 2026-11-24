@@ -2558,6 +2558,22 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "6961aea2-1045-44b5-afd8-d16e6d5327ac",
+        "name": "Logan Sargeant",
+        "number": "2",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Williams",
+        "manufacturer": "Mercedes",
+        "nationality": "US",
+        "nationalityRegion": "US-FL",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -4018,8 +4034,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492109777,
+    "kaiserFantasyAthletes": 1795492204817,
     "kaiserFantasyTeams": 1795492109777
   },
-  "savedAt": 1795492112009
+  "savedAt": 1795492204906
 }
