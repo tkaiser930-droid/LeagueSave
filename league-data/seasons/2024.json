@@ -33,8 +33,8 @@
         "name": "Miami",
         "series": "F1",
         "round": 6,
-        "date": "2024-05-02",
-        "endDate": "2024-05-04",
+        "date": "2024-05-03",
+        "endDate": "2024-05-05",
         "location": "Miami",
         "country": "US",
         "region": "US-FL",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490630170
+    "kaiserFantasySchedule": 1795490649466
   },
-  "savedAt": 1795490630219
+  "savedAt": 1795490649538
 }
