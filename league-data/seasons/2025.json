@@ -11674,9 +11674,9 @@
         "id": "bfff6410-b3b2-4382-9aa8-18aec11b2390",
         "name": "Hungary",
         "series": "F1",
-        "round": 11,
-        "date": "2025-07-24",
-        "endDate": "2025-07-26",
+        "round": 14,
+        "date": "2025-08-01",
+        "endDate": "2025-08-03",
         "location": "Budapest",
         "country": "HU",
         "region": "HU-01",
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795487407064,
+    "kaiserFantasySchedule": 1795487449180,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795487407129
+  "savedAt": 1795487449252
 }
