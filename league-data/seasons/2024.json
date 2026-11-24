@@ -452,8 +452,8 @@
         "name": "Lewis Hamilton",
         "number": "44",
         "class": "F1",
-        "raceTeam": "Ferrari",
-        "manufacturer": "Ferrari",
+        "raceTeam": "Mercedes AMG Petronas",
+        "manufacturer": "Mercedes",
         "nationality": "GB",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -4014,8 +4014,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492508072,
+    "kaiserFantasyAthletes": 1795492554230,
     "kaiserFantasyTeams": 1795492508072
   },
-  "savedAt": 1795492511098
+  "savedAt": 1795492554397
 }
