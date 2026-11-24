@@ -3236,8 +3236,8 @@
         "name": "Japan",
         "series": "F1",
         "round": 3,
-        "date": "2025-03-27",
-        "endDate": "2025-03-29",
+        "date": "2025-04-04",
+        "endDate": "2025-04-06",
         "location": "Suzuka",
         "country": "JP",
         "region": "JP-24",
@@ -4667,8 +4667,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795482433260,
+    "kaiserFantasySchedule": 1795482468087,
     "kaiserFantasyScores": 1795482311949
   },
-  "savedAt": 1795482433304
+  "savedAt": 1795482468137
 }
