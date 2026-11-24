@@ -10515,13 +10515,13 @@
         "id": "07868157-f100-4bff-a907-a936d57642dc",
         "name": "Brazil",
         "series": "F1",
-        "round": 21,
-        "date": "2026-11-05",
-        "endDate": "2026-11-07",
+        "round": 20,
+        "date": "2026-11-06",
+        "endDate": "2026-11-08",
         "location": "Sao Paulo",
         "country": "BR",
         "region": "BR-SP",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479681472,
+    "kaiserFantasySchedule": 1795479710632,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479681530
+  "savedAt": 1795479710677
 }
