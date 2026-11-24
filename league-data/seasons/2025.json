@@ -7234,6 +7234,19 @@
         "location": "Zandvoort",
         "country": "NL",
         "region": "NL-NH"
+      },
+      {
+        "id": "aa943341-530d-4020-a9ce-e097f48650e7",
+        "name": "Saudi Arabia",
+        "series": "F1",
+        "eventType": "Grand Prix",
+        "eventTypeDetail": "",
+        "round": 5,
+        "date": "2025-04-18",
+        "endDate": "2025-04-20",
+        "location": "Jeddah",
+        "country": "SA",
+        "region": "SA-02"
       }
     ]
   },
@@ -7241,8 +7254,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795483716176,
+    "kaiserFantasySchedule": 1795483798250,
     "kaiserFantasyScores": 1795482878097
   },
-  "savedAt": 1795483716214
+  "savedAt": 1795483798303
 }
