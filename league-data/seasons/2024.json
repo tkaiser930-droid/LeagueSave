@@ -228,8 +228,8 @@
         "name": "Las Vegas",
         "series": "F1",
         "round": 22,
-        "date": "2024-11-20",
-        "endDate": "2024-11-22",
+        "date": "2024-11-21",
+        "endDate": "2024-11-23",
         "location": "Las Vegas",
         "country": "US",
         "region": "US-NV",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491237416
+    "kaiserFantasySchedule": 1795491269972
   },
-  "savedAt": 1795491237468
+  "savedAt": 1795491270034
 }
