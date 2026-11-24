@@ -5874,13 +5874,13 @@
         "id": "0979fee7-785e-497b-9de4-a40f77a0166e",
         "name": "Great Britain",
         "series": "F1",
-        "round": 9,
-        "date": "2025-07-03",
-        "endDate": "2025-07-05",
+        "round": 12,
+        "date": "2025-07-04",
+        "endDate": "2025-07-06",
         "location": "Silverstone",
         "country": "GB",
         "region": "GB-ENG",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -7267,8 +7267,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795483992329,
+    "kaiserFantasySchedule": 1795484025915,
     "kaiserFantasyScores": 1795482878097
   },
-  "savedAt": 1795483992367
+  "savedAt": 1795484025957
 }
