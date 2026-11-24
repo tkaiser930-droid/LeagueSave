@@ -11817,9 +11817,9 @@
         "id": "a22aec8e-4fb1-40a8-b6c3-6006b3ef6261",
         "name": "Abu Dhabi",
         "series": "F1",
-        "round": 23,
-        "date": "2025-12-04",
-        "endDate": "2025-12-06",
+        "round": 24,
+        "date": "2025-12-05",
+        "endDate": "2025-12-07",
         "location": "Yas Island",
         "country": "AE",
         "region": "AE-AZ",
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488838862,
+    "kaiserFantasySchedule": 1795488933424,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488838930
+  "savedAt": 1795488933517
 }
