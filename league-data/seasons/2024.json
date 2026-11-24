@@ -59,8 +59,8 @@
         "name": "Monaco",
         "series": "F1",
         "round": 8,
-        "date": "2024-05-23",
-        "endDate": "2024-05-25",
+        "date": "2024-05-24",
+        "endDate": "2024-05-26",
         "location": "Monaco",
         "country": "MC",
         "region": "MC-MC",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490679320
+    "kaiserFantasySchedule": 1795490719378
   },
-  "savedAt": 1795490679385
+  "savedAt": 1795490719438
 }
