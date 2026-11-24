@@ -11697,19 +11697,6 @@
         "eventTypeDetail": ""
       },
       {
-        "id": "a041e543-510a-4637-9bd5-a9000b850306",
-        "name": "Spain",
-        "series": "F1",
-        "round": 14,
-        "date": "2025-09-11",
-        "endDate": "2025-09-13",
-        "location": "Madrid",
-        "country": "ES",
-        "region": "ES-MD",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": ""
-      },
-      {
         "id": "4fb154ef-44f3-4186-8059-9a592bedec35",
         "name": "Azerbaijan",
         "series": "F1",
@@ -13028,8 +13015,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488933424,
+    "kaiserFantasySchedule": 1795488945695,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488933517
+  "savedAt": 1795488945764
 }
