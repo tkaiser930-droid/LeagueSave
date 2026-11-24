@@ -45,9 +45,9 @@
         "id": "82531d98-65af-4fc7-a4e4-62f8ed70496d",
         "name": "Canada",
         "series": "F1",
-        "round": 10,
-        "date": "2024-06-13",
-        "endDate": "2024-06-15",
+        "round": 9,
+        "date": "2024-06-07",
+        "endDate": "2024-06-09",
         "location": "Montreal",
         "country": "CA",
         "region": "CA-QC",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490719378
+    "kaiserFantasySchedule": 1795490760960
   },
-  "savedAt": 1795490719438
+  "savedAt": 1795490761014
 }
