@@ -4629,8 +4629,8 @@
         "eventType": "Sprint",
         "eventTypeDetail": "",
         "round": 2,
-        "date": "2025-03-13",
-        "endDate": "2025-03-15",
+        "date": "2025-03-21",
+        "endDate": "2025-03-23",
         "location": "Shanghai",
         "country": "CN",
         "region": "CN-SH"
@@ -4667,8 +4667,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795481413522,
+    "kaiserFantasySchedule": 1795482433260,
     "kaiserFantasyScores": 1795482311949
   },
-  "savedAt": 1795482404952
+  "savedAt": 1795482433304
 }
