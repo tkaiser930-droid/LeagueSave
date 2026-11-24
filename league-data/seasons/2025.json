@@ -12990,8 +12990,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 15,
-        "date": "2025-08-21",
-        "endDate": "2025-08-23",
+        "date": "2025-08-29",
+        "endDate": "2025-08-31",
         "location": "Zandvoort",
         "country": "NL",
         "region": "NL-NH"
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488160000,
+    "kaiserFantasySchedule": 1795488181680,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488160047
+  "savedAt": 1795488181733
 }
