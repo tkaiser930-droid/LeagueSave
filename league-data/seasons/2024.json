@@ -414,23 +414,6 @@
         "seriesArchived": false
       },
       {
-        "id": "973962eb-a20b-4e66-aa18-b4183a42e742",
-        "name": "Kimi Antonelli",
-        "number": "12",
-        "class": "F1",
-        "raceTeam": "Mercedes AMG Petronas",
-        "manufacturer": "Mercedes",
-        "nationality": "IT",
-        "pointsLeader": true,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": true,
-        "nationalityRegion": "IT-EMR",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "10a08446-d44c-4a9b-bfc7-63220bf5f51e",
         "name": "George Russell",
         "number": "63",
@@ -4035,8 +4018,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795491970353,
+    "kaiserFantasyAthletes": 1795491998757,
     "kaiserFantasyTeams": 1795491970354
   },
-  "savedAt": 1795491972999
+  "savedAt": 1795491998881
 }
