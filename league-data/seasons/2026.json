@@ -2610,6 +2610,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "4db7514a-18d1-4366-8b8c-f41bac9f7383",
+        "name": "Ryo Hirakawa",
+        "number": "50",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Haas",
+        "manufacturer": "Ferrari",
+        "nationality": "JP",
+        "nationalityRegion": "JP-34",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -20954,10 +20970,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795480048969,
+    "kaiserFantasyAthletes": 1795480617075,
     "kaiserFantasyTeams": 1795473314089,
     "kaiserFantasySchedule": 1795480174415,
     "kaiserFantasyScores": 1795480475567
   },
-  "savedAt": 1795480476147
+  "savedAt": 1795480617524
 }
