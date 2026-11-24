@@ -98,8 +98,8 @@
         "name": "Austria",
         "series": "F1",
         "round": 11,
-        "date": "2024-06-27",
-        "endDate": "2024-06-29",
+        "date": "2024-06-28",
+        "endDate": "2024-06-30",
         "location": "Spielberg",
         "country": "AT",
         "region": "AT-6",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490784548
+    "kaiserFantasySchedule": 1795490824880
   },
-  "savedAt": 1795490784597
+  "savedAt": 1795490824927
 }
