@@ -123,9 +123,9 @@
         "id": "ceb7bc34-a844-4691-b732-242eb0836ba8",
         "name": "Hungary",
         "series": "F1",
-        "round": 14,
-        "date": "2024-08-01",
-        "endDate": "2024-08-03",
+        "round": 13,
+        "date": "2024-07-19",
+        "endDate": "2024-07-21",
         "location": "Budapest",
         "country": "HU",
         "region": "HU-01",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490948191
+    "kaiserFantasySchedule": 1795490991101
   },
-  "savedAt": 1795490948243
+  "savedAt": 1795490991150
 }
