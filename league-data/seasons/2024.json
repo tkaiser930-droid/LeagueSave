@@ -103,7 +103,7 @@
         "location": "Spielberg",
         "country": "AT",
         "region": "AT-6",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490879169
+    "kaiserFantasySchedule": 1795490903003
   },
-  "savedAt": 1795490879217
+  "savedAt": 1795490903068
 }
