@@ -10554,13 +10554,13 @@
         "id": "476c5f91-5404-4272-b096-c23f530248ba",
         "name": "Abu Dhabi",
         "series": "F1",
-        "round": 24,
-        "date": "2026-12-10",
-        "endDate": "2026-12-12",
+        "round": 23,
+        "date": "2026-12-04",
+        "endDate": "2026-12-06",
         "location": "Yas Island",
         "country": "AE",
         "region": "AE-AZ",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479764252,
+    "kaiserFantasySchedule": 1795479786905,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479764300
+  "savedAt": 1795479786945
 }
