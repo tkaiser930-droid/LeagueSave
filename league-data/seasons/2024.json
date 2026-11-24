@@ -603,9 +603,9 @@
       {
         "id": "d3a80ad2-6c68-4fcc-86ff-0c42908a39dc",
         "name": "Oliver Bearman",
-        "number": "38",
+        "number": "50",
         "class": "F1",
-        "raceTeam": "Ferrari",
+        "raceTeam": "Haas",
         "manufacturer": "Ferrari",
         "nationality": "GB",
         "pointsLeader": false,
@@ -16259,9 +16259,9 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795493844272,
+    "kaiserFantasyAthletes": 1795493912615,
     "kaiserFantasyTeams": 1795492867078,
     "kaiserFantasyScores": 1795493868291
   },
-  "savedAt": 1795493868769
+  "savedAt": 1795493912938
 }
