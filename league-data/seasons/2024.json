@@ -1426,8 +1426,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 15,
-        "date": "2024-08-29",
-        "endDate": "2024-08-31",
+        "date": "2024-08-23",
+        "endDate": "2024-08-25",
         "location": "Zandvoort",
         "country": "NL",
         "region": "NL-NH"
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490991101
+    "kaiserFantasySchedule": 1795491026294
   },
-  "savedAt": 1795490991150
+  "savedAt": 1795491026359
 }
