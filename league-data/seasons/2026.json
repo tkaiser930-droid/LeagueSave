@@ -10398,9 +10398,9 @@
         "id": "399de8b7-7078-4deb-a32b-5a14c502e674",
         "name": "Belgium",
         "series": "F1",
-        "round": 12,
-        "date": "2026-07-23",
-        "endDate": "2026-07-25",
+        "round": 10,
+        "date": "2026-07-17",
+        "endDate": "2026-07-19",
         "location": "Spa-Francorchamps",
         "country": "BE",
         "region": "BE-WLG",
@@ -11726,8 +11726,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479158629,
+    "kaiserFantasySchedule": 1795479186485,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479158693
+  "savedAt": 1795479186545
 }
