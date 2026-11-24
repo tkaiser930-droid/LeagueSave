@@ -11713,9 +11713,9 @@
         "id": "4fb154ef-44f3-4186-8059-9a592bedec35",
         "name": "Azerbaijan",
         "series": "F1",
-        "round": 15,
-        "date": "2025-09-24",
-        "endDate": "2025-09-26",
+        "round": 17,
+        "date": "2025-09-19",
+        "endDate": "2025-09-21",
         "location": "Baku",
         "country": "AZ",
         "region": "AZ-BAK",
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488181680,
+    "kaiserFantasySchedule": 1795488282125,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488181733
+  "savedAt": 1795488282208
 }
