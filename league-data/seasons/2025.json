@@ -11739,13 +11739,13 @@
         "id": "c97e4166-a2da-4c43-9734-48ffd516b4c1",
         "name": "Singapore",
         "series": "F1",
-        "round": 17,
-        "date": "2025-10-09",
-        "endDate": "2025-10-11",
+        "round": 18,
+        "date": "2025-10-03",
+        "endDate": "2025-10-05",
         "location": "Singapore",
         "country": "SG",
         "region": "SG-01",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -13028,8 +13028,8 @@
     "kaiserFantasyDraftSettings": 1795399526096,
     "kaiserFantasyAthletes": 1795482404819,
     "kaiserFantasyTeams": 1795402109121,
-    "kaiserFantasySchedule": 1795488282125,
+    "kaiserFantasySchedule": 1795488337425,
     "kaiserFantasyScores": 1795484323729
   },
-  "savedAt": 1795488282208
+  "savedAt": 1795488337501
 }
