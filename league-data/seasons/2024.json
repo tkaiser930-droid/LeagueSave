@@ -150,8 +150,8 @@
         "name": "Azerbaijan",
         "series": "F1",
         "round": 17,
-        "date": "2024-09-19",
-        "endDate": "2024-09-21",
+        "date": "2024-09-13",
+        "endDate": "2024-09-15",
         "location": "Baku",
         "country": "AZ",
         "region": "AZ-BAK",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795491060322
+    "kaiserFantasySchedule": 1795491083137
   },
-  "savedAt": 1795491060375
+  "savedAt": 1795491083191
 }
