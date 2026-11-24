@@ -11719,6 +11719,19 @@
         "location": "Spielberg",
         "country": "AT",
         "region": "AT-6"
+      },
+      {
+        "id": "8a23c554-3031-4c10-aacd-7125fd4a6e0e",
+        "name": "Netherlands",
+        "series": "F1",
+        "eventType": "Sprint",
+        "eventTypeDetail": "",
+        "round": 12,
+        "date": "2026-08-21",
+        "endDate": "2026-08-23",
+        "location": "Zandvoort",
+        "country": "NL",
+        "region": "NL-NH"
       }
     ]
   },
@@ -11726,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479236854,
+    "kaiserFantasySchedule": 1795479344038,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479236903
+  "savedAt": 1795479344081
 }
