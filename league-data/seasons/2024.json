@@ -1438,9 +1438,9 @@
         "series": "F1",
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
-        "round": 5,
-        "date": "2024-04-18",
-        "endDate": "2024-04-20",
+        "round": 2,
+        "date": "2024-03-07",
+        "endDate": "2024-03-09",
         "location": "Jeddah",
         "country": "SA",
         "region": "SA-02"
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490368686
+    "kaiserFantasySchedule": 1795490463456
   },
-  "savedAt": 1795490368752
+  "savedAt": 1795490463534
 }
