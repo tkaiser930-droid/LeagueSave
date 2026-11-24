@@ -10541,7 +10541,7 @@
         "id": "c271185c-c273-4657-8c24-6e3fd1e0b613",
         "name": "Qatar",
         "series": "F1",
-        "round": 23,
+        "round": 22,
         "date": "2026-11-27",
         "endDate": "2026-11-29",
         "location": "Lusail",
@@ -11739,8 +11739,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795473314089,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795479786905,
+    "kaiserFantasySchedule": 1795479795396,
     "kaiserFantasyScores": 1795479086860
   },
-  "savedAt": 1795479786945
+  "savedAt": 1795479795436
 }
