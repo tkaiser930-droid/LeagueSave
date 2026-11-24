@@ -1399,9 +1399,9 @@
         "series": "F1",
         "eventType": "Sprint",
         "eventTypeDetail": "",
-        "round": 2,
-        "date": "2024-03-21",
-        "endDate": "2024-03-23",
+        "round": 5,
+        "date": "2024-04-19",
+        "endDate": "2024-04-21",
         "location": "Shanghai",
         "country": "CN",
         "region": "CN-SH"
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490595152
+    "kaiserFantasySchedule": 1795490630170
   },
-  "savedAt": 1795490595201
+  "savedAt": 1795490630219
 }
