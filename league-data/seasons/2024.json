@@ -85,8 +85,8 @@
         "name": "Great Britain",
         "series": "F1",
         "round": 12,
-        "date": "2024-07-04",
-        "endDate": "2024-07-06",
+        "date": "2024-07-05",
+        "endDate": "2024-07-07",
         "location": "Silverstone",
         "country": "GB",
         "region": "GB-ENG",
@@ -1462,7 +1462,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
-    "kaiserFantasySchedule": 1795490831584
+    "kaiserFantasySchedule": 1795490879169
   },
-  "savedAt": 1795490831631
+  "savedAt": 1795490879217
 }
