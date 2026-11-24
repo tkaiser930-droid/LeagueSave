@@ -162,9 +162,9 @@
         "id": "1cb4e3d4-5667-479c-b83a-868a0889fd29",
         "name": "Bahrain",
         "series": "F1",
-        "round": 4,
-        "date": "2024-04-11",
-        "endDate": "2024-04-13",
+        "round": 1,
+        "date": "2024-02-29",
+        "endDate": "2024-03-02",
         "location": "Bahrain",
         "country": "BH",
         "region": "BH-14",
@@ -1461,7 +1461,8 @@
     ]
   },
   "keyUpdatedAt": {
-    "kaiserFantasyDraftSettings": 1795399574723
+    "kaiserFantasyDraftSettings": 1795399574723,
+    "kaiserFantasySchedule": 1795490368686
   },
-  "savedAt": 1795490247525
+  "savedAt": 1795490368752
 }
