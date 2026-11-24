@@ -2520,6 +2520,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "48f1d949-ca07-42f1-8f0d-de3b46a334a8",
+        "name": "Daniel Ricciardo",
+        "number": "3",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Racing Bulls",
+        "manufacturer": "Honda Engines",
+        "nationality": "AU",
+        "nationalityRegion": "AU-WA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -3980,8 +3996,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399574723,
     "kaiserFantasySchedule": 1795491361341,
-    "kaiserFantasyAthletes": 1795492630382,
+    "kaiserFantasyAthletes": 1795492697197,
     "kaiserFantasyTeams": 1795492630383
   },
-  "savedAt": 1795492634823
+  "savedAt": 1795492697304
 }
