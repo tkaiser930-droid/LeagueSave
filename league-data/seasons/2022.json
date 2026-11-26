@@ -329,23 +329,6 @@
         "seriesArchived": false
       },
       {
-        "id": "03487683-5dd5-4d21-b948-4b4a89e19308",
-        "name": "Franco Colapinto",
-        "number": "43",
-        "class": "F1",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "raceTeam": "Williams",
-        "manufacturer": "Mercedes",
-        "nationality": "AR",
-        "nationalityRegion": "AR-BA",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "79848033-8bfe-470f-a4ea-2014f874fe60",
         "name": "Liam Lawson",
         "number": "40",
@@ -713,8 +696,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
     "kaiserFantasySchedule": 1795657988559,
-    "kaiserFantasyAthletes": 1795658345187,
+    "kaiserFantasyAthletes": 1795658357887,
     "kaiserFantasyTeams": 1795658345187
   },
-  "savedAt": 1795658349338
+  "savedAt": 1795658357920
 }
