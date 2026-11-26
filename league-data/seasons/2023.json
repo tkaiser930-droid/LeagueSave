@@ -583,9 +583,9 @@
         "id": "6d3e5c00-b4e6-4dd6-b574-f0149491440e",
         "name": "Singapore",
         "series": "F1",
-        "round": 18,
-        "date": "2023-09-20",
-        "endDate": "2023-09-22",
+        "round": 15,
+        "date": "2023-09-15",
+        "endDate": "2023-09-17",
         "location": "Singapore",
         "country": "SG",
         "region": "SG-01",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655303605
+    "kaiserFantasySchedule": 1795655342997
   },
-  "savedAt": 1795655303636
+  "savedAt": 1795655343015
 }
