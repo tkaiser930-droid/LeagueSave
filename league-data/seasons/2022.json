@@ -520,8 +520,8 @@
         "name": "Belgium",
         "series": "F1",
         "round": 14,
-        "date": "2022-07-26",
-        "endDate": "2022-07-28",
+        "date": "2022-08-26",
+        "endDate": "2022-08-28",
         "location": "Spa-Francorchamps",
         "country": "BE",
         "region": "BE-WLG",
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657665740
+    "kaiserFantasySchedule": 1795657706889
   },
-  "savedAt": 1795657665749
+  "savedAt": 1795657706905
 }
