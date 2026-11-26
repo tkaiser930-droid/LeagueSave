@@ -633,19 +633,6 @@
         "eventTypeDetail": ""
       },
       {
-        "id": "453afe33-22c1-43f0-951c-6a212de9f0ee",
-        "name": "Qatar",
-        "series": "F1",
-        "round": 23,
-        "date": "2022-11-29",
-        "endDate": "2022-12-01",
-        "location": "Lusail",
-        "country": "QA",
-        "region": "QA-ZA",
-        "eventType": "Sprint",
-        "eventTypeDetail": ""
-      },
-      {
         "id": "8b505db6-1586-42cd-aa3b-b4a5e1972d5b",
         "name": "Abu Dhabi",
         "series": "F1",
@@ -727,7 +714,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657892848
+    "kaiserFantasySchedule": 1795657928738
   },
-  "savedAt": 1795657892872
+  "savedAt": 1795657928755
 }
