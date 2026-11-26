@@ -440,13 +440,13 @@
         "id": "96532e84-9143-4865-99f6-e81dabc5272e",
         "name": "Miami",
         "series": "F1",
-        "round": 6,
-        "date": "2023-05-03",
-        "endDate": "2023-05-05",
+        "round": 5,
+        "date": "2023-05-05",
+        "endDate": "2023-05-07",
         "location": "Miami",
         "country": "US",
         "region": "US-FL",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -728,7 +728,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654824318
+    "kaiserFantasySchedule": 1795654872965
   },
-  "savedAt": 1795654824325
+  "savedAt": 1795654872984
 }
