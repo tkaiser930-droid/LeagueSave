@@ -395,6 +395,22 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "e3bb0439-4300-4c03-9bae-98644b0e0d8f",
+        "name": "Nyck De Vries",
+        "number": "21",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "AlphaTauri",
+        "manufacturer": "Honda Engines",
+        "nationality": "NL",
+        "nationalityRegion": "NL-FR",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -723,8 +739,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399580581,
-    "kaiserFantasyAthletes": 1795654341736,
+    "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736
   },
-  "savedAt": 1795654343877
+  "savedAt": 1795654420474
 }
