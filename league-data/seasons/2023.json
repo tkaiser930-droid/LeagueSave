@@ -531,9 +531,9 @@
         "id": "8f866de8-dbaa-483c-98a9-b49f6b9bd21c",
         "name": "Hungary",
         "series": "F1",
-        "round": 13,
-        "date": "2023-07-19",
-        "endDate": "2023-07-21",
+        "round": 11,
+        "date": "2023-07-21",
+        "endDate": "2023-07-23",
         "location": "Budapest",
         "country": "HU",
         "region": "HU-01",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655143092
+    "kaiserFantasySchedule": 1795655177201
   },
-  "savedAt": 1795655143121
+  "savedAt": 1795655177213
 }
