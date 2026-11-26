@@ -546,8 +546,8 @@
         "name": "Italy",
         "series": "F1",
         "round": 16,
-        "date": "2022-08-30",
-        "endDate": "2022-09-01",
+        "date": "2022-09-09",
+        "endDate": "2022-09-11",
         "location": "Monza",
         "country": "IT",
         "region": "IT-LOM",
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657729573
+    "kaiserFantasySchedule": 1795657751847
   },
-  "savedAt": 1795657729582
+  "savedAt": 1795657751854
 }
