@@ -727,7 +727,7 @@
         "id": "20a5b70f-2923-4421-88f9-327c3cdc0b0a",
         "name": "Emilia Romagna",
         "series": "F1",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": "",
         "round": 4,
         "date": "2022-04-22",
@@ -740,7 +740,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657238044
+    "kaiserFantasySchedule": 1795657263160
   },
-  "savedAt": 1795657238065
+  "savedAt": 1795657263167
 }
