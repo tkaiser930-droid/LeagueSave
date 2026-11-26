@@ -729,9 +729,9 @@
         "series": "F1",
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
-        "round": 7,
-        "date": "2022-05-17",
-        "endDate": "2022-05-19",
+        "round": 4,
+        "date": "2022-04-22",
+        "endDate": "2022-04-24",
         "location": "Imola",
         "country": "IT",
         "region": "IT-EMR"
@@ -740,7 +740,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657198983
+    "kaiserFantasySchedule": 1795657238044
   },
-  "savedAt": 1795657198996
+  "savedAt": 1795657238065
 }
