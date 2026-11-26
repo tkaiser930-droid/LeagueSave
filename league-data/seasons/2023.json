@@ -466,9 +466,9 @@
         "id": "49a94145-2a08-489e-8b19-b2c9b2ddadab",
         "name": "Monaco",
         "series": "F1",
-        "round": 8,
-        "date": "2023-05-24",
-        "endDate": "2023-05-26",
+        "round": 6,
+        "date": "2023-05-26",
+        "endDate": "2023-05-28",
         "location": "Monaco",
         "country": "MC",
         "region": "MC-MC",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654934829
+    "kaiserFantasySchedule": 1795654987204
   },
-  "savedAt": 1795654934857
+  "savedAt": 1795654987237
 }
