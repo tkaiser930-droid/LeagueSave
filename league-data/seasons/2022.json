@@ -611,8 +611,8 @@
         "name": "Mexico",
         "series": "F1",
         "round": 20,
-        "date": "2022-10-25",
-        "endDate": "2022-10-27",
+        "date": "2022-10-28",
+        "endDate": "2022-10-30",
         "location": "Mexico City",
         "country": "MX",
         "region": "MX-CMX",
@@ -714,7 +714,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657928738
+    "kaiserFantasySchedule": 1795657940512
   },
-  "savedAt": 1795657928755
+  "savedAt": 1795657940515
 }
