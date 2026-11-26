@@ -735,12 +735,25 @@
         "location": "Imola",
         "country": "IT",
         "region": "IT-EMR"
+      },
+      {
+        "id": "d01df0ce-17d5-42d9-8964-73bf35995e9c",
+        "name": "France",
+        "series": "F1",
+        "eventType": "Grand Prix",
+        "eventTypeDetail": "",
+        "round": 12,
+        "date": "2022-07-22",
+        "endDate": "2022-07-24",
+        "location": "Paul Ricard",
+        "country": "FR",
+        "region": "FR-PAC"
       }
     ]
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657475233
+    "kaiserFantasySchedule": 1795657632495
   },
-  "savedAt": 1795657475240
+  "savedAt": 1795657632515
 }
