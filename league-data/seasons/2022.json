@@ -704,8 +704,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 15,
-        "date": "2022-08-23",
-        "endDate": "2022-08-25",
+        "date": "2022-09-02",
+        "endDate": "2022-09-04",
         "location": "Zandvoort",
         "country": "NL",
         "region": "NL-NH"
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657706889
+    "kaiserFantasySchedule": 1795657729573
   },
-  "savedAt": 1795657706905
+  "savedAt": 1795657729582
 }
