@@ -622,9 +622,9 @@
         "id": "69f1eef8-a336-4bff-a27a-d0cf7965014d",
         "name": "Brazil",
         "series": "F1",
-        "round": 21,
-        "date": "2023-11-01",
-        "endDate": "2023-11-03",
+        "round": 20,
+        "date": "2023-11-03",
+        "endDate": "2023-11-05",
         "location": "Sao Paulo",
         "country": "BR",
         "region": "BR-SP",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655466136
+    "kaiserFantasySchedule": 1795655486012
   },
-  "savedAt": 1795655466150
+  "savedAt": 1795655486037
 }
