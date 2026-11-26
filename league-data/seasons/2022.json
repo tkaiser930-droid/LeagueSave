@@ -598,8 +598,8 @@
         "name": "United States",
         "series": "F1",
         "round": 19,
-        "date": "2022-10-18",
-        "endDate": "2022-10-20",
+        "date": "2022-10-21",
+        "endDate": "2022-10-23",
         "location": "Austin",
         "country": "US",
         "region": "US-TX",
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657829414
+    "kaiserFantasySchedule": 1795657860961
   },
-  "savedAt": 1795657829441
+  "savedAt": 1795657860984
 }
