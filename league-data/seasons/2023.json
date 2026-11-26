@@ -386,7 +386,7 @@
         "class": "F1",
         "primarySeries": "F1",
         "secondarySeries": [],
-        "raceTeam": "Racing Bulls",
+        "raceTeam": "AlphaTauri",
         "manufacturer": "Honda Engines",
         "nationality": "NZ",
         "nationalityRegion": "NZ-HKB",
@@ -739,7 +739,8 @@
     ]
   },
   "keyUpdatedAt": {
-    "kaiserFantasyDraftSettings": 1795399580581
+    "kaiserFantasyDraftSettings": 1795399580581,
+    "kaiserFantasyAthletes": 1795654057210
   },
-  "savedAt": 1795653767380
+  "savedAt": 1795654057239
 }
