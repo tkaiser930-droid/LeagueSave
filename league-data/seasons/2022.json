@@ -359,6 +359,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "78394c3b-b223-4f24-ba09-91ba349d1bd6",
+        "name": "Mick Schumacher",
+        "number": "47",
+        "class": "F1",
+        "primarySeries": "F1",
+        "secondarySeries": [],
+        "raceTeam": "Haas",
+        "manufacturer": "Ferrari",
+        "nationality": "DE",
+        "nationalityRegion": "DE-NW",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -662,8 +678,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
     "kaiserFantasySchedule": 1795657988559,
-    "kaiserFantasyAthletes": 1795658431389,
+    "kaiserFantasyAthletes": 1795658528909,
     "kaiserFantasyTeams": 1795658431389
   },
-  "savedAt": 1795658433413
+  "savedAt": 1795658528929
 }
