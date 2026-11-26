@@ -455,8 +455,8 @@
         "name": "Canada",
         "series": "F1",
         "round": 9,
-        "date": "2022-06-07",
-        "endDate": "2022-06-09",
+        "date": "2022-06-17",
+        "endDate": "2022-06-19",
         "location": "Montreal",
         "country": "CA",
         "region": "CA-QC",
@@ -740,7 +740,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657399387
+    "kaiserFantasySchedule": 1795657428086
   },
-  "savedAt": 1795657399417
+  "savedAt": 1795657428110
 }
