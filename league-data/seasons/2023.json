@@ -382,7 +382,7 @@
       {
         "id": "79848033-8bfe-470f-a4ea-2014f874fe60",
         "name": "Liam Lawson",
-        "number": "30",
+        "number": "40",
         "class": "F1",
         "primarySeries": "F1",
         "secondarySeries": [],
@@ -740,8 +740,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399580581,
-    "kaiserFantasyAthletes": 1795654057210,
+    "kaiserFantasyAthletes": 1795654083348,
     "kaiserFantasyTeams": 1795654057210
   },
-  "savedAt": 1795654059011
+  "savedAt": 1795654083376
 }
