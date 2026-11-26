@@ -231,8 +231,8 @@
         "name": "Pierre Gasly",
         "number": "10",
         "class": "F1",
-        "raceTeam": "Alpine",
-        "manufacturer": "Renault",
+        "raceTeam": "AlphaTauri",
+        "manufacturer": "Honda Engines",
         "nationality": "FR",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -731,8 +731,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
     "kaiserFantasySchedule": 1795657988559,
-    "kaiserFantasyAthletes": 1795658198776,
+    "kaiserFantasyAthletes": 1795658243139,
     "kaiserFantasyTeams": 1795658198776
   },
-  "savedAt": 1795658201368
+  "savedAt": 1795658243160
 }
