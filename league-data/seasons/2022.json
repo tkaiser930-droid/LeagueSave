@@ -572,8 +572,8 @@
         "name": "Bahrain",
         "series": "F1",
         "round": 1,
-        "date": "2022-02-29",
-        "endDate": "2022-03-02",
+        "date": "2022-03-18",
+        "endDate": "2022-03-20",
         "location": "Bahrain",
         "country": "BH",
         "region": "BH-14",
@@ -739,7 +739,8 @@
     ]
   },
   "keyUpdatedAt": {
-    "kaiserFantasyDraftSettings": 1795399708659
+    "kaiserFantasyDraftSettings": 1795399708659,
+    "kaiserFantasySchedule": 1795657156094
   },
-  "savedAt": 1795657111617
+  "savedAt": 1795657156114
 }
