@@ -557,13 +557,13 @@
         "id": "4fb6806e-306b-4868-adb8-9ec7012faa57",
         "name": "Azerbaijan",
         "series": "F1",
-        "round": 17,
-        "date": "2023-09-13",
-        "endDate": "2023-09-15",
+        "round": 4,
+        "date": "2023-04-28",
+        "endDate": "2023-04-30",
         "location": "Baku",
         "country": "AZ",
         "region": "AZ-BAK",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -728,7 +728,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654642336
+    "kaiserFantasySchedule": 1795654824318
   },
-  "savedAt": 1795654642341
+  "savedAt": 1795654824325
 }
