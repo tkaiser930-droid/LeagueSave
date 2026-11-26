@@ -479,9 +479,9 @@
         "id": "7cc6cdb2-0d64-423a-89c8-0b3739824a0f",
         "name": "Spain",
         "series": "F1",
-        "round": 10,
-        "date": "2023-06-21",
-        "endDate": "2023-06-23",
+        "round": 7,
+        "date": "2023-06-02",
+        "endDate": "2023-06-04",
         "location": "Barcelona",
         "country": "ES",
         "region": "ES-CT",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654987204
+    "kaiserFantasySchedule": 1795655020805
   },
-  "savedAt": 1795654987237
+  "savedAt": 1795655020811
 }
