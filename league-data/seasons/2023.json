@@ -708,19 +708,6 @@
         "location": "Jeddah",
         "country": "SA",
         "region": "SA-02"
-      },
-      {
-        "id": "6f85b766-d771-4814-ae8c-b6c5b0513814",
-        "name": "Emilia Romagna",
-        "series": "F1",
-        "eventType": "Grand Prix",
-        "eventTypeDetail": "",
-        "round": 7,
-        "date": "2023-05-17",
-        "endDate": "2023-05-19",
-        "location": "Imola",
-        "country": "IT",
-        "region": "IT-EMR"
       }
     ]
   },
@@ -728,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654872965
+    "kaiserFantasySchedule": 1795654934829
   },
-  "savedAt": 1795654872984
+  "savedAt": 1795654934857
 }
