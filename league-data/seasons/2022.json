@@ -603,7 +603,7 @@
         "location": "Austin",
         "country": "US",
         "region": "US-TX",
-        "eventType": "Sprint",
+        "eventType": "Grand Prix",
         "eventTypeDetail": ""
       },
       {
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657860961
+    "kaiserFantasySchedule": 1795657872510
   },
-  "savedAt": 1795657860984
+  "savedAt": 1795657872532
 }
