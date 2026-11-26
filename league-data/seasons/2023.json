@@ -427,9 +427,9 @@
         "id": "739fcd3d-55ca-47b0-8deb-002c99a45878",
         "name": "Japan",
         "series": "F1",
-        "round": 4,
-        "date": "2023-04-05",
-        "endDate": "2023-04-07",
+        "round": 16,
+        "date": "2023-09-22",
+        "endDate": "2023-09-24",
         "location": "Suzuka",
         "country": "JP",
         "region": "JP-24",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655342997
+    "kaiserFantasySchedule": 1795655385310
   },
-  "savedAt": 1795655343015
+  "savedAt": 1795655385338
 }
