@@ -57,23 +57,6 @@
         "seriesArchived": false
       },
       {
-        "id": "15fa3a9d-0bb2-4a5c-aad0-675b894afc02",
-        "name": "Oscar Piastri",
-        "number": "81",
-        "class": "F1",
-        "raceTeam": "McLaren",
-        "manufacturer": "Mercedes",
-        "nationality": "AU",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningWorldChampion": false,
-        "nationalityRegion": "AU-VIC",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "reigningTripleCrownChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "d075d513-878a-4816-ace5-738f26705047",
         "name": "Lewis Hamilton",
         "number": "44",
@@ -730,8 +713,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
     "kaiserFantasySchedule": 1795657988559,
-    "kaiserFantasyAthletes": 1795658340113,
+    "kaiserFantasyAthletes": 1795658345187,
     "kaiserFantasyTeams": 1795658340113
   },
-  "savedAt": 1795658342359
+  "savedAt": 1795658345222
 }
