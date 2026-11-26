@@ -403,8 +403,8 @@
         "class": "F1",
         "primarySeries": "F1",
         "secondarySeries": [],
-        "raceTeam": "AlphaTauri",
-        "manufacturer": "Honda Engines",
+        "raceTeam": "Williams",
+        "manufacturer": "Mercedes",
         "nationality": "NL",
         "nationalityRegion": "NL-FR",
         "pointsLeader": false,
@@ -747,8 +747,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
     "kaiserFantasySchedule": 1795657988559,
-    "kaiserFantasyAthletes": 1795658305571,
+    "kaiserFantasyAthletes": 1795658327766,
     "kaiserFantasyTeams": 1795658243139
   },
-  "savedAt": 1795658305595
+  "savedAt": 1795658327799
 }
