@@ -596,9 +596,9 @@
         "id": "67a7adbb-8cb6-4df9-8f86-da282d157f6d",
         "name": "United States",
         "series": "F1",
-        "round": 19,
-        "date": "2023-10-18",
-        "endDate": "2023-10-20",
+        "round": 18,
+        "date": "2023-10-20",
+        "endDate": "2023-10-22",
         "location": "Austin",
         "country": "US",
         "region": "US-TX",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655425392
+    "kaiserFantasySchedule": 1795655445866
   },
-  "savedAt": 1795655425419
+  "savedAt": 1795655445894
 }
