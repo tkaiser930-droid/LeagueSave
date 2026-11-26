@@ -453,9 +453,9 @@
         "id": "6d991a7c-db89-49b5-9d75-0fd40359d3ee",
         "name": "Canada",
         "series": "F1",
-        "round": 9,
-        "date": "2023-06-07",
-        "endDate": "2023-06-09",
+        "round": 8,
+        "date": "2023-06-16",
+        "endDate": "2023-06-18",
         "location": "Montreal",
         "country": "CA",
         "region": "CA-QC",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655020805
+    "kaiserFantasySchedule": 1795655052976
   },
-  "savedAt": 1795655020811
+  "savedAt": 1795655052986
 }
