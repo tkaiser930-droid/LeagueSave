@@ -318,8 +318,8 @@
         "class": "F1",
         "primarySeries": "F1",
         "secondarySeries": [],
-        "raceTeam": "AlphaTauri",
-        "manufacturer": "Honda Engines",
+        "raceTeam": "McLaren",
+        "manufacturer": "Mercedes",
         "nationality": "AU",
         "nationalityRegion": "AU-WA",
         "pointsLeader": false,
@@ -714,7 +714,8 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657988559
+    "kaiserFantasySchedule": 1795657988559,
+    "kaiserFantasyAthletes": 1795658087518
   },
-  "savedAt": 1795657988567
+  "savedAt": 1795658087555
 }
