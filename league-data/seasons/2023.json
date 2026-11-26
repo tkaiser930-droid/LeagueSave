@@ -518,13 +518,13 @@
         "id": "38b0651a-a3a9-4694-a6e5-e031e9019964",
         "name": "Belgium",
         "series": "F1",
-        "round": 14,
-        "date": "2023-07-26",
-        "endDate": "2023-07-28",
+        "round": 12,
+        "date": "2023-07-28",
+        "endDate": "2023-07-30",
         "location": "Spa-Francorchamps",
         "country": "BE",
         "region": "BE-WLG",
-        "eventType": "Grand Prix",
+        "eventType": "Sprint",
         "eventTypeDetail": ""
       },
       {
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655191713
+    "kaiserFantasySchedule": 1795655219300
   },
-  "savedAt": 1795655191752
+  "savedAt": 1795655219319
 }
