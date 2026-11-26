@@ -480,9 +480,9 @@
         "id": "f2454a8e-9bf1-4cb9-83ba-b40795f6548f",
         "name": "Spain",
         "series": "F1",
-        "round": 10,
-        "date": "2022-06-21",
-        "endDate": "2022-06-23",
+        "round": 6,
+        "date": "2022-05-20",
+        "endDate": "2022-05-22",
         "location": "Barcelona",
         "country": "ES",
         "region": "ES-CT",
@@ -740,7 +740,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657301398
+    "kaiserFantasySchedule": 1795657335062
   },
-  "savedAt": 1795657301421
+  "savedAt": 1795657335087
 }
