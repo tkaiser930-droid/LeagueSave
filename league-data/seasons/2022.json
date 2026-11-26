@@ -441,9 +441,9 @@
         "id": "35c7a45a-46b8-499e-b360-d5c8f2e9ae56",
         "name": "Miami",
         "series": "F1",
-        "round": 6,
-        "date": "2022-05-03",
-        "endDate": "2022-05-05",
+        "round": 5,
+        "date": "2022-05-06",
+        "endDate": "2022-05-08",
         "location": "Miami",
         "country": "US",
         "region": "US-FL",
@@ -740,7 +740,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657263160
+    "kaiserFantasySchedule": 1795657293495
   },
-  "savedAt": 1795657263167
+  "savedAt": 1795657293499
 }
