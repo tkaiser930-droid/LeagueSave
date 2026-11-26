@@ -312,23 +312,6 @@
         "seriesArchived": false
       },
       {
-        "id": "79848033-8bfe-470f-a4ea-2014f874fe60",
-        "name": "Liam Lawson",
-        "number": "40",
-        "class": "F1",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "raceTeam": "AlphaTauri",
-        "manufacturer": "Honda Engines",
-        "nationality": "NZ",
-        "nationalityRegion": "NZ-HKB",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "e3bb0439-4300-4c03-9bae-98644b0e0d8f",
         "name": "Nyck De Vries",
         "number": "21",
@@ -679,8 +662,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
     "kaiserFantasySchedule": 1795657988559,
-    "kaiserFantasyAthletes": 1795658377387,
+    "kaiserFantasyAthletes": 1795658431389,
     "kaiserFantasyTeams": 1795658377388
   },
-  "savedAt": 1795658379648
+  "savedAt": 1795658431427
 }
