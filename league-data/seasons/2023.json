@@ -716,8 +716,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 2,
-        "date": "2023-03-07",
-        "endDate": "2023-03-09",
+        "date": "2023-03-17",
+        "endDate": "2023-03-19",
         "location": "Jeddah",
         "country": "SA",
         "region": "SA-02"
@@ -741,7 +741,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654506196
+    "kaiserFantasySchedule": 1795654582439
   },
-  "savedAt": 1795654506266
+  "savedAt": 1795654582461
 }
