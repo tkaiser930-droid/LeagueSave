@@ -624,8 +624,8 @@
         "name": "Brazil",
         "series": "F1",
         "round": 21,
-        "date": "2022-11-01",
-        "endDate": "2022-11-03",
+        "date": "2022-11-11",
+        "endDate": "2022-11-13",
         "location": "Sao Paulo",
         "country": "BR",
         "region": "BR-SP",
@@ -714,7 +714,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657940512
+    "kaiserFantasySchedule": 1795657964040
   },
-  "savedAt": 1795657940515
+  "savedAt": 1795657964052
 }
