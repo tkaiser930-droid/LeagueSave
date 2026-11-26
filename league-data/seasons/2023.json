@@ -635,9 +635,9 @@
         "id": "6ac64c3a-7831-4c97-b9f2-c43ad6a24732",
         "name": "Las Vegas",
         "series": "F1",
-        "round": 22,
-        "date": "2023-11-21",
-        "endDate": "2023-11-23",
+        "round": 21,
+        "date": "2023-11-16",
+        "endDate": "2023-11-18",
         "location": "Las Vegas",
         "country": "US",
         "region": "US-NV",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655486012
+    "kaiserFantasySchedule": 1795655509549
   },
-  "savedAt": 1795655486037
+  "savedAt": 1795655509564
 }
