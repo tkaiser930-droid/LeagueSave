@@ -648,9 +648,9 @@
         "id": "9f48d607-fc21-4c5a-b8c7-88024386fd57",
         "name": "Qatar",
         "series": "F1",
-        "round": 23,
-        "date": "2023-11-29",
-        "endDate": "2023-12-01",
+        "round": 17,
+        "date": "2023-10-06",
+        "endDate": "2023-10-08",
         "location": "Lusail",
         "country": "QA",
         "region": "QA-ZA",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655385310
+    "kaiserFantasySchedule": 1795655425392
   },
-  "savedAt": 1795655385338
+  "savedAt": 1795655425419
 }
