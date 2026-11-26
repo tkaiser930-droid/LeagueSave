@@ -428,9 +428,9 @@
         "id": "b368076c-341b-4e6e-a382-514b5ff1984d",
         "name": "Japan",
         "series": "F1",
-        "round": 4,
-        "date": "2022-04-05",
-        "endDate": "2022-04-07",
+        "round": 18,
+        "date": "2022-10-07",
+        "endDate": "2022-10-09",
         "location": "Suzuka",
         "country": "JP",
         "region": "JP-24",
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657784865
+    "kaiserFantasySchedule": 1795657829414
   },
-  "savedAt": 1795657784871
+  "savedAt": 1795657829441
 }
