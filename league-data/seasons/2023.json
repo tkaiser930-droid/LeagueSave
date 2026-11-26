@@ -505,9 +505,9 @@
         "id": "4506c049-88e5-412c-847c-10e33e439dbc",
         "name": "Austria",
         "series": "F1",
-        "round": 11,
-        "date": "2023-06-28",
-        "endDate": "2023-06-30",
+        "round": 10,
+        "date": "2023-06-30",
+        "endDate": "2023-07-02",
         "location": "Spielberg",
         "country": "AT",
         "region": "AT-6",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655052976
+    "kaiserFantasySchedule": 1795655094569
   },
-  "savedAt": 1795655052986
+  "savedAt": 1795655094587
 }
