@@ -533,8 +533,8 @@
         "name": "Hungary",
         "series": "F1",
         "round": 13,
-        "date": "2022-07-19",
-        "endDate": "2022-07-21",
+        "date": "2022-07-29",
+        "endDate": "2022-07-31",
         "location": "Budapest",
         "country": "HU",
         "region": "HU-01",
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657632495
+    "kaiserFantasySchedule": 1795657665740
   },
-  "savedAt": 1795657632515
+  "savedAt": 1795657665749
 }
