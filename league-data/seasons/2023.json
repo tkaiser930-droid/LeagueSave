@@ -677,8 +677,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 3,
-        "date": "2023-03-22",
-        "endDate": "2023-03-24",
+        "date": "2023-03-31",
+        "endDate": "2023-04-02",
         "location": "Melbourne",
         "country": "AU",
         "region": "AU-VIC"
@@ -741,7 +741,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654582439
+    "kaiserFantasySchedule": 1795654621919
   },
-  "savedAt": 1795654582461
+  "savedAt": 1795654621939
 }
