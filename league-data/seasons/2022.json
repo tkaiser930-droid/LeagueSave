@@ -584,9 +584,9 @@
         "id": "d38e7ed9-a519-4718-bc6d-4dd8fb6e43c6",
         "name": "Singapore",
         "series": "F1",
-        "round": 18,
-        "date": "2022-09-20",
-        "endDate": "2022-09-22",
+        "round": 17,
+        "date": "2022-09-30",
+        "endDate": "2022-10-02",
         "location": "Singapore",
         "country": "SG",
         "region": "SG-01",
@@ -753,7 +753,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657751847
+    "kaiserFantasySchedule": 1795657784865
   },
-  "savedAt": 1795657751854
+  "savedAt": 1795657784871
 }
