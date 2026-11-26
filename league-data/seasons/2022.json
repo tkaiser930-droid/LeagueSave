@@ -380,23 +380,6 @@
         "seriesArchived": false
       },
       {
-        "id": "85b143dc-7089-46ba-8570-88ad851784e5",
-        "name": "Jack Doohan",
-        "number": "61",
-        "class": "F1",
-        "primarySeries": "F1",
-        "secondarySeries": [],
-        "raceTeam": "Alpine",
-        "manufacturer": "Renault",
-        "nationality": "AU",
-        "nationalityRegion": "AU-QLD",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "e3bb0439-4300-4c03-9bae-98644b0e0d8f",
         "name": "Nyck De Vries",
         "number": "21",
@@ -747,8 +730,8 @@
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
     "kaiserFantasySchedule": 1795657988559,
-    "kaiserFantasyAthletes": 1795658327766,
+    "kaiserFantasyAthletes": 1795658340113,
     "kaiserFantasyTeams": 1795658327766
   },
-  "savedAt": 1795658329983
+  "savedAt": 1795658340142
 }
