@@ -661,9 +661,9 @@
         "id": "1a6594d9-5ece-4db4-b0b1-1140603a6a25",
         "name": "Abu Dhabi",
         "series": "F1",
-        "round": 24,
-        "date": "2023-12-06",
-        "endDate": "2023-12-08",
+        "round": 22,
+        "date": "2023-11-24",
+        "endDate": "2023-11-26",
         "location": "Yas Island",
         "country": "AE",
         "region": "AE-AZ",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655509549
+    "kaiserFantasySchedule": 1795655533739
   },
-  "savedAt": 1795655509564
+  "savedAt": 1795655533765
 }
