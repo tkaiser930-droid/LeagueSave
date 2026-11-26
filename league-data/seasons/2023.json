@@ -684,19 +684,6 @@
         "region": "AU-VIC"
       },
       {
-        "id": "830f5ad9-f51c-4c2f-8634-6ba81326d465",
-        "name": "China",
-        "series": "F1",
-        "eventType": "Sprint",
-        "eventTypeDetail": "",
-        "round": 5,
-        "date": "2023-04-19",
-        "endDate": "2023-04-21",
-        "location": "Shanghai",
-        "country": "CN",
-        "region": "CN-SH"
-      },
-      {
         "id": "bbc48f9f-b4bc-431a-8a0e-9cae1f2b4e38",
         "name": "Netherlands",
         "series": "F1",
@@ -741,7 +728,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795654621919
+    "kaiserFantasySchedule": 1795654642336
   },
-  "savedAt": 1795654621939
+  "savedAt": 1795654642341
 }
