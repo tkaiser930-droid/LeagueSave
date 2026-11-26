@@ -609,9 +609,9 @@
         "id": "378e2115-3204-4d68-97e5-e99d2b894099",
         "name": "Mexico",
         "series": "F1",
-        "round": 20,
-        "date": "2023-10-25",
-        "endDate": "2023-10-27",
+        "round": 19,
+        "date": "2023-10-27",
+        "endDate": "2023-10-29",
         "location": "Mexico City",
         "country": "MX",
         "region": "MX-CMX",
@@ -715,7 +715,7 @@
     "kaiserFantasyDraftSettings": 1795399580581,
     "kaiserFantasyAthletes": 1795654420439,
     "kaiserFantasyTeams": 1795654341736,
-    "kaiserFantasySchedule": 1795655445866
+    "kaiserFantasySchedule": 1795655466136
   },
-  "savedAt": 1795655445894
+  "savedAt": 1795655466150
 }
