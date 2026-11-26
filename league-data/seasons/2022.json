@@ -717,8 +717,8 @@
         "eventType": "Grand Prix",
         "eventTypeDetail": "",
         "round": 2,
-        "date": "2022-03-07",
-        "endDate": "2022-03-09",
+        "date": "2022-03-25",
+        "endDate": "2022-03-27",
         "location": "Jeddah",
         "country": "SA",
         "region": "SA-02"
@@ -740,7 +740,7 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399708659,
-    "kaiserFantasySchedule": 1795657156094
+    "kaiserFantasySchedule": 1795657177700
   },
-  "savedAt": 1795657156114
+  "savedAt": 1795657177863
 }
