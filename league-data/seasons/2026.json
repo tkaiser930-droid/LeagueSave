@@ -2786,6 +2786,23 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "e664cb2d-9fb7-4c6d-9333-0967e932006e",
+        "name": "Hunter Schlosser",
+        "number": "173",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "",
+        "manufacturer": "Honda",
+        "nationality": "US",
+        "nationalityRegion": "US-TX",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23889,10 +23906,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795746780715,
+    "kaiserFantasyAthletes": 1795746887783,
     "kaiserFantasyTeams": 1795746579085,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795746670041
   },
-  "savedAt": 1795746781234
+  "savedAt": 1795746888311
 }
