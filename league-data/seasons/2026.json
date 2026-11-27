@@ -22234,19 +22234,6 @@
         "eventTypeDetail": "West"
       },
       {
-        "id": "79a88f25-20a1-4bcb-a213-75717178fcc6",
-        "name": "San Antonio",
-        "series": "SMX",
-        "round": 4,
-        "date": "2026-01-30",
-        "endDate": "2026-01-30",
-        "location": "Alamodome",
-        "country": "US",
-        "region": "US-TX",
-        "eventType": "Supercross",
-        "eventTypeDetail": "West"
-      },
-      {
         "id": "48dc1586-9586-47f7-b432-5c0883b79cfe",
         "name": "Tampa",
         "series": "SMX",
@@ -23084,8 +23071,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739607254,
+    "kaiserFantasySchedule": 1795739614212,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739607317
+  "savedAt": 1795739614270
 }
