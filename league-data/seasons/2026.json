@@ -1440,10 +1440,10 @@
       {
         "id": "38a744c1-b652-4370-80d8-ff6da8897a6a",
         "name": "Avery Long",
-        "number": "53",
+        "number": "57",
         "class": "250",
-        "raceTeam": "Phoenix Racing Honda",
-        "manufacturer": "Honda",
+        "raceTeam": "AEO Powersports KTM",
+        "manufacturer": "KTM",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740681417,
+    "kaiserFantasyAthletes": 1795740855148,
     "kaiserFantasyTeams": 1795740681417,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740685037
+  "savedAt": 1795740855589
 }
