@@ -826,7 +826,7 @@
       {
         "id": "0be2e7aa-f677-4515-ae6a-b2b409546055",
         "name": "Chance Hymas",
-        "number": "16",
+        "number": "29",
         "class": "250",
         "raceTeam": "Honda HRC Progressive",
         "manufacturer": "Honda",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740338881,
+    "kaiserFantasyAthletes": 1795740351338,
     "kaiserFantasyTeams": 1795740338881,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740342773
+  "savedAt": 1795740351841
 }
