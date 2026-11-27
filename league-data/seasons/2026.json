@@ -22212,8 +22212,8 @@
         "name": "San Diego",
         "series": "SMX",
         "round": 2,
-        "date": "2026-01-16",
-        "endDate": "2026-01-16",
+        "date": "2026-01-17",
+        "endDate": "2026-01-17",
         "location": "Snapdragon Stadium",
         "country": "US",
         "region": "US-CA",
@@ -23084,8 +23084,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739539084,
+    "kaiserFantasySchedule": 1795739599970,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739539164
+  "savedAt": 1795739600108
 }
