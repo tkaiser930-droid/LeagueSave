@@ -1236,7 +1236,7 @@
       {
         "id": "2dd2f223-da78-4b88-a48d-a335bcc3e515",
         "name": "Hunter Yoder",
-        "number": "41",
+        "number": "60",
         "class": "250",
         "raceTeam": "ClubMX Yamaha",
         "manufacturer": "Yamaha",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795741039945,
+    "kaiserFantasyAthletes": 1795741081941,
     "kaiserFantasyTeams": 1795741039946,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795741043833
+  "savedAt": 1795741082429
 }
