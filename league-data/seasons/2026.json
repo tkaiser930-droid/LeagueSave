@@ -22234,19 +22234,6 @@
         "eventTypeDetail": "West"
       },
       {
-        "id": "48dc1586-9586-47f7-b432-5c0883b79cfe",
-        "name": "Tampa",
-        "series": "SMX",
-        "round": 5,
-        "date": "2026-02-06",
-        "endDate": "2026-02-06",
-        "location": "Raymond James Stadium",
-        "country": "US",
-        "region": "US-FL",
-        "eventType": "Supercross",
-        "eventTypeDetail": "East"
-      },
-      {
         "id": "95415489-b87c-460a-bc7f-bd144dc79928",
         "name": "Glendale",
         "series": "SMX",
@@ -23071,8 +23058,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739805452,
+    "kaiserFantasySchedule": 1795739814017,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739805529
+  "savedAt": 1795739814081
 }
