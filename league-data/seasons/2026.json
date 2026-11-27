@@ -22368,8 +22368,8 @@
         "name": "Denver",
         "series": "SMX",
         "round": 16,
-        "date": "2026-05-08",
-        "endDate": "2026-05-08",
+        "date": "2026-05-02",
+        "endDate": "2026-05-02",
         "location": "Empower Field at Mile High",
         "country": "US",
         "region": "US-CO",
@@ -23084,8 +23084,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739980827,
+    "kaiserFantasySchedule": 1795740006366,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739980901
+  "savedAt": 1795740006431
 }
