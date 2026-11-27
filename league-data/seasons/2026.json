@@ -792,10 +792,10 @@
       {
         "id": "f143bd87-f152-421d-a877-6909ddf7e1e6",
         "name": "Ryder DiFrancesco",
-        "number": "10",
+        "number": "34",
         "class": "250",
-        "raceTeam": "Red Bull KTM Factory Racing",
-        "manufacturer": "KTM",
+        "raceTeam": "Rockstar Husqvarna Factory Racing",
+        "manufacturer": "Husqvarna",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795481326482,
+    "kaiserFantasyAthletes": 1795740338881,
     "kaiserFantasyTeams": 1795473314089,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740253222
+  "savedAt": 1795740339321
 }
