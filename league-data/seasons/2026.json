@@ -22381,8 +22381,8 @@
         "name": "Salt Lake City",
         "series": "SMX",
         "round": 17,
-        "date": "2026-05-15",
-        "endDate": "2026-05-15",
+        "date": "2026-05-09",
+        "endDate": "2026-05-09",
         "location": "Rice-Eccles Stadium",
         "country": "US",
         "region": "US-UT",
@@ -23084,8 +23084,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795740006366,
+    "kaiserFantasySchedule": 1795740016042,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740006431
+  "savedAt": 1795740016109
 }
