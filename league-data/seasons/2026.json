@@ -996,10 +996,10 @@
       {
         "id": "f2151b8f-3550-44f5-8a67-208df62bbb59",
         "name": "Daxton Bennick",
-        "number": "26",
+        "number": "58",
         "class": "250",
-        "raceTeam": "Red Bull KTM Factory Racing",
-        "manufacturer": "KTM",
+        "raceTeam": "Rockstar Husqvarna Factory Racing",
+        "manufacturer": "Husqvarna",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740621602,
+    "kaiserFantasyAthletes": 1795740659518,
     "kaiserFantasyTeams": 1795740621603,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740625414
+  "savedAt": 1795740659969
 }
