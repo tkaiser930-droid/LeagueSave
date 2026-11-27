@@ -2864,6 +2864,23 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "eb8e3d96-a9ea-472b-8049-bd56aa908aca",
+        "name": "Nico Koch",
+        "number": "260",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "",
+        "manufacturer": "KTM",
+        "nationality": "DE",
+        "nationalityRegion": "DE-NI",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -26561,10 +26578,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795747567271,
+    "kaiserFantasyAthletes": 1795747750795,
     "kaiserFantasyTeams": 1795747534579,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747638714
   },
-  "savedAt": 1795747639616
+  "savedAt": 1795747751403
 }
