@@ -894,7 +894,7 @@
       {
         "id": "1b735478-5199-4a17-bb66-7add6f442659",
         "name": "Kayden Minear",
-        "number": "20",
+        "number": "99",
         "class": "250",
         "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740476203,
+    "kaiserFantasyAthletes": 1795740489338,
     "kaiserFantasyTeams": 1795740476203,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740479604
+  "savedAt": 1795740489849
 }
