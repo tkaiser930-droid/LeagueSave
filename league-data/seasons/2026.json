@@ -1474,7 +1474,7 @@
       {
         "id": "6332725c-c579-482f-884f-265181ed32b1",
         "name": "Pierce Brown",
-        "number": "55",
+        "number": "163",
         "class": "250",
         "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740855148,
+    "kaiserFantasyAthletes": 1795740868815,
     "kaiserFantasyTeams": 1795740855149,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740858687
+  "savedAt": 1795740869262
 }
