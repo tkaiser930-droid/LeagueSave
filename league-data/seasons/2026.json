@@ -1253,7 +1253,7 @@
       {
         "id": "7ef9c799-51b6-46d4-a8a0-9d30298a0d3a",
         "name": "Landen Gordon",
-        "number": "42",
+        "number": "180",
         "class": "250",
         "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740670710,
+    "kaiserFantasyAthletes": 1795740681417,
     "kaiserFantasyTeams": 1795740670711,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740674977
+  "savedAt": 1795740681845
 }
