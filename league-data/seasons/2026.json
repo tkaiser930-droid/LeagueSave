@@ -2742,6 +2742,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "0a741b57-0c2b-433a-9c39-9085cd3aa679",
+        "name": "Robbie Wageman",
+        "number": "237",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "raceTeam": "Heartbeat Hot Sauce Solitaire Yamaha",
+        "manufacturer": "Yamaha",
+        "nationality": "US",
+        "nationalityRegion": "US-CA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23196,10 +23212,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795741829883,
+    "kaiserFantasyAthletes": 1795741926238,
     "kaiserFantasyTeams": 1795741106044,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795741830356
+  "savedAt": 1795741926701
 }
