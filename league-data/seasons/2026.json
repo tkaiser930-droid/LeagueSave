@@ -22276,14 +22276,14 @@
         "id": "9adf8dcd-80c7-42eb-9da1-21b936b67579",
         "name": "Arlington",
         "series": "SMX",
-        "round": 8,
-        "date": "2026-02-27",
-        "endDate": "2026-02-27",
+        "round": 7,
+        "date": "2026-02-21",
+        "endDate": "2026-02-21",
         "location": "AT&T Stadium",
         "country": "US",
         "region": "US-TX",
         "eventType": "Supercross",
-        "eventTypeDetail": "West"
+        "eventTypeDetail": "East"
       },
       {
         "id": "16795385-4f37-4ca9-95f8-a52e8ce4fc2c",
@@ -23071,8 +23071,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739690661,
+    "kaiserFantasySchedule": 1795739715804,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739690712
+  "savedAt": 1795739715876
 }
