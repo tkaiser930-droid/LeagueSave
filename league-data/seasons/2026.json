@@ -22325,19 +22325,6 @@
         "eventTypeDetail": "East"
       },
       {
-        "id": "af008a68-6d06-4e05-b1cf-a1bb2dd0fd79",
-        "name": "Baltimore",
-        "series": "SMX",
-        "round": 13,
-        "date": "2026-04-10",
-        "endDate": "2026-04-10",
-        "location": "M&T Bank Stadium",
-        "country": "US",
-        "region": "US-MD",
-        "eventType": "Supercross",
-        "eventTypeDetail": "East"
-      },
-      {
         "id": "8604b8d1-ca06-48a4-9d5c-df1174c84d3c",
         "name": "Denver",
         "series": "SMX",
@@ -23058,8 +23045,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795740049944,
+    "kaiserFantasySchedule": 1795740055965,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740049996
+  "savedAt": 1795740056037
 }
