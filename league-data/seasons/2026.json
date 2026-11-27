@@ -1644,7 +1644,7 @@
       {
         "id": "91b0abec-522c-4cb9-94b6-6bdf19932eff",
         "name": "Deacon Denno",
-        "number": "70",
+        "number": "199",
         "class": "250",
         "raceTeam": "Triumph Factory Racing",
         "manufacturer": "Triumph",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740955623,
+    "kaiserFantasyAthletes": 1795741039945,
     "kaiserFantasyTeams": 1795740955624,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740959864
+  "savedAt": 1795741040405
 }
