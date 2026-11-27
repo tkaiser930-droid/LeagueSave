@@ -22338,19 +22338,6 @@
         "eventTypeDetail": "East"
       },
       {
-        "id": "6b0ce4bb-f4f7-4886-a12f-29cb310dd66d",
-        "name": "East Rutherford",
-        "series": "SMX",
-        "round": 14,
-        "date": "2026-04-17",
-        "endDate": "2026-04-17",
-        "location": "Metlife Stadium",
-        "country": "US",
-        "region": "US-NJ",
-        "eventType": "Supercross",
-        "eventTypeDetail": "East"
-      },
-      {
         "id": "8604b8d1-ca06-48a4-9d5c-df1174c84d3c",
         "name": "Denver",
         "series": "SMX",
@@ -23071,8 +23058,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795740036581,
+    "kaiserFantasySchedule": 1795740049944,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740036694
+  "savedAt": 1795740049996
 }
