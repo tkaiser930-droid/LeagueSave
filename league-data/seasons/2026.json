@@ -22302,9 +22302,9 @@
         "id": "55a23822-bc7c-4445-9fd9-349bfa90dae6",
         "name": "Indianapolis",
         "series": "SMX",
-        "round": 10,
-        "date": "2026-03-13",
-        "endDate": "2026-03-13",
+        "round": 9,
+        "date": "2026-03-07",
+        "endDate": "2026-03-07",
         "location": "Lucas Oil Stadium",
         "country": "US",
         "region": "US-IN",
@@ -23071,8 +23071,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739765997,
+    "kaiserFantasySchedule": 1795739805452,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739766056
+  "savedAt": 1795739805529
 }
