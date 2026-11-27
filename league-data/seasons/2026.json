@@ -23064,6 +23064,19 @@
         "location": "Huntington Bank Field",
         "country": "US",
         "region": "US-OH"
+      },
+      {
+        "id": "eea83692-a356-4dbe-9b0e-48288f2954e8",
+        "name": "Philadelphia",
+        "series": "SMX",
+        "eventType": "Supercross",
+        "eventTypeDetail": "East",
+        "round": 15,
+        "date": "2026-04-25",
+        "endDate": "2026-04-25",
+        "location": "Lincoln Financial Field",
+        "country": "US",
+        "region": "US-PA"
       }
     ]
   },
@@ -23071,8 +23084,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795740170356,
+    "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740170409
+  "savedAt": 1795740253222
 }
