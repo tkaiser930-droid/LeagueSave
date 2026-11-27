@@ -1117,8 +1117,8 @@
         "name": "Lux Turner",
         "number": "43",
         "class": "250",
-        "raceTeam": "Toyota of Redlands BarX Husqvarna",
-        "manufacturer": "Husqvarna",
+        "raceTeam": "Toyota of Redlands BarX Yamaha",
+        "manufacturer": "Yamaha",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740513071,
+    "kaiserFantasyAthletes": 1795740524584,
     "kaiserFantasyTeams": 1795740513071,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740516871
+  "savedAt": 1795740525013
 }
