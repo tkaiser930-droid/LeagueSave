@@ -2630,6 +2630,22 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "fb4650f2-df48-4d4c-bb33-724d979e34d2",
+        "name": "Brandon Ray",
+        "number": "388",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "raceTeam": "",
+        "manufacturer": "Triumph",
+        "nationality": "US",
+        "nationalityRegion": "US-CA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23084,10 +23100,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795741106043,
+    "kaiserFantasyAthletes": 1795741224034,
     "kaiserFantasyTeams": 1795741106044,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795741109982
+  "savedAt": 1795741224480
 }
