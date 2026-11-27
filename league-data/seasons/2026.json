@@ -22225,8 +22225,8 @@
         "name": "Anaheim 2",
         "series": "SMX",
         "round": 3,
-        "date": "2026-01-23",
-        "endDate": "2026-01-23",
+        "date": "2026-01-24",
+        "endDate": "2026-01-24",
         "location": "Angel Stadium",
         "country": "US",
         "region": "US-CA",
@@ -23084,8 +23084,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739599970,
+    "kaiserFantasySchedule": 1795739607254,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739600108
+  "savedAt": 1795739607317
 }
