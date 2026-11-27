@@ -928,10 +928,10 @@
       {
         "id": "3cab2f1e-6ea1-484b-98d9-1730bc52d104",
         "name": "Nate Thrasher",
-        "number": "22",
+        "number": "25",
         "class": "250",
-        "raceTeam": "Monster Energy Pro Circuit Kawasaki",
-        "manufacturer": "Kawasaki",
+        "raceTeam": "Monster Energy Star Racing Yamaha",
+        "manufacturer": "Yamaha",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740578061,
+    "kaiserFantasyAthletes": 1795740621602,
     "kaiserFantasyTeams": 1795740578061,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740582298
+  "savedAt": 1795740622054
 }
