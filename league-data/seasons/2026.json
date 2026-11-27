@@ -23038,6 +23038,19 @@
         "location": "The Dome at America's Center",
         "country": "US",
         "region": "US-MO"
+      },
+      {
+        "id": "d47a2164-a81c-41af-9447-fd3ebbe6915a",
+        "name": "Nashville",
+        "series": "SMX",
+        "eventType": "Supercross",
+        "eventTypeDetail": "East",
+        "round": 13,
+        "date": "2026-04-11",
+        "endDate": "2026-04-11",
+        "location": "Nissan Stadium",
+        "country": "US",
+        "region": "US-TN"
       }
     ]
   },
@@ -23045,8 +23058,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795740055965,
+    "kaiserFantasySchedule": 1795740102085,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740056037
+  "savedAt": 1795740102133
 }
