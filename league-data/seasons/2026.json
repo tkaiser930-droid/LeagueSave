@@ -22351,19 +22351,6 @@
         "eventTypeDetail": "East"
       },
       {
-        "id": "3ba1bc8e-0beb-42aa-8a01-a216c9e16e32",
-        "name": "Pittsburgh",
-        "series": "SMX",
-        "round": 15,
-        "date": "2026-04-24",
-        "endDate": "2026-04-24",
-        "location": "Acrisure Stadium",
-        "country": "US",
-        "region": "US-PA",
-        "eventType": "Supercross",
-        "eventTypeDetail": "East/West"
-      },
-      {
         "id": "8604b8d1-ca06-48a4-9d5c-df1174c84d3c",
         "name": "Denver",
         "series": "SMX",
@@ -23084,8 +23071,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795740016042,
+    "kaiserFantasySchedule": 1795740036581,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740016109
+  "savedAt": 1795740036694
 }
