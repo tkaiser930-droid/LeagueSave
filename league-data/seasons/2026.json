@@ -1559,10 +1559,10 @@
       {
         "id": "b70e8bb7-2e01-4525-b55d-c6b6165f50a9",
         "name": "Cameron McAdoo",
-        "number": "63",
+        "number": "142",
         "class": "250",
-        "raceTeam": "Quadlock Honda",
-        "manufacturer": "Honda",
+        "raceTeam": "Monster Energy Pro Circuit Kawasaki",
+        "manufacturer": "Kawasaki",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740351338,
+    "kaiserFantasyAthletes": 1795740372948,
     "kaiserFantasyTeams": 1795740351338,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740355280
+  "savedAt": 1795740373412
 }
