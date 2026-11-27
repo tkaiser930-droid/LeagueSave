@@ -23064,6 +23064,19 @@
         "location": "Protective Stadium",
         "country": "US",
         "region": "US-AL"
+      },
+      {
+        "id": "d3aa078d-8f99-42db-beea-ee26f02a5e57",
+        "name": "St Louis",
+        "series": "SMX",
+        "eventType": "Supercross",
+        "eventTypeDetail": "East/West",
+        "round": 12,
+        "date": "2026-04-04",
+        "endDate": "2026-04-04",
+        "location": "The Dome at America's Center",
+        "country": "US",
+        "region": "US-MO"
       }
     ]
   },
@@ -23071,8 +23084,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739910542,
+    "kaiserFantasySchedule": 1795739980827,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739910605
+  "savedAt": 1795739980901
 }
