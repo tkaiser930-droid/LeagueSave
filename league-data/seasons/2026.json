@@ -1132,7 +1132,7 @@
       {
         "id": "f4828a36-44d5-4b01-9585-eb5f38f93844",
         "name": "Caden Dudney",
-        "number": "35",
+        "number": "82",
         "class": "250",
         "raceTeam": "Monster Energy Star Racing Yamaha",
         "manufacturer": "Yamaha",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740659518,
+    "kaiserFantasyAthletes": 1795740670710,
     "kaiserFantasyTeams": 1795740659518,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740663516
+  "savedAt": 1795740671166
 }
