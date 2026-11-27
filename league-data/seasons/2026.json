@@ -23057,7 +23057,7 @@
         "name": "Birmingham",
         "series": "SMX",
         "eventType": "Supercross",
-        "eventTypeDetail": "East",
+        "eventTypeDetail": "East/West",
         "round": 10,
         "date": "2026-03-21",
         "endDate": "2026-03-21",
@@ -23071,8 +23071,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739886747,
+    "kaiserFantasySchedule": 1795739910542,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739886800
+  "savedAt": 1795739910605
 }
