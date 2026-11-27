@@ -22263,9 +22263,9 @@
         "id": "263a8125-cc9e-4260-9a35-995074cdf8ec",
         "name": "Detroit",
         "series": "SMX",
-        "round": 7,
-        "date": "2026-02-20",
-        "endDate": "2026-02-20",
+        "round": 11,
+        "date": "2026-02-28",
+        "endDate": "2026-02-28",
         "location": "Ford Field",
         "country": "US",
         "region": "US-MI",
@@ -23071,8 +23071,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739732920,
+    "kaiserFantasySchedule": 1795739753060,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739732981
+  "savedAt": 1795739753112
 }
