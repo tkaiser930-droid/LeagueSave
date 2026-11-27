@@ -2678,6 +2678,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "38920736-862e-4033-9263-d0bca2358968",
+        "name": "Crockett Myers",
+        "number": "131",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "raceTeam": "",
+        "manufacturer": "Suzuki",
+        "nationality": "US",
+        "nationalityRegion": "US-TX",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23132,10 +23148,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795741381331,
+    "kaiserFantasyAthletes": 1795741496591,
     "kaiserFantasyTeams": 1795741106044,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795741381789
+  "savedAt": 1795741497051
 }
