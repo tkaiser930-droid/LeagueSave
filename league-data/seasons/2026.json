@@ -1197,7 +1197,10 @@
           "450"
         ],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {
+          "450": "38"
+        }
       },
       {
         "id": "71ec1bba-e20d-427f-921e-a25d788c2ad0",
@@ -25234,10 +25237,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795747130938,
+    "kaiserFantasyAthletes": 1795747167984,
     "kaiserFantasyTeams": 1795746579085,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747150039
   },
-  "savedAt": 1795747151058
+  "savedAt": 1795747168572
 }
