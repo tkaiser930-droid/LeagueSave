@@ -2803,6 +2803,23 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "51c167c6-7e81-43ef-b692-6b5e161a117c",
+        "name": "Ayden Shive",
+        "number": "137",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "",
+        "manufacturer": "KTM",
+        "nationality": "US",
+        "nationalityRegion": "US-FL",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23906,10 +23923,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795746887783,
+    "kaiserFantasyAthletes": 1795746981360,
     "kaiserFantasyTeams": 1795746579085,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795746670041
   },
-  "savedAt": 1795746888311
+  "savedAt": 1795746981881
 }
