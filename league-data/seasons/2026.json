@@ -1805,7 +1805,7 @@
       {
         "id": "32305769-1098-4486-8546-b9d1963545d5",
         "name": "Cole Thompson",
-        "number": "92",
+        "number": "66",
         "class": "250",
         "raceTeam": "Heartbeat Hot Sauce Solitaire Yamaha",
         "manufacturer": "Yamaha",
@@ -1815,9 +1815,12 @@
         "reigningWorldChampion": false,
         "nationalityRegion": "CA-ON",
         "primarySeries": "250",
-        "secondarySeries": [],
+        "secondarySeries": [
+          "450"
+        ],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {}
       },
       {
         "id": "263d6d6c-e829-4d79-b2ee-61431e559154",
@@ -25891,10 +25894,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795747300243,
+    "kaiserFantasyAthletes": 1795747534578,
     "kaiserFantasyTeams": 1795747167984,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747466351
   },
-  "savedAt": 1795747467368
+  "savedAt": 1795747535134
 }
