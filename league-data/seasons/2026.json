@@ -2646,6 +2646,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "97d0d1b8-8fbb-4609-8a1a-2c18006e9f58",
+        "name": "Justin Rodbell",
+        "number": "83",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "raceTeam": "SLR Honda",
+        "manufacturer": "Honda",
+        "nationality": "US",
+        "nationalityRegion": "US-MD",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23100,10 +23116,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795741224034,
+    "kaiserFantasyAthletes": 1795741287183,
     "kaiserFantasyTeams": 1795741106044,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795741224480
+  "savedAt": 1795741287627
 }
