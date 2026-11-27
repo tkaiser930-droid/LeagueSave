@@ -2769,6 +2769,23 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "037c59ad-5a84-4917-bd48-c03fa3d6a355",
+        "name": "Ty Freehill",
+        "number": "316",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "",
+        "manufacturer": "Honda",
+        "nationality": "US",
+        "nationalityRegion": "US-CA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23872,10 +23889,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795746579084,
+    "kaiserFantasyAthletes": 1795746780715,
     "kaiserFantasyTeams": 1795746579085,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795746670041
   },
-  "savedAt": 1795746670637
+  "savedAt": 1795746781234
 }
