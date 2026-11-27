@@ -2726,6 +2726,22 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "63aa2958-95d1-414d-b29e-79e3f4760694",
+        "name": "Anthony Bourdon",
+        "number": "70",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "raceTeam": "Partzilla Blaster PRMX Racing",
+        "manufacturer": "Kawasaki",
+        "nationality": "FR",
+        "nationalityRegion": "FR-NAQ",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -23180,10 +23196,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795741699753,
+    "kaiserFantasyAthletes": 1795741829883,
     "kaiserFantasyTeams": 1795741106044,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795741700252
+  "savedAt": 1795741830356
 }
