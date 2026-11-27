@@ -1576,8 +1576,8 @@
       {
         "id": "9f5f8721-2164-400e-8e55-405a9509b1b5",
         "name": "Sacha Coenen",
-        "number": "64",
-        "class": "250",
+        "number": "19",
+        "class": "MX2",
         "raceTeam": "Red Bull KTM Factory Racing",
         "manufacturer": "KTM",
         "nationality": "BE",
@@ -1585,8 +1585,10 @@
         "reigningSMXChampion": false,
         "reigningWorldChampion": false,
         "nationalityRegion": "BE-VAN",
-        "primarySeries": "250",
-        "secondarySeries": [],
+        "primarySeries": "MX2",
+        "secondarySeries": [
+          "250"
+        ],
         "reigningTripleCrownChampion": false,
         "seriesArchived": false
       },
@@ -23082,10 +23084,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795741081941,
+    "kaiserFantasyAthletes": 1795741106043,
     "kaiserFantasyTeams": 1795741081941,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795741086230
+  "savedAt": 1795741106494
 }
