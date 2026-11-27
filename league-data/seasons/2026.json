@@ -1219,7 +1219,7 @@
       {
         "id": "023f6a8d-a985-47a8-a1fe-6f6b280c8716",
         "name": "Max Vohland",
-        "number": "40",
+        "number": "19",
         "class": "250",
         "raceTeam": "ClubMX Yamaha",
         "manufacturer": "Yamaha",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740439483,
+    "kaiserFantasyAthletes": 1795740455195,
     "kaiserFantasyTeams": 1795740439483,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740443543
+  "savedAt": 1795740455638
 }
