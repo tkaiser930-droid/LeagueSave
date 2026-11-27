@@ -22315,9 +22315,9 @@
         "id": "5d001fc4-8801-458b-a8d0-87cbf605053d",
         "name": "Seattle",
         "series": "SMX",
-        "round": 11,
-        "date": "2026-03-20",
-        "endDate": "2026-03-20",
+        "round": 6,
+        "date": "2026-02-14",
+        "endDate": "2026-02-14",
         "location": "Lumen Field",
         "country": "US",
         "region": "US-WA",
@@ -23071,8 +23071,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739669391,
+    "kaiserFantasySchedule": 1795739690661,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739669440
+  "savedAt": 1795739690712
 }
