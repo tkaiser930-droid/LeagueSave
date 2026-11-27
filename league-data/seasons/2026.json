@@ -2847,6 +2847,23 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "c4fa4b5a-20db-4366-8bc4-8b2c0044f7e9",
+        "name": "Reven Gordon",
+        "number": "425",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "",
+        "manufacturer": "Kawasaki",
+        "nationality": "US",
+        "nationalityRegion": "US-CA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -25894,10 +25911,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795747534578,
+    "kaiserFantasyAthletes": 1795747567271,
     "kaiserFantasyTeams": 1795747534579,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747466351
   },
-  "savedAt": 1795747538220
+  "savedAt": 1795747567802
 }
