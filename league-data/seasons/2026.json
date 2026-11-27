@@ -2820,6 +2820,23 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
+      },
+      {
+        "id": "d786cd63-4322-4344-8c8a-c95304c20146",
+        "name": "Dominique Thury",
+        "number": "964",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "Heartbeat Hot Sauce Solitaire Yamaha",
+        "manufacturer": "Yamaha",
+        "nationality": "DE",
+        "nationalityRegion": "DE-SN",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -24571,10 +24588,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795746981360,
+    "kaiserFantasyAthletes": 1795747130938,
     "kaiserFantasyTeams": 1795746579085,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747014406
   },
-  "savedAt": 1795747015250
+  "savedAt": 1795747131494
 }
