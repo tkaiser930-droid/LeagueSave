@@ -22208,19 +22208,6 @@
         "eventTypeDetail": ""
       },
       {
-        "id": "d4584ada-b877-46cb-94d1-9eaf4fdf6461",
-        "name": "Anaheim 1",
-        "series": "SMX",
-        "round": 1,
-        "date": "2026-01-10",
-        "endDate": "2026-01-10",
-        "location": "Angel Stadium",
-        "country": "US",
-        "region": "US-CA",
-        "eventType": "Supercross",
-        "eventTypeDetail": "West"
-      },
-      {
         "id": "a529472f-c3c7-4bd2-810c-3665a28fe7ba",
         "name": "San Diego",
         "series": "SMX",
@@ -23097,8 +23084,8 @@
     "kaiserFantasyDraftSettings": 1795399465173,
     "kaiserFantasyAthletes": 1795481326482,
     "kaiserFantasyTeams": 1795473314089,
-    "kaiserFantasySchedule": 1795739534019,
+    "kaiserFantasySchedule": 1795739539084,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795739534071
+  "savedAt": 1795739539164
 }
