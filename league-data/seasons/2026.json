@@ -1070,13 +1070,14 @@
         "manufacturer": "Honda",
         "nationality": "JP",
         "pointsLeader": false,
-        "reigningSMXChampion": false,
+        "reigningSMXChampion": true,
         "reigningWorldChampion": false,
         "nationalityRegion": "JP-24",
         "primarySeries": "250",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {}
       },
       {
         "id": "95be5695-0a76-4ae4-8893-c64893c68fde",
@@ -27228,10 +27229,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795747864273,
+    "kaiserFantasyAthletes": 1795747876124,
     "kaiserFantasyTeams": 1795747534579,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795747864603
+  "savedAt": 1795747876731
 }
