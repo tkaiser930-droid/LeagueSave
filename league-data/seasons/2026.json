@@ -877,7 +877,7 @@
       {
         "id": "d1a479f8-4b7f-4afd-8ec7-fa8c01c8a7c7",
         "name": "Julien Beaumer",
-        "number": "19",
+        "number": "13",
         "class": "250",
         "raceTeam": "Red Bull KTM Factory Racing",
         "manufacturer": "KTM",
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740455195,
+    "kaiserFantasyAthletes": 1795740476203,
     "kaiserFantasyTeams": 1795740455195,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740458808
+  "savedAt": 1795740476634
 }
