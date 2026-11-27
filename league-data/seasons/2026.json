@@ -1166,10 +1166,10 @@
       {
         "id": "40976fc8-4029-404d-9986-d02a08a994fe",
         "name": "Dilan Schwartz",
-        "number": "37",
+        "number": "42",
         "class": "250",
-        "raceTeam": "Toyota of Redlands BarX Husqvarna",
-        "manufacturer": "Husqvarna",
+        "raceTeam": "Toyota of Redlands BarX Yamaha",
+        "manufacturer": "Yamaha",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -23082,10 +23082,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795740524584,
+    "kaiserFantasyAthletes": 1795740578061,
     "kaiserFantasyTeams": 1795740524584,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795480714253
   },
-  "savedAt": 1795740528392
+  "savedAt": 1795740578560
 }
