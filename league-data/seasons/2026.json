@@ -2979,24 +2979,6 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "6493eaf7-22d0-47a3-8765-7b66d2265507",
-        "name": "Luke Clout Sydney",
-        "number": "101",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Partzilla Blaster PRMX Racing",
-        "manufacturer": "Kawasaki",
-        "hometown": "Australia",
-        "nationality": "AU",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "ab91a561-b29a-4329-9f93-c77188399d07",
         "name": "Luke Neese",
         "number": "95",
@@ -27430,10 +27412,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795838488039,
+    "kaiserFantasyAthletes": 1795838641016,
     "kaiserFantasyTeams": 1795838488040,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795838493029
+  "savedAt": 1795838641625
 }
