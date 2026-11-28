@@ -2901,23 +2901,6 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
-      },
-      {
-        "id": "5145d813-f058-4c54-8bc5-0e37ed9968fd",
-        "name": "Kyle Peters Mooresville, NC",
-        "number": "148",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Peters Racing",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -27263,10 +27246,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836670277,
+    "kaiserFantasyAthletes": 1795836687918,
     "kaiserFantasyTeams": 1795836670278,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836674768
+  "savedAt": 1795836688565
 }
