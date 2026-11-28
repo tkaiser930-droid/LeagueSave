@@ -2886,23 +2886,6 @@
         "seriesArchived": false
       },
       {
-        "id": "1778e1d5-a344-4410-bcdb-177eea2ff3c9",
-        "name": "Drew Adams Chattanooga, TN",
-        "number": "35",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Monster Energy Pro Circuit Kawasaki",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "b7a18150-8d18-4541-ac96-1f891348c2b1",
         "name": "Coty Schock Dover, DE",
         "number": "22",
@@ -27433,10 +27416,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836166991,
+    "kaiserFantasyAthletes": 1795836569101,
     "kaiserFantasyTeams": 1795836166991,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836172483
+  "savedAt": 1795836569759
 }
