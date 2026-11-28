@@ -1703,7 +1703,7 @@
       {
         "id": "709bc391-ec6a-406f-9a38-a68e2ff885ed",
         "name": "Brodie Connolly",
-        "number": "82",
+        "number": "144",
         "class": "250",
         "raceTeam": "Quadlock Honda",
         "manufacturer": "Honda",
@@ -1715,7 +1715,8 @@
         "primarySeries": "250",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {}
       },
       {
         "id": "2ade5bae-e74d-4f82-875f-e4e2d8598e3b",
@@ -27429,10 +27430,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795838418467,
+    "kaiserFantasyAthletes": 1795838488039,
     "kaiserFantasyTeams": 1795838418468,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795838426883
+  "savedAt": 1795838488632
 }
