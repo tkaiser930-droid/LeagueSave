@@ -3060,24 +3060,6 @@
         "seriesArchived": false
       },
       {
-        "id": "6c3d5608-0172-4b32-bf5a-46ee386f6f6d",
-        "name": "Caden Dudney Athens TX",
-        "number": "82",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Monster Energy Yamaha Star Racing",
-        "manufacturer": "Yamaha",
-        "hometown": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "175c6bc0-6b39-44e5-831b-bb59b6ef6b60",
         "name": "Luke Clout",
         "number": "101",
@@ -27457,10 +27439,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839015358,
+    "kaiserFantasyAthletes": 1795839053251,
     "kaiserFantasyTeams": 1795839015359,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795839019784
+  "savedAt": 1795839053865
 }
