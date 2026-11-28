@@ -3002,25 +3002,6 @@
         "seriesArchived": false
       },
       {
-        "id": "6d966009-212b-4538-a138-3f6e2652e1ff",
-        "name": "John Short Pilot",
-        "number": "90",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Short Racing",
-        "manufacturer": "Honda",
-        "hometown": "Point, TX",
-        "nationality": "US",
-        "nationalityRegion": "US-TX",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "587ff539-0c4f-4f3c-85b1-233a4043c13f",
         "name": "Bryton Carroll",
         "number": "483",
@@ -27421,10 +27402,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795838938857,
+    "kaiserFantasyAthletes": 1795838950217,
     "kaiserFantasyTeams": 1795838641017,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795838938956
+  "savedAt": 1795838950883
 }
