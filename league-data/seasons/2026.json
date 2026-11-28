@@ -2903,14 +2903,14 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "e59a73d1-f9d0-4c3d-8802-4463fabc5b70",
-        "name": "Bryton Carroll Vineland, NJ",
-        "number": "483",
+        "id": "5145d813-f058-4c54-8bc5-0e37ed9968fd",
+        "name": "Kyle Peters Mooresville, NC",
+        "number": "148",
         "primarySeries": "250",
         "class": "250",
         "secondarySeries": [],
         "secondaryNumbers": {},
-        "raceTeam": "Life of a Privateer",
+        "raceTeam": "Peters Racing",
         "manufacturer": "",
         "nationality": "",
         "nationalityRegion": "",
@@ -27263,10 +27263,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836614005,
+    "kaiserFantasyAthletes": 1795836670277,
     "kaiserFantasyTeams": 1795836614006,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836636189
+  "savedAt": 1795836670888
 }
