@@ -26086,7 +26086,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 27,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "1b35478a-3a2e-4be7-aadc-456e50f405f3",
@@ -26118,7 +26118,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 22,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "77feb1a3-6407-47e0-b95a-e229329df5b4",
@@ -26150,7 +26150,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 20,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "7b4af1f8-dc0a-416c-bf8c-b21b3e0bd58e",
@@ -26185,21 +26185,21 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 22,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
-        "id": "bd3b84b1-36fd-4343-a86e-7a33d4adeb93",
+        "id": "b0984826-a02e-45d1-b8d8-b44fd9b0c591",
         "resultGroupId": "fc008690-e827-4ee7-9274-fea46f4f9513",
         "teamKey": "",
         "teamName": "Unrostered / Free Agent",
-        "riderId": "6cbed645-75b2-4980-ac15-bd1082c2f10e",
-        "riderName": "Cole Davies Waitoki",
+        "riderId": "92e40871-94d4-45bb-abb6-0bb7ca967951",
+        "riderName": "Cole Davies",
         "riderClass": "250",
         "riderNumber": "37",
         "manufacturer": "Yamaha",
         "riderRaceTeam": "Monster Energy Star Racing Yamaha",
         "nationality": "NZ",
-        "nationalityRegion": "",
+        "nationalityRegion": "NZ-AUK",
         "riderSecondarySeries": [],
         "series": "SMX",
         "division": "250",
@@ -26219,7 +26219,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 19,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "6755c6b3-3c17-4fe9-83e3-c6b6fa9bb6ff",
@@ -26251,7 +26251,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 15,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "1df51df6-005f-4f58-b8c4-77e4fc3b1e68",
@@ -26283,7 +26283,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 14,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "6a0b418f-62bb-44f5-9576-ed44ff169dd6",
@@ -26315,7 +26315,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 13,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "0df0f6e0-3ff1-4a85-9bc9-afb833316313",
@@ -26347,7 +26347,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 12,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "9a0a9678-493e-4457-8a18-f53c7bf9325c",
@@ -26379,7 +26379,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 11,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "fe9729b5-f506-41ea-bdfd-b1b76de5da2c",
@@ -26411,7 +26411,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 10,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "691af66f-85e1-4e7c-aa18-11e0e5bf4d0a",
@@ -26443,7 +26443,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 9,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "4d7b7186-c008-4230-93a1-9121ce504833",
@@ -26475,7 +26475,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 8,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "b54e9103-0347-4bdb-a727-1c258d583757",
@@ -26507,7 +26507,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 7,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "a1a89978-f96a-4c54-8182-074f5da8d078",
@@ -26539,7 +26539,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 6,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "b6b7dcf2-23f7-4b10-966d-2802437efd6f",
@@ -26571,7 +26571,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 5,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "4be2347f-5222-43df-b113-bbb846113e25",
@@ -26603,7 +26603,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 4,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "a8b4bcb7-8459-4914-96d6-f432d212f795",
@@ -26635,7 +26635,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 3,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "565a0b24-3137-4914-8bad-e81600e02814",
@@ -26667,7 +26667,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 2,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       },
       {
         "id": "b617e7cf-b339-47cc-a288-748058255013",
@@ -26699,7 +26699,7 @@
         "eventDate": "2026-02-21",
         "round": 7,
         "points": 1,
-        "recordedAt": "2026-11-28T04:12:49.336Z"
+        "recordedAt": "2026-11-28T04:17:04.072Z"
       }
     ],
     "kaiserFantasyTrades": [],
@@ -28134,7 +28134,7 @@
     "kaiserFantasyAthletes": 1795839407156,
     "kaiserFantasyTeams": 1795839320896,
     "kaiserFantasySchedule": 1795740253153,
-    "kaiserFantasyScores": 1795839169337
+    "kaiserFantasyScores": 1795839424073
   },
-  "savedAt": 1795839407515
+  "savedAt": 1795839424877
 }
