@@ -1300,7 +1300,7 @@
       {
         "id": "4f350f39-4077-4f38-b580-057931ad66d8",
         "name": "Nick Romano",
-        "number": "44",
+        "number": "141",
         "class": "250",
         "raceTeam": "Monster Energy Pro Circuit Kawasaki",
         "manufacturer": "Kawasaki",
@@ -1312,7 +1312,8 @@
         "primarySeries": "250",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {}
       },
       {
         "id": "158e0050-21db-498c-b23b-4c430518d293",
@@ -29441,10 +29442,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839613904,
+    "kaiserFantasyAthletes": 1795839822266,
     "kaiserFantasyTeams": 1795839320896,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839744967
   },
-  "savedAt": 1795839746012
+  "savedAt": 1795839822939
 }
