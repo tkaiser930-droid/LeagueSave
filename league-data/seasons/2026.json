@@ -3139,6 +3139,23 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
+      },
+      {
+        "id": "300f7e31-6e57-4931-837b-c3638f405b11",
+        "name": "Leum Oehlhof",
+        "number": "832",
+        "class": "250",
+        "primarySeries": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "",
+        "manufacturer": "Kawasaki",
+        "nationality": "US",
+        "nationalityRegion": "US-CA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -28775,10 +28792,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839407156,
+    "kaiserFantasyAthletes": 1795839613904,
     "kaiserFantasyTeams": 1795839320896,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839492669
   },
-  "savedAt": 1795839493569
+  "savedAt": 1795839614485
 }
