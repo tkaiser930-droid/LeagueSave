@@ -3022,23 +3022,6 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "371fa843-fc16-44e7-b978-02356bfc62e2",
-        "name": "Jalek Swoll Senoia, GA",
-        "number": "56",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Triumph Factory Racing",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "033ae44c-d728-4434-b888-86d99780baca",
         "name": "Marshal Weltin Ubly, MI",
         "number": "65",
@@ -27399,10 +27382,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836576028,
+    "kaiserFantasyAthletes": 1795836580283,
     "kaiserFantasyTeams": 1795836576028,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836582541
+  "savedAt": 1795836585742
 }
