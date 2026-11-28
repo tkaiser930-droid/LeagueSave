@@ -3101,24 +3101,6 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "e8663be3-836e-4b5c-bbdb-611edeb11913",
-        "name": "Caden Dudney Athens TX",
-        "number": "82",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Monster Energy Yamaha Star Racing",
-        "manufacturer": "Yamaha",
-        "hometown": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "94570129-29db-40da-b347-886ac44461ce",
         "name": "Izaih Clark Fort",
         "number": "91",
@@ -28181,10 +28163,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839212481,
+    "kaiserFantasyAthletes": 1795839224846,
     "kaiserFantasyTeams": 1795839212482,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839169337
   },
-  "savedAt": 1795839217120
+  "savedAt": 1795839225499
 }
