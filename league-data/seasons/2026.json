@@ -3102,7 +3102,7 @@
       },
       {
         "id": "94570129-29db-40da-b347-886ac44461ce",
-        "name": "Izaih Clark Fort",
+        "name": "Izaih Clark",
         "number": "91",
         "primarySeries": "250",
         "class": "250",
@@ -28145,10 +28145,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839241200,
+    "kaiserFantasyAthletes": 1795839250531,
     "kaiserFantasyTeams": 1795839241201,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839169337
   },
-  "savedAt": 1795839245996
+  "savedAt": 1795839251156
 }
