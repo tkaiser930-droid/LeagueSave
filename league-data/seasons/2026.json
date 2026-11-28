@@ -2884,23 +2884,6 @@
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false,
         "seriesArchived": false
-      },
-      {
-        "id": "b7a18150-8d18-4541-ac96-1f891348c2b1",
-        "name": "Coty Schock Dover, DE",
-        "number": "22",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "ClubMX Yamaha",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -27246,10 +27229,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836687918,
+    "kaiserFantasyAthletes": 1795836695879,
     "kaiserFantasyTeams": 1795836687919,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836692371
+  "savedAt": 1795836696574
 }
