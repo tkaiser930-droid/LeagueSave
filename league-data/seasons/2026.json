@@ -1084,7 +1084,7 @@
         "reigningTripleCrownChampion": false,
         "seriesArchived": false,
         "secondaryNumbers": {},
-        "hometown": ""
+        "hometown": "Japan"
       },
       {
         "id": "95be5695-0a76-4ae4-8893-c64893c68fde",
@@ -1653,10 +1653,10 @@
       {
         "id": "a0138408-5637-4b6a-b0ee-f88b96d8aa6d",
         "name": "Gavin Towers",
-        "number": "68",
+        "number": "73",
         "class": "250",
-        "raceTeam": "Rokit Partzilla PRMX Yamaha",
-        "manufacturer": "Yamaha",
+        "raceTeam": "Phoenix Racing Honda",
+        "manufacturer": "Honda",
         "nationality": "US",
         "pointsLeader": false,
         "reigningSMXChampion": false,
@@ -1665,7 +1665,9 @@
         "primarySeries": "250",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {},
+        "hometown": "Pittsburgh, PA"
       },
       {
         "id": "91b0abec-522c-4cb9-94b6-6bdf19932eff",
@@ -2138,10 +2140,10 @@
       {
         "id": "759347ee-1c19-4f83-8e3e-6fb596a127ee",
         "name": "Evan Ferry",
-        "number": "715",
+        "number": "751",
         "class": "250",
-        "raceTeam": "Rokit Partzilla PRMX Yamaha",
-        "manufacturer": "Yamaha",
+        "raceTeam": "Phoenix Honda Racing",
+        "manufacturer": "Honda",
         "nationality": "US",
         "nationalityRegion": "US-FL",
         "pointsLeader": false,
@@ -2150,7 +2152,9 @@
         "primarySeries": "250",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {},
+        "hometown": "Evan Ferry Dade City FL"
       },
       {
         "id": "8c33088b-5304-4388-a5ef-c0a93525011a",
@@ -3081,6 +3085,96 @@
       {
         "id": "6815d23e-81e8-4754-ab47-5a2757f7a8f3",
         "name": "John Short",
+        "number": "90",
+        "primarySeries": "250",
+        "class": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "Short Racing",
+        "manufacturer": "Honda",
+        "hometown": "Point, TX",
+        "nationality": "US",
+        "nationalityRegion": "US-TX",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
+      },
+      {
+        "id": "e8663be3-836e-4b5c-bbdb-611edeb11913",
+        "name": "Caden Dudney Athens TX",
+        "number": "82",
+        "primarySeries": "250",
+        "class": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "Monster Energy Yamaha Star Racing",
+        "manufacturer": "Yamaha",
+        "hometown": "",
+        "nationality": "",
+        "nationalityRegion": "",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
+      },
+      {
+        "id": "94570129-29db-40da-b347-886ac44461ce",
+        "name": "Izaih Clark Fort",
+        "number": "91",
+        "primarySeries": "250",
+        "class": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "Storm Lake Honda Buddy Brooks Racing",
+        "manufacturer": "Honda",
+        "hometown": "Dodge, IA",
+        "nationality": "US",
+        "nationalityRegion": "US-IA",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
+      },
+      {
+        "id": "d7d7942d-4e91-4064-8ef5-cdc83b9f1164",
+        "name": "Valentin Guillod Motier",
+        "number": "39",
+        "primarySeries": "250",
+        "class": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "Gizmo Racing Yamaha",
+        "manufacturer": "Yamaha",
+        "hometown": "Switzerland",
+        "nationality": "CH",
+        "nationalityRegion": "",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
+      },
+      {
+        "id": "c6e0c777-df4e-4a75-bc9c-2c5275d9ba7e",
+        "name": "Landon Hartz",
+        "number": "492",
+        "primarySeries": "250",
+        "class": "250",
+        "secondarySeries": [],
+        "secondaryNumbers": {},
+        "raceTeam": "Ebr Performance",
+        "manufacturer": "Yamaha",
+        "hometown": "Wilsonville, AL",
+        "nationality": "US",
+        "nationalityRegion": "US-AL",
+        "pointsLeader": false,
+        "reigningSMXChampion": false,
+        "reigningTripleCrownChampion": false,
+        "reigningWorldChampion": false
+      },
+      {
+        "id": "9fa1e842-c0bb-42a3-b161-c7307e54f005",
+        "name": "John Short Pilot",
         "number": "90",
         "primarySeries": "250",
         "class": "250",
@@ -28087,10 +28181,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839144575,
+    "kaiserFantasyAthletes": 1795839212481,
     "kaiserFantasyTeams": 1795839144575,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839169337
   },
-  "savedAt": 1795839170257
+  "savedAt": 1795839213141
 }
