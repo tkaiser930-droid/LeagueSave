@@ -3061,7 +3061,8 @@
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
+        "reigningWorldChampion": false,
+        "seriesArchived": false
       },
       {
         "id": "6815d23e-81e8-4754-ab47-5a2757f7a8f3",
@@ -3079,7 +3080,8 @@
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
+        "reigningWorldChampion": false,
+        "seriesArchived": false
       },
       {
         "id": "94570129-29db-40da-b347-886ac44461ce",
@@ -3097,7 +3099,8 @@
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
+        "reigningWorldChampion": false,
+        "seriesArchived": false
       },
       {
         "id": "d7d7942d-4e91-4064-8ef5-cdc83b9f1164",
@@ -3115,7 +3118,8 @@
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
+        "reigningWorldChampion": false,
+        "seriesArchived": false
       },
       {
         "id": "c6e0c777-df4e-4a75-bc9c-2c5275d9ba7e",
@@ -3133,7 +3137,8 @@
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
+        "reigningWorldChampion": false,
+        "seriesArchived": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -28126,10 +28131,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839320896,
+    "kaiserFantasyAthletes": 1795839407156,
     "kaiserFantasyTeams": 1795839320896,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839169337
   },
-  "savedAt": 1795839324681
+  "savedAt": 1795839407515
 }
