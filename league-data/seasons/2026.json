@@ -3120,7 +3120,7 @@
       },
       {
         "id": "d7d7942d-4e91-4064-8ef5-cdc83b9f1164",
-        "name": "Valentin Guillod Motier",
+        "name": "Valentin Guillod",
         "number": "39",
         "primarySeries": "250",
         "class": "250",
@@ -3130,7 +3130,7 @@
         "manufacturer": "Yamaha",
         "hometown": "Switzerland",
         "nationality": "CH",
-        "nationalityRegion": "",
+        "nationalityRegion": "CH-NE",
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
@@ -28145,10 +28145,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839250531,
+    "kaiserFantasyAthletes": 1795839306135,
     "kaiserFantasyTeams": 1795839250531,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839169337
   },
-  "savedAt": 1795839254773
+  "savedAt": 1795839306747
 }
