@@ -3071,7 +3071,7 @@
         "manufacturer": "Kawasaki",
         "hometown": "Australia",
         "nationality": "AU",
-        "nationalityRegion": "",
+        "nationalityRegion": "AU-NSW",
         "pointsLeader": false,
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
@@ -27439,10 +27439,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839069270,
+    "kaiserFantasyAthletes": 1795839090053,
     "kaiserFantasyTeams": 1795839069271,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795839073017
+  "savedAt": 1795839090659
 }
