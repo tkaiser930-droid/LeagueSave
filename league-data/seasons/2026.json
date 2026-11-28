@@ -2954,23 +2954,6 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "273d040c-118a-4c12-97c0-0a8c26a01dd6",
-        "name": "Luke Neese Concord, NC",
-        "number": "95",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Storm Lake Honda Buddy Brooks Racing",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "e59a73d1-f9d0-4c3d-8802-4463fabc5b70",
         "name": "Bryton Carroll Vineland, NJ",
         "number": "483",
@@ -2979,23 +2962,6 @@
         "secondarySeries": [],
         "secondaryNumbers": {},
         "raceTeam": "Life of a Privateer",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
-        "id": "f2956365-d8d1-46ef-9718-3bf608228390",
-        "name": "Bryce Shelly Telford, PA",
-        "number": "80",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Gizmo Mods Yamaha",
         "manufacturer": "",
         "nationality": "",
         "nationalityRegion": "",
@@ -27348,10 +27314,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836594473,
+    "kaiserFantasyAthletes": 1795836601693,
     "kaiserFantasyTeams": 1795836589983,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836595221
+  "savedAt": 1795836602322
 }
