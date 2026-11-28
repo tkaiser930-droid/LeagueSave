@@ -2954,23 +2954,6 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "5d000ebc-b7be-423f-8d0f-4729aafc432e",
-        "name": "Henry Miller Rochester, MN",
-        "number": "53",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "MX6 Racing",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "af37d2b4-8c8e-4950-a999-2dc5e4b927c5",
         "name": "Luke Clout Sydney, Australia",
         "number": "101",
@@ -27416,10 +27399,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836569101,
+    "kaiserFantasyAthletes": 1795836576028,
     "kaiserFantasyTeams": 1795836569102,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836573290
+  "savedAt": 1795836576711
 }
