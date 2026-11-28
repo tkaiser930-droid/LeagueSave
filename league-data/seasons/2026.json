@@ -3153,24 +3153,6 @@
         "reigningSMXChampion": false,
         "reigningTripleCrownChampion": false,
         "reigningWorldChampion": false
-      },
-      {
-        "id": "9fa1e842-c0bb-42a3-b161-c7307e54f005",
-        "name": "John Short Pilot",
-        "number": "90",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Short Racing",
-        "manufacturer": "Honda",
-        "hometown": "Point, TX",
-        "nationality": "US",
-        "nationalityRegion": "US-TX",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
       }
     ],
     "kaiserFantasyTeams": [],
@@ -28163,10 +28145,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839224846,
+    "kaiserFantasyAthletes": 1795839241200,
     "kaiserFantasyTeams": 1795839224846,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839169337
   },
-  "savedAt": 1795839229491
+  "savedAt": 1795839241836
 }
