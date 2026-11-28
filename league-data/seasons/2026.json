@@ -2913,25 +2913,6 @@
         "seriesArchived": false
       },
       {
-        "id": "6cbed645-75b2-4980-ac15-bd1082c2f10e",
-        "name": "Cole Davies Waitoki",
-        "number": "37",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Monster Energy Star Racing Yamaha",
-        "manufacturer": "Yamaha",
-        "hometown": "New Zealand",
-        "nationality": "NZ",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false,
-        "seriesArchived": false
-      },
-      {
         "id": "9848b4f2-d67f-4b2f-9f5d-c552f98504ac",
         "name": "Kyle Peters",
         "number": "148",
@@ -28145,10 +28126,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839306135,
+    "kaiserFantasyAthletes": 1795839320896,
     "kaiserFantasyTeams": 1795839306135,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795839169337
   },
-  "savedAt": 1795839310592
+  "savedAt": 1795839321564
 }
