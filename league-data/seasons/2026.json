@@ -2937,23 +2937,6 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "9e6d8093-ef43-466e-8796-7b493e9936f0",
-        "name": "Derek Kelley Boise, ID",
-        "number": "77",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Mx6 Racing",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "af37d2b4-8c8e-4950-a999-2dc5e4b927c5",
         "name": "Luke Clout Sydney, Australia",
         "number": "101",
@@ -3013,23 +2996,6 @@
         "secondarySeries": [],
         "secondaryNumbers": {},
         "raceTeam": "Gizmo Mods Yamaha",
-        "manufacturer": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
-        "id": "033ae44c-d728-4434-b888-86d99780baca",
-        "name": "Marshal Weltin Ubly, MI",
-        "number": "65",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "MX6 Racing",
         "manufacturer": "",
         "nationality": "",
         "nationalityRegion": "",
@@ -27382,10 +27348,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795836580283,
+    "kaiserFantasyAthletes": 1795836594473,
     "kaiserFantasyTeams": 1795836580284,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795836590647
+  "savedAt": 1795836595087
 }
