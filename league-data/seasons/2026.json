@@ -3079,7 +3079,7 @@
       },
       {
         "id": "6815d23e-81e8-4754-ab47-5a2757f7a8f3",
-        "name": "John Short Pilot",
+        "name": "John Short",
         "number": "90",
         "primarySeries": "250",
         "class": "250",
@@ -27439,10 +27439,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839053251,
+    "kaiserFantasyAthletes": 1795839069270,
     "kaiserFantasyTeams": 1795839053252,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795839057404
+  "savedAt": 1795839069914
 }
