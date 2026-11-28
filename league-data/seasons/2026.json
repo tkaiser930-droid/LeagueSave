@@ -1792,7 +1792,7 @@
       {
         "id": "9275d2bd-ae2d-4d3d-8efb-f2e5e28d0c9d",
         "name": "Enzo Temmerman",
-        "number": "90",
+        "number": "92",
         "class": "250",
         "raceTeam": "Mx6 Kawasaki",
         "manufacturer": "Kawasaki",
@@ -1804,7 +1804,8 @@
         "primarySeries": "250",
         "secondarySeries": [],
         "reigningTripleCrownChampion": false,
-        "seriesArchived": false
+        "seriesArchived": false,
+        "secondaryNumbers": {}
       },
       {
         "id": "256954de-3cf3-407d-bd80-95549fb3f488",
@@ -27439,10 +27440,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795839090053,
+    "kaiserFantasyAthletes": 1795839144575,
     "kaiserFantasyTeams": 1795839090054,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795839094525
+  "savedAt": 1795839145186
 }
