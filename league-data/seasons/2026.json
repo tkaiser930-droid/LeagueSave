@@ -2960,24 +2960,6 @@
         "reigningWorldChampion": false
       },
       {
-        "id": "feeb56ee-ad69-49e0-a71c-8813d3b136fa",
-        "name": "Caden Dudney Athens TX",
-        "number": "82",
-        "primarySeries": "250",
-        "class": "250",
-        "secondarySeries": [],
-        "secondaryNumbers": {},
-        "raceTeam": "Monster Energy Yamaha Star Racing",
-        "manufacturer": "Yamaha",
-        "hometown": "",
-        "nationality": "",
-        "nationalityRegion": "",
-        "pointsLeader": false,
-        "reigningSMXChampion": false,
-        "reigningTripleCrownChampion": false,
-        "reigningWorldChampion": false
-      },
-      {
         "id": "32b06292-c3a7-4773-bd4b-ffbfe6849657",
         "name": "Jeremy Hand",
         "number": "87",
@@ -27465,10 +27447,10 @@
   },
   "keyUpdatedAt": {
     "kaiserFantasyDraftSettings": 1795399465173,
-    "kaiserFantasyAthletes": 1795838353934,
+    "kaiserFantasyAthletes": 1795838410343,
     "kaiserFantasyTeams": 1795838353934,
     "kaiserFantasySchedule": 1795740253153,
     "kaiserFantasyScores": 1795747771078
   },
-  "savedAt": 1795838358676
+  "savedAt": 1795838410991
 }
